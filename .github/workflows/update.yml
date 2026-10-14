@@ -1,0 +1,88 @@
+name: Update data & deploy
+
+on:
+  # Weekly check for a new chapter (Mondays 06:00 UTC).
+  schedule:
+    - cron: "0 6 * * 1"
+  # Allow manual runs from the Actions tab.
+  workflow_dispatch:
+  # Rebuild/redeploy on pushes to main.
+  push:
+    branches: [main]
+
+# Required for GitHub Pages deployment.
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      # Incremental scrape: adds any newly released chapter(s).
+      # If no new chapter exists, chapters.json is unchanged and those
+      # weeks simply render as blank/hiatus on the chart.
+      - name: Scrape new chapters
+        run: npm run scrape
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- public/data/chapters.json; then
+            git add public/data/chapters.json
+            git commit -m "data: update chapters ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "No chapter changes."
+          fi
+
+  build-deploy:
+    needs: scrape
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Make sure we build with the data the scrape job just committed.
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      # Set base path for a project page (https://user.github.io/<repo>/).
+      # If you deploy to a user/org page or custom domain, set VITE_BASE to "/".
+      - name: Build
+        run: npm run build
+        env:
+          VITE_BASE: "/${{ github.event.repository.name }}/"
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

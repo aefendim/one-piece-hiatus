@@ -1,0 +1,8381 @@
+{
+  "meta": {
+    "lastUpdated": "2026-10-13",
+    "latestChapter": 1196,
+    "totalChapters": 1196
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Romance Dawn",
+      "volume": 1,
+      "releaseDate": "1997-07-19",
+      "wsjIssue": "1997 Issue 34"
+    },
+    {
+      "number": 2,
+      "title": "They Call Him \"Straw Hat Luffy\"",
+      "volume": 1,
+      "releaseDate": "1997-07-28",
+      "wsjIssue": "1997 Issue 35"
+    },
+    {
+      "number": 3,
+      "title": "Enter Zolo–Pirate Hunter",
+      "volume": 1,
+      "releaseDate": "1997-08-04",
+      "wsjIssue": "1997 Issue 36"
+    },
+    {
+      "number": 4,
+      "title": "The Great Captain Morgan",
+      "volume": 1,
+      "releaseDate": "1997-08-11",
+      "wsjIssue": "1997 Issue 37-38"
+    },
+    {
+      "number": 5,
+      "title": "The King of the Pirates and the Master Swordsman",
+      "volume": 1,
+      "releaseDate": "1997-08-25",
+      "wsjIssue": "1997 Issue 39"
+    },
+    {
+      "number": 6,
+      "title": "Number One",
+      "volume": 1,
+      "releaseDate": "1997-09-01",
+      "wsjIssue": "1997 Issue 40"
+    },
+    {
+      "number": 7,
+      "title": "Friends",
+      "volume": 1,
+      "releaseDate": "1997-09-08",
+      "wsjIssue": "1997 Issue 41"
+    },
+    {
+      "number": 8,
+      "title": "Nami",
+      "volume": 1,
+      "releaseDate": "1997-09-15",
+      "wsjIssue": "1997 Issue 42"
+    },
+    {
+      "number": 9,
+      "title": "Femme Fatale",
+      "volume": 2,
+      "releaseDate": "1997-09-22",
+      "wsjIssue": "1997 Issue 43"
+    },
+    {
+      "number": 10,
+      "title": "Incident at the Tavern",
+      "volume": 2,
+      "releaseDate": "1997-09-29",
+      "wsjIssue": "1997 Issue 44"
+    },
+    {
+      "number": 11,
+      "title": "Flight",
+      "volume": 2,
+      "releaseDate": "1997-10-06",
+      "wsjIssue": "1997 Issue 45"
+    },
+    {
+      "number": 12,
+      "title": "Dog",
+      "volume": 2,
+      "releaseDate": "1997-10-13",
+      "wsjIssue": "1997 Issue 46"
+    },
+    {
+      "number": 13,
+      "title": "Treasure",
+      "volume": 2,
+      "releaseDate": "1997-10-20",
+      "wsjIssue": "1997 Issue 47"
+    },
+    {
+      "number": 14,
+      "title": "Reckless",
+      "volume": 2,
+      "releaseDate": "1997-10-27",
+      "wsjIssue": "1997 Issue 48"
+    },
+    {
+      "number": 15,
+      "title": "Gong",
+      "volume": 2,
+      "releaseDate": "1997-11-03",
+      "wsjIssue": "1997 Issue 49"
+    },
+    {
+      "number": 16,
+      "title": "Versus Buggy's Crew",
+      "volume": 2,
+      "releaseDate": "1997-11-10",
+      "wsjIssue": "1997 Issue 50"
+    },
+    {
+      "number": 17,
+      "title": "High Level, Low Level",
+      "volume": 2,
+      "releaseDate": "1997-11-17",
+      "wsjIssue": "1997 Issue 51"
+    },
+    {
+      "number": 18,
+      "title": "The Pirate Buggy the Clown",
+      "volume": 3,
+      "releaseDate": "1997-11-24",
+      "wsjIssue": "1997 Issue 52"
+    },
+    {
+      "number": 19,
+      "title": "Devil Fruit",
+      "volume": 3,
+      "releaseDate": "1997-12-01",
+      "wsjIssue": "1998 Issue 1"
+    },
+    {
+      "number": 20,
+      "title": "The Way of the Thief",
+      "volume": 3,
+      "releaseDate": "1997-12-08",
+      "wsjIssue": "1998 Issue 2-3"
+    },
+    {
+      "number": 21,
+      "title": "Townies",
+      "volume": 3,
+      "releaseDate": "1997-12-22",
+      "wsjIssue": "1998 Issue 4-5"
+    },
+    {
+      "number": 22,
+      "title": "Strange Creatures",
+      "volume": 3,
+      "releaseDate": "1998-01-05",
+      "wsjIssue": "1998 Issue 6"
+    },
+    {
+      "number": 23,
+      "title": "The Dread Captain Usopp",
+      "volume": 3,
+      "releaseDate": "1998-01-12",
+      "wsjIssue": "1998 Issue 7"
+    },
+    {
+      "number": 24,
+      "title": "The Lie Rejecter",
+      "volume": 3,
+      "releaseDate": "1998-01-19",
+      "wsjIssue": "1998 Issue 8"
+    },
+    {
+      "number": 25,
+      "title": "Lies",
+      "volume": 3,
+      "releaseDate": "1998-01-26",
+      "wsjIssue": "1998 Issue 9"
+    },
+    {
+      "number": 26,
+      "title": "Captain Kuro's Plan",
+      "volume": 3,
+      "releaseDate": "1998-02-02",
+      "wsjIssue": "1998 Issue 10"
+    },
+    {
+      "number": 27,
+      "title": "True Lies",
+      "volume": 4,
+      "releaseDate": "1998-02-09",
+      "wsjIssue": "1998 Issue 11"
+    },
+    {
+      "number": 28,
+      "title": "Crescent Moon",
+      "volume": 4,
+      "releaseDate": "1998-02-16",
+      "wsjIssue": "1998 Issue 12"
+    },
+    {
+      "number": 29,
+      "title": "Uphill Battle",
+      "volume": 4,
+      "releaseDate": "1998-02-23",
+      "wsjIssue": "1998 Issue 13"
+    },
+    {
+      "number": 30,
+      "title": "Backfire",
+      "volume": 4,
+      "releaseDate": "1998-03-02",
+      "wsjIssue": "1998 Issue 14"
+    },
+    {
+      "number": 31,
+      "title": "Truth",
+      "volume": 4,
+      "releaseDate": "1998-03-09",
+      "wsjIssue": "1998 Issue 15"
+    },
+    {
+      "number": 32,
+      "title": "Cruel Fortune",
+      "volume": 4,
+      "releaseDate": "1998-03-16",
+      "wsjIssue": "1998 Issue 16"
+    },
+    {
+      "number": 33,
+      "title": "The Creeping Cat",
+      "volume": 4,
+      "releaseDate": "1998-03-23",
+      "wsjIssue": "1998 Issue 17"
+    },
+    {
+      "number": 34,
+      "title": "A Humble Servant",
+      "volume": 4,
+      "releaseDate": "1998-03-30",
+      "wsjIssue": "1998 Issue 18"
+    },
+    {
+      "number": 35,
+      "title": "The Steep Slope",
+      "volume": 4,
+      "releaseDate": "1998-04-06",
+      "wsjIssue": "1998 Issue 19"
+    },
+    {
+      "number": 36,
+      "title": "After Them!!",
+      "volume": 5,
+      "releaseDate": "1998-04-13",
+      "wsjIssue": "1998 Issue 20"
+    },
+    {
+      "number": 37,
+      "title": "Captain Kuro, of the Thousand Plans",
+      "volume": 5,
+      "releaseDate": "1998-04-20",
+      "wsjIssue": "1998 Issue 21"
+    },
+    {
+      "number": 38,
+      "title": "Pirate Crew",
+      "volume": 5,
+      "releaseDate": "1998-04-27",
+      "wsjIssue": "1998 Issue 22-23"
+    },
+    {
+      "number": 39,
+      "title": "For Whom the Bell Tolls",
+      "volume": 5,
+      "releaseDate": "1998-05-11",
+      "wsjIssue": "1998 Issue 24"
+    },
+    {
+      "number": 40,
+      "title": "Usopp's Pirate Crew",
+      "volume": 5,
+      "releaseDate": "1998-05-18",
+      "wsjIssue": "1998 Issue 25"
+    },
+    {
+      "number": 41,
+      "title": "To the Sea",
+      "volume": 5,
+      "releaseDate": "1998-05-25",
+      "wsjIssue": "1998 Issue 26"
+    },
+    {
+      "number": 42,
+      "title": "Yosaku and Johnny",
+      "volume": 5,
+      "releaseDate": "1998-06-01",
+      "wsjIssue": "1998 Issue 27"
+    },
+    {
+      "number": 43,
+      "title": "Sanji",
+      "volume": 5,
+      "releaseDate": "1998-06-08",
+      "wsjIssue": "1998 Issue 28"
+    },
+    {
+      "number": 44,
+      "title": "Three Tough Cooks",
+      "volume": 5,
+      "releaseDate": "1998-06-15",
+      "wsjIssue": "1998 Issue 29"
+    },
+    {
+      "number": 45,
+      "title": "Before the Storm",
+      "volume": 6,
+      "releaseDate": "1998-06-22",
+      "wsjIssue": "1998 Issue 30"
+    },
+    {
+      "number": 46,
+      "title": "An Uninvited Guest",
+      "volume": 6,
+      "releaseDate": "1998-06-29",
+      "wsjIssue": "1998 Issue 31"
+    },
+    {
+      "number": 47,
+      "title": "The Don's Offer",
+      "volume": 6,
+      "releaseDate": "1998-07-06",
+      "wsjIssue": "1998 Issue 32"
+    },
+    {
+      "number": 48,
+      "title": "Steer Clear",
+      "volume": 6,
+      "releaseDate": "1998-07-13",
+      "wsjIssue": "1998 Issue 33"
+    },
+    {
+      "number": 49,
+      "title": "Storm",
+      "volume": 6,
+      "releaseDate": "1998-07-18",
+      "wsjIssue": "1998 Issue 34"
+    },
+    {
+      "number": 50,
+      "title": "A Parting of Ways",
+      "volume": 6,
+      "releaseDate": "1998-07-27",
+      "wsjIssue": "1998 Issue 35"
+    },
+    {
+      "number": 51,
+      "title": "Zolo Overboard",
+      "volume": 6,
+      "releaseDate": "1998-08-03",
+      "wsjIssue": "1998 Issue 36"
+    },
+    {
+      "number": 52,
+      "title": "The Oath",
+      "volume": 6,
+      "releaseDate": "1998-08-10",
+      "wsjIssue": "1998 Issue 37-38"
+    },
+    {
+      "number": 53,
+      "title": "Mackerel Head",
+      "volume": 6,
+      "releaseDate": "1998-08-24",
+      "wsjIssue": "1998 Issue 39"
+    },
+    {
+      "number": 54,
+      "title": "Pearl",
+      "volume": 7,
+      "releaseDate": "1998-08-31",
+      "wsjIssue": "1998 Issue 40"
+    },
+    {
+      "number": 55,
+      "title": "Jungle Blood",
+      "volume": 7,
+      "releaseDate": "1998-09-07",
+      "wsjIssue": "1998 Issue 41"
+    },
+    {
+      "number": 56,
+      "title": "I Refuse",
+      "volume": 7,
+      "releaseDate": "1998-09-14",
+      "wsjIssue": "1998 Issue 42"
+    },
+    {
+      "number": 57,
+      "title": "If You Have a Dream",
+      "volume": 7,
+      "releaseDate": "1998-09-21",
+      "wsjIssue": "1998 Issue 43"
+    },
+    {
+      "number": 58,
+      "title": "The Crap-Geezer",
+      "volume": 7,
+      "releaseDate": "1998-09-28",
+      "wsjIssue": "1998 Issue 44"
+    },
+    {
+      "number": 59,
+      "title": "Sanji's Debt",
+      "volume": 7,
+      "releaseDate": "1998-10-05",
+      "wsjIssue": "1998 Issue 45"
+    },
+    {
+      "number": 60,
+      "title": "Resolution",
+      "volume": 7,
+      "releaseDate": "1998-10-12",
+      "wsjIssue": "1998 Issue 46"
+    },
+    {
+      "number": 61,
+      "title": "The Demon",
+      "volume": 7,
+      "releaseDate": "1998-10-19",
+      "wsjIssue": "1998 Issue 47"
+    },
+    {
+      "number": 62,
+      "title": "MH5",
+      "volume": 7,
+      "releaseDate": "1998-10-26",
+      "wsjIssue": "1998 Issue 48"
+    },
+    {
+      "number": 63,
+      "title": "I Won't Die",
+      "volume": 8,
+      "releaseDate": "1998-11-02",
+      "wsjIssue": "1998 Issue 49"
+    },
+    {
+      "number": 64,
+      "title": "The Mighty Battle Spear",
+      "volume": 8,
+      "releaseDate": "1998-11-09",
+      "wsjIssue": "1998 Issue 50"
+    },
+    {
+      "number": 65,
+      "title": "Prepared",
+      "volume": 8,
+      "releaseDate": "1998-11-16",
+      "wsjIssue": "1998 Issue 51"
+    },
+    {
+      "number": 66,
+      "title": "The Chewed-up Spear",
+      "volume": 8,
+      "releaseDate": "1998-11-21",
+      "wsjIssue": "1998 Issue 52"
+    },
+    {
+      "number": 67,
+      "title": "The Soup",
+      "volume": 8,
+      "releaseDate": "1998-11-30",
+      "wsjIssue": "1999 Issue 1"
+    },
+    {
+      "number": 68,
+      "title": "The Fourth Person",
+      "volume": 8,
+      "releaseDate": "1998-12-07",
+      "wsjIssue": "1999 Issue 2-3"
+    },
+    {
+      "number": 69,
+      "title": "Arlong Park",
+      "volume": 8,
+      "releaseDate": "1998-12-19",
+      "wsjIssue": "1999 Issue 4-5"
+    },
+    {
+      "number": 70,
+      "title": "The Great Adventure of Usopp the Man",
+      "volume": 8,
+      "releaseDate": "1999-01-04",
+      "wsjIssue": "1999 Issue 6"
+    },
+    {
+      "number": 71,
+      "title": "Lords of All Creation",
+      "volume": 8,
+      "releaseDate": "1999-01-11",
+      "wsjIssue": "1999 Issue 7"
+    },
+    {
+      "number": 72,
+      "title": "Proper Living",
+      "volume": 9,
+      "releaseDate": "1999-01-18",
+      "wsjIssue": "1999 Issue 8"
+    },
+    {
+      "number": 73,
+      "title": "Monsters of the Grand Line",
+      "volume": 9,
+      "releaseDate": "1999-01-25",
+      "wsjIssue": "1999 Issue 9"
+    },
+    {
+      "number": 74,
+      "title": "Business",
+      "volume": 9,
+      "releaseDate": "1999-02-01",
+      "wsjIssue": "1999 Issue 10"
+    },
+    {
+      "number": 75,
+      "title": "Of Maps and Fish-Men",
+      "volume": 9,
+      "releaseDate": "1999-02-08",
+      "wsjIssue": "1999 Issue 11"
+    },
+    {
+      "number": 76,
+      "title": "Sleep",
+      "volume": 9,
+      "releaseDate": "1999-02-15",
+      "wsjIssue": "1999 Issue 12"
+    },
+    {
+      "number": 77,
+      "title": "The First Step Toward a Dream",
+      "volume": 9,
+      "releaseDate": "1999-02-22",
+      "wsjIssue": "1999 Issue 13"
+    },
+    {
+      "number": 78,
+      "title": "\"Belle-Mère\"",
+      "volume": 9,
+      "releaseDate": "1999-03-01",
+      "wsjIssue": "1999 Issue 14"
+    },
+    {
+      "number": 79,
+      "title": "To Live",
+      "volume": 9,
+      "releaseDate": "1999-03-08",
+      "wsjIssue": "1999 Issue 15"
+    },
+    {
+      "number": 80,
+      "title": "A Thief Is a Thief",
+      "volume": 9,
+      "releaseDate": "1999-03-15",
+      "wsjIssue": "1999 Issue 16"
+    },
+    {
+      "number": 81,
+      "title": "Tears",
+      "volume": 9,
+      "releaseDate": "1999-03-20",
+      "wsjIssue": "1999 Issue 17"
+    },
+    {
+      "number": 82,
+      "title": "OK, Let's STAND UP!",
+      "volume": 10,
+      "releaseDate": "1999-03-29",
+      "wsjIssue": "1999 Issue 18"
+    },
+    {
+      "number": 83,
+      "title": "Luffy in Black",
+      "volume": 10,
+      "releaseDate": "1999-04-05",
+      "wsjIssue": "1999 Issue 19"
+    },
+    {
+      "number": 84,
+      "title": "Zombie",
+      "volume": 10,
+      "releaseDate": "1999-04-12",
+      "wsjIssue": "1999 Issue 20"
+    },
+    {
+      "number": 85,
+      "title": "Three Swords vs. Six",
+      "volume": 10,
+      "releaseDate": "1999-04-19",
+      "wsjIssue": "1999 Issue 21"
+    },
+    {
+      "number": 86,
+      "title": "Heroism vs. Fish-Man Cruelty",
+      "volume": 10,
+      "releaseDate": "1999-04-26",
+      "wsjIssue": "1999 Issue 22-23"
+    },
+    {
+      "number": 87,
+      "title": "It's All Over!!",
+      "volume": 10,
+      "releaseDate": "1999-05-10",
+      "wsjIssue": "1999 Issue 24"
+    },
+    {
+      "number": 88,
+      "title": "Die!!!",
+      "volume": 10,
+      "releaseDate": "1999-05-17",
+      "wsjIssue": "1999 Issue 25"
+    },
+    {
+      "number": 89,
+      "title": "Trade-off",
+      "volume": 10,
+      "releaseDate": "1999-05-24",
+      "wsjIssue": "1999 Issue 26"
+    },
+    {
+      "number": 90,
+      "title": "What Can You Do?",
+      "volume": 10,
+      "releaseDate": "1999-05-31",
+      "wsjIssue": "1999 Issue 27"
+    },
+    {
+      "number": 91,
+      "title": "Darts",
+      "volume": 11,
+      "releaseDate": "1999-06-07",
+      "wsjIssue": "1999 Issue 28"
+    },
+    {
+      "number": 92,
+      "title": "Happiness",
+      "volume": 11,
+      "releaseDate": "1999-06-14",
+      "wsjIssue": "1999 Issue 29"
+    },
+    {
+      "number": 93,
+      "title": "Going Down",
+      "volume": 11,
+      "releaseDate": "1999-06-21",
+      "wsjIssue": "1999 Issue 30"
+    },
+    {
+      "number": 94,
+      "title": "The Other Villain",
+      "volume": 11,
+      "releaseDate": "1999-06-28",
+      "wsjIssue": "1999 Issue 31"
+    },
+    {
+      "number": 95,
+      "title": "Spin, Pinwheel",
+      "volume": 11,
+      "releaseDate": "1999-07-05",
+      "wsjIssue": "1999 Issue 32"
+    },
+    {
+      "number": 96,
+      "title": "The Meanest Man in the East",
+      "volume": 11,
+      "releaseDate": "1999-07-12",
+      "wsjIssue": "1999 Issue 33"
+    },
+    {
+      "number": 97,
+      "title": "Kitetsu III",
+      "volume": 11,
+      "releaseDate": "1999-07-19",
+      "wsjIssue": "1999 Issue 34"
+    },
+    {
+      "number": 98,
+      "title": "Dark Clouds",
+      "volume": 11,
+      "releaseDate": "1999-07-26",
+      "wsjIssue": "1999 Issue 35"
+    },
+    {
+      "number": 99,
+      "title": "Luffy Died",
+      "volume": 11,
+      "releaseDate": "1999-08-02",
+      "wsjIssue": "1999 Issue 36"
+    },
+    {
+      "number": 100,
+      "title": "The Legend Begins",
+      "volume": 12,
+      "releaseDate": "1999-08-09",
+      "wsjIssue": "1999 Issue 37-38"
+    },
+    {
+      "number": 101,
+      "title": "Reverse Mountain",
+      "volume": 12,
+      "releaseDate": "1999-08-23",
+      "wsjIssue": "1999 Issue 39"
+    },
+    {
+      "number": 102,
+      "title": "And Now, the Grand Line",
+      "volume": 12,
+      "releaseDate": "1999-08-30",
+      "wsjIssue": "1999 Issue 40"
+    },
+    {
+      "number": 103,
+      "title": "The Whale",
+      "volume": 12,
+      "releaseDate": "1999-09-06",
+      "wsjIssue": "1999 Issue 41"
+    },
+    {
+      "number": 104,
+      "title": "Cape Promise",
+      "volume": 12,
+      "releaseDate": "1999-09-13",
+      "wsjIssue": "1999 Issue 42"
+    },
+    {
+      "number": 105,
+      "title": "Log Pose",
+      "volume": 12,
+      "releaseDate": "1999-09-20",
+      "wsjIssue": "1999 Issue 43"
+    },
+    {
+      "number": 106,
+      "title": "The Town of Welcome",
+      "volume": 12,
+      "releaseDate": "1999-09-27",
+      "wsjIssue": "1999 Issue 44"
+    },
+    {
+      "number": 107,
+      "title": "Moonlight and Tombstones",
+      "volume": 12,
+      "releaseDate": "1999-10-04",
+      "wsjIssue": "1999 Issue 45"
+    },
+    {
+      "number": 108,
+      "title": "100 Bounty Hunters",
+      "volume": 12,
+      "releaseDate": "1999-10-09",
+      "wsjIssue": "1999 Issue 46"
+    },
+    {
+      "number": 109,
+      "title": "A Question of Duty",
+      "volume": 13,
+      "releaseDate": "1999-10-18",
+      "wsjIssue": "1999 Issue 47"
+    },
+    {
+      "number": 110,
+      "title": "The Night Isn't Over",
+      "volume": 13,
+      "releaseDate": "1999-10-25",
+      "wsjIssue": "1999 Issue 48"
+    },
+    {
+      "number": 111,
+      "title": "The Secret Criminal Organization",
+      "volume": 13,
+      "releaseDate": "1999-11-01",
+      "wsjIssue": "1999 Issue 49"
+    },
+    {
+      "number": 112,
+      "title": "Luffy vs. Zolo",
+      "volume": 13,
+      "releaseDate": "1999-11-08",
+      "wsjIssue": "1999 Issue 50"
+    },
+    {
+      "number": 113,
+      "title": "It's All Right",
+      "volume": 13,
+      "releaseDate": "1999-11-15",
+      "wsjIssue": "1999 Issue 51"
+    },
+    {
+      "number": 114,
+      "title": "The Course",
+      "volume": 13,
+      "releaseDate": "1999-11-22",
+      "wsjIssue": "1999 Issue 52-53"
+    },
+    {
+      "number": 115,
+      "title": "Little Garden of Adventure",
+      "volume": 13,
+      "releaseDate": "1999-12-06",
+      "wsjIssue": "2000 Issue 1"
+    },
+    {
+      "number": 116,
+      "title": "Big",
+      "volume": 13,
+      "releaseDate": "1999-12-13",
+      "wsjIssue": "2000 Issue 2"
+    },
+    {
+      "number": 117,
+      "title": "Dorry and Broggy",
+      "volume": 13,
+      "releaseDate": "1999-12-20",
+      "wsjIssue": "2000 Issue 3-4"
+    },
+    {
+      "number": 118,
+      "title": "Someone's Out There",
+      "volume": 14,
+      "releaseDate": "2000-01-03",
+      "wsjIssue": "2000 Issue 5-6"
+    },
+    {
+      "number": 119,
+      "title": "Deadly Improvisation",
+      "volume": 14,
+      "releaseDate": "2000-01-17",
+      "wsjIssue": "2000 Issue 7"
+    },
+    {
+      "number": 120,
+      "title": "The Red Ogre Weeps",
+      "volume": 14,
+      "releaseDate": "2000-01-24",
+      "wsjIssue": "2000 Issue 8"
+    },
+    {
+      "number": 121,
+      "title": "I Knew",
+      "volume": 14,
+      "releaseDate": "2000-01-31",
+      "wsjIssue": "2000 Issue 9"
+    },
+    {
+      "number": 122,
+      "title": "A Dead Body Is Useless",
+      "volume": 14,
+      "releaseDate": "2000-02-07",
+      "wsjIssue": "2000 Issue 10"
+    },
+    {
+      "number": 123,
+      "title": "Luffy vs. Mr. 3",
+      "volume": 14,
+      "releaseDate": "2000-02-14",
+      "wsjIssue": "2000 Issue 11"
+    },
+    {
+      "number": 124,
+      "title": "The Tea Is Good",
+      "volume": 14,
+      "releaseDate": "2000-02-21",
+      "wsjIssue": "2000 Issue 12"
+    },
+    {
+      "number": 125,
+      "title": "Candle Champion",
+      "volume": 14,
+      "releaseDate": "2000-02-28",
+      "wsjIssue": "2000 Issue 13"
+    },
+    {
+      "number": 126,
+      "title": "Instinct",
+      "volume": 14,
+      "releaseDate": "2000-03-06",
+      "wsjIssue": "2000 Issue 14"
+    },
+    {
+      "number": 127,
+      "title": "Snail-o-phone",
+      "volume": 15,
+      "releaseDate": "2000-03-13",
+      "wsjIssue": "2000 Issue 15"
+    },
+    {
+      "number": 128,
+      "title": "Pirate Pride",
+      "volume": 15,
+      "releaseDate": "2000-03-18",
+      "wsjIssue": "2000 Issue 16"
+    },
+    {
+      "number": 129,
+      "title": "Straight Ahead!!!",
+      "volume": 15,
+      "releaseDate": "2000-03-27",
+      "wsjIssue": "2000 Issue 17"
+    },
+    {
+      "number": 130,
+      "title": "Maximum Speed",
+      "volume": 15,
+      "releaseDate": "2000-04-03",
+      "wsjIssue": "2000 Issue 18"
+    },
+    {
+      "number": 131,
+      "title": "Wapol of Tin",
+      "volume": 15,
+      "releaseDate": "2000-04-10",
+      "wsjIssue": "2000 Issue 19"
+    },
+    {
+      "number": 132,
+      "title": "See?",
+      "volume": 15,
+      "releaseDate": "2000-04-17",
+      "wsjIssue": "2000 Issue 20"
+    },
+    {
+      "number": 133,
+      "title": "Adventure in a Nameless Country",
+      "volume": 15,
+      "releaseDate": "2000-04-24",
+      "wsjIssue": "2000 Issue 21-22"
+    },
+    {
+      "number": 134,
+      "title": "Dr. Kureha",
+      "volume": 15,
+      "releaseDate": "2000-05-08",
+      "wsjIssue": "2000 Issue 23"
+    },
+    {
+      "number": 135,
+      "title": "Lapins",
+      "volume": 15,
+      "releaseDate": "2000-05-15",
+      "wsjIssue": "2000 Issue 24"
+    },
+    {
+      "number": 136,
+      "title": "A Man Named Dalton",
+      "volume": 15,
+      "releaseDate": "2000-05-22",
+      "wsjIssue": "2000 Issue 25"
+    },
+    {
+      "number": 137,
+      "title": "Avalanche",
+      "volume": 16,
+      "releaseDate": "2000-05-29",
+      "wsjIssue": "2000 Issue 26"
+    },
+    {
+      "number": 138,
+      "title": "The Summit",
+      "volume": 16,
+      "releaseDate": "2000-06-05",
+      "wsjIssue": "2000 Issue 27"
+    },
+    {
+      "number": 139,
+      "title": "Enter Tony Tony Chopper",
+      "volume": 16,
+      "releaseDate": "2000-06-12",
+      "wsjIssue": "2000 Issue 28"
+    },
+    {
+      "number": 140,
+      "title": "The Castle of Snow",
+      "volume": 16,
+      "releaseDate": "2000-06-19",
+      "wsjIssue": "2000 Issue 29"
+    },
+    {
+      "number": 141,
+      "title": "Quack Doctor",
+      "volume": 16,
+      "releaseDate": "2000-06-26",
+      "wsjIssue": "2000 Issue 30"
+    },
+    {
+      "number": 142,
+      "title": "Skull & Cherry Blossoms",
+      "volume": 16,
+      "releaseDate": "2000-07-03",
+      "wsjIssue": "2000 Issue 31"
+    },
+    {
+      "number": 143,
+      "title": "Clumsy",
+      "volume": 16,
+      "releaseDate": "2000-07-10",
+      "wsjIssue": "2000 Issue 32"
+    },
+    {
+      "number": 144,
+      "title": "Snow Tale",
+      "volume": 16,
+      "releaseDate": "2000-07-17",
+      "wsjIssue": "2000 Issue 33"
+    },
+    {
+      "number": 145,
+      "title": "Carrying on His Will",
+      "volume": 16,
+      "releaseDate": "2000-07-24",
+      "wsjIssue": "2000 Issue 34"
+    },
+    {
+      "number": 146,
+      "title": "Battle to Defend the Kingdom",
+      "volume": 17,
+      "releaseDate": "2000-07-31",
+      "wsjIssue": "2000 Issue 35"
+    },
+    {
+      "number": 147,
+      "title": "Frauds",
+      "volume": 17,
+      "releaseDate": "2000-08-07",
+      "wsjIssue": "2000 Issue 36-37"
+    },
+    {
+      "number": 148,
+      "title": "Unbreakable",
+      "volume": 17,
+      "releaseDate": "2000-08-21",
+      "wsjIssue": "2000 Issue 38"
+    },
+    {
+      "number": 149,
+      "title": "Rumble",
+      "volume": 17,
+      "releaseDate": "2000-08-28",
+      "wsjIssue": "2000 Issue 39"
+    },
+    {
+      "number": 150,
+      "title": "Royal Drum Crown 7-Shot Tin Tyrant Cannon",
+      "volume": 17,
+      "releaseDate": "2000-09-04",
+      "wsjIssue": "2000 Issue 40"
+    },
+    {
+      "number": 151,
+      "title": "The Skies of Drum",
+      "volume": 17,
+      "releaseDate": "2000-09-11",
+      "wsjIssue": "2000 Issue 41"
+    },
+    {
+      "number": 152,
+      "title": "Full Moon",
+      "volume": 17,
+      "releaseDate": "2000-09-18",
+      "wsjIssue": "2000 Issue 42"
+    },
+    {
+      "number": 153,
+      "title": "Hiriluk's Cherry Blossoms",
+      "volume": 17,
+      "releaseDate": "2000-09-25",
+      "wsjIssue": "2000 Issue 43"
+    },
+    {
+      "number": 154,
+      "title": "On to Alabasta",
+      "volume": 17,
+      "releaseDate": "2000-10-02",
+      "wsjIssue": "2000 Issue 44"
+    },
+    {
+      "number": 155,
+      "title": "Sir Crocodile, the Pirate",
+      "volume": 17,
+      "releaseDate": "2000-10-07",
+      "wsjIssue": "2000 Issue 45"
+    },
+    {
+      "number": 156,
+      "title": "Oh Come My Way Days",
+      "volume": 18,
+      "releaseDate": "2000-10-16",
+      "wsjIssue": "2000 Issue 46"
+    },
+    {
+      "number": 157,
+      "title": "Ace Arrives",
+      "volume": 18,
+      "releaseDate": "2000-10-23",
+      "wsjIssue": "2000 Issue 47"
+    },
+    {
+      "number": 158,
+      "title": "Landing in Alabasta",
+      "volume": 18,
+      "releaseDate": "2000-10-30",
+      "wsjIssue": "2000 Issue 48"
+    },
+    {
+      "number": 159,
+      "title": "Come On",
+      "volume": 18,
+      "releaseDate": "2000-11-06",
+      "wsjIssue": "2000 Issue 49"
+    },
+    {
+      "number": 160,
+      "title": "Spiders Café at Eight O'Clock",
+      "volume": 18,
+      "releaseDate": "2000-11-13",
+      "wsjIssue": "2000 Issue 50"
+    },
+    {
+      "number": 161,
+      "title": "The Green City Erumalu",
+      "volume": 18,
+      "releaseDate": "2000-11-20",
+      "wsjIssue": "2000 Issue 51"
+    },
+    {
+      "number": 162,
+      "title": "Adventure in the Kingdom of Sand",
+      "volume": 18,
+      "releaseDate": "2000-11-27",
+      "wsjIssue": "2000 Issue 52"
+    },
+    {
+      "number": 163,
+      "title": "Yuba, the Town of Rebels",
+      "volume": 18,
+      "releaseDate": "2000-12-04",
+      "wsjIssue": "2001 Issue 1"
+    },
+    {
+      "number": 164,
+      "title": "I Love My Country",
+      "volume": 18,
+      "releaseDate": "2000-12-11",
+      "wsjIssue": "2001 Issue 2"
+    },
+    {
+      "number": 165,
+      "title": "Operation Utopia",
+      "volume": 18,
+      "releaseDate": "2000-12-18",
+      "wsjIssue": "2001 Issue 3-4"
+    },
+    {
+      "number": 166,
+      "title": "Luffy vs. Vivi",
+      "volume": 18,
+      "releaseDate": "2001-01-04",
+      "wsjIssue": "2001 Issue 5-6"
+    },
+    {
+      "number": 167,
+      "title": "Battlefront",
+      "volume": 19,
+      "releaseDate": "2001-01-15",
+      "wsjIssue": "2001 Issue 7"
+    },
+    {
+      "number": 168,
+      "title": "Rainbase, the City of Dreams",
+      "volume": 19,
+      "releaseDate": "2001-01-22",
+      "wsjIssue": "2001 Issue 8"
+    },
+    {
+      "number": 169,
+      "title": "The Kingdom's Strongest Warrior",
+      "volume": 19,
+      "releaseDate": "2001-01-29",
+      "wsjIssue": "2001 Issue 9"
+    },
+    {
+      "number": 170,
+      "title": "Beginning",
+      "volume": 19,
+      "releaseDate": "2001-02-05",
+      "wsjIssue": "2001 Issue 10"
+    },
+    {
+      "number": 171,
+      "title": "Koza, Leader of the Rebels",
+      "volume": 19,
+      "releaseDate": "2001-02-10",
+      "wsjIssue": "2001 Issue 11"
+    },
+    {
+      "number": 172,
+      "title": "Rebellion",
+      "volume": 19,
+      "releaseDate": "2001-02-26",
+      "wsjIssue": "2001 Issue 13"
+    },
+    {
+      "number": 173,
+      "title": "Bananagator",
+      "volume": 19,
+      "releaseDate": "2001-03-05",
+      "wsjIssue": "2001 Issue 14"
+    },
+    {
+      "number": 174,
+      "title": "Mr. Prince",
+      "volume": 19,
+      "releaseDate": "2001-03-12",
+      "wsjIssue": "2001 Issue 15"
+    },
+    {
+      "number": 175,
+      "title": "Release",
+      "volume": 19,
+      "releaseDate": "2001-03-19",
+      "wsjIssue": "2001 Issue 16"
+    },
+    {
+      "number": 176,
+      "title": "Rush!!",
+      "volume": 19,
+      "releaseDate": "2001-03-26",
+      "wsjIssue": "2001 Issue 17"
+    },
+    {
+      "number": 177,
+      "title": "30 Million vs. 81 Million",
+      "volume": 20,
+      "releaseDate": "2001-04-02",
+      "wsjIssue": "2001 Issue 18"
+    },
+    {
+      "number": 178,
+      "title": "Grand Line Level",
+      "volume": 20,
+      "releaseDate": "2001-04-09",
+      "wsjIssue": "2001 Issue 19"
+    },
+    {
+      "number": 179,
+      "title": "Showdown at Alubarna",
+      "volume": 20,
+      "releaseDate": "2001-04-16",
+      "wsjIssue": "2001 Issue 20"
+    },
+    {
+      "number": 180,
+      "title": "Alabasta Animal Land",
+      "volume": 20,
+      "releaseDate": "2001-04-23",
+      "wsjIssue": "2001 Issue 21-22"
+    },
+    {
+      "number": 181,
+      "title": "Supersonic Duck Quiz",
+      "volume": 20,
+      "releaseDate": "2001-05-07",
+      "wsjIssue": "2001 Issue 23"
+    },
+    {
+      "number": 182,
+      "title": "Roar",
+      "volume": 20,
+      "releaseDate": "2001-05-14",
+      "wsjIssue": "2001 Issue 24"
+    },
+    {
+      "number": 183,
+      "title": "Squadron Leader Karoo",
+      "volume": 20,
+      "releaseDate": "2001-05-21",
+      "wsjIssue": "2001 Issue 25"
+    },
+    {
+      "number": 184,
+      "title": "Moletown Block Four",
+      "volume": 20,
+      "releaseDate": "2001-05-28",
+      "wsjIssue": "2001 Issue 26"
+    },
+    {
+      "number": 185,
+      "title": "Oh... Is That So?",
+      "volume": 20,
+      "releaseDate": "2001-06-04",
+      "wsjIssue": "2001 Issue 27"
+    },
+    {
+      "number": 186,
+      "title": "4",
+      "volume": 20,
+      "releaseDate": "2001-06-11",
+      "wsjIssue": "2001 Issue 28"
+    },
+    {
+      "number": 187,
+      "title": "Stalemate",
+      "volume": 21,
+      "releaseDate": "2001-06-18",
+      "wsjIssue": "2001 Issue 29"
+    },
+    {
+      "number": 188,
+      "title": "Oh Come My Way Karate",
+      "volume": 21,
+      "releaseDate": "2001-06-25",
+      "wsjIssue": "2001 Issue 30"
+    },
+    {
+      "number": 189,
+      "title": "2",
+      "volume": 21,
+      "releaseDate": "2001-07-02",
+      "wsjIssue": "2001 Issue 31"
+    },
+    {
+      "number": 190,
+      "title": "Climate Baton",
+      "volume": 21,
+      "releaseDate": "2001-07-09",
+      "wsjIssue": "2001 Issue 32"
+    },
+    {
+      "number": 191,
+      "title": "She Who Controls The Weather",
+      "volume": 21,
+      "releaseDate": "2001-07-16",
+      "wsjIssue": "2001 Issue 33"
+    },
+    {
+      "number": 192,
+      "title": "Tornado Warning",
+      "volume": 21,
+      "releaseDate": "2001-07-23",
+      "wsjIssue": "2001 Issue 34"
+    },
+    {
+      "number": 193,
+      "title": "Utopia",
+      "volume": 21,
+      "releaseDate": "2001-07-30",
+      "wsjIssue": "2001 Issue 35"
+    },
+    {
+      "number": 194,
+      "title": "Cutting Steel",
+      "volume": 21,
+      "releaseDate": "2001-08-06",
+      "wsjIssue": "2001 Issue 36-37"
+    },
+    {
+      "number": 195,
+      "title": "Mr. Bushido",
+      "volume": 21,
+      "releaseDate": "2001-08-20",
+      "wsjIssue": "2001 Issue 38"
+    },
+    {
+      "number": 196,
+      "title": "1",
+      "volume": 22,
+      "releaseDate": "2001-08-27",
+      "wsjIssue": "2001 Issue 39"
+    },
+    {
+      "number": 197,
+      "title": "The Leaders",
+      "volume": 22,
+      "releaseDate": "2001-09-03",
+      "wsjIssue": "2001 Issue 40"
+    },
+    {
+      "number": 198,
+      "title": "4:15 P.M.",
+      "volume": 22,
+      "releaseDate": "2001-09-10",
+      "wsjIssue": "2001 Issue 41"
+    },
+    {
+      "number": 199,
+      "title": "Hope!!",
+      "volume": 22,
+      "releaseDate": "2001-09-17",
+      "wsjIssue": "2001 Issue 42"
+    },
+    {
+      "number": 200,
+      "title": "Water Luffy",
+      "volume": 22,
+      "releaseDate": "2001-09-22",
+      "wsjIssue": "2001 Issue 43"
+    },
+    {
+      "number": 201,
+      "title": "Nico Robin",
+      "volume": 22,
+      "releaseDate": "2001-10-01",
+      "wsjIssue": "2001 Issue 44"
+    },
+    {
+      "number": 202,
+      "title": "The Royal Mausoleum",
+      "volume": 22,
+      "releaseDate": "2001-10-06",
+      "wsjIssue": "2001 Issue 45"
+    },
+    {
+      "number": 203,
+      "title": "Crocodile-ish",
+      "volume": 22,
+      "releaseDate": "2001-10-15",
+      "wsjIssue": "2001 Issue 46"
+    },
+    {
+      "number": 204,
+      "title": "Red",
+      "volume": 22,
+      "releaseDate": "2001-10-22",
+      "wsjIssue": "2001 Issue 47"
+    },
+    {
+      "number": 205,
+      "title": "The Sand-Sand Band's Secret Fort",
+      "volume": 22,
+      "releaseDate": "2001-10-29",
+      "wsjIssue": "2001 Issue 48"
+    },
+    {
+      "number": 206,
+      "title": "Ignition",
+      "volume": 23,
+      "releaseDate": "2001-11-05",
+      "wsjIssue": "2001 Issue 49"
+    },
+    {
+      "number": 207,
+      "title": "Nightmare",
+      "volume": 23,
+      "releaseDate": "2001-11-12",
+      "wsjIssue": "2001 Issue 50"
+    },
+    {
+      "number": 208,
+      "title": "Guardian Spirit",
+      "volume": 23,
+      "releaseDate": "2001-11-19",
+      "wsjIssue": "2001 Issue 51"
+    },
+    {
+      "number": 209,
+      "title": "I Will Defeat You",
+      "volume": 23,
+      "releaseDate": "2001-11-26",
+      "wsjIssue": "2001 Issue 52"
+    },
+    {
+      "number": 210,
+      "title": "Zero",
+      "volume": 23,
+      "releaseDate": "2001-12-03",
+      "wsjIssue": "2002 Issue 1"
+    },
+    {
+      "number": 211,
+      "title": "King",
+      "volume": 23,
+      "releaseDate": "2001-12-10",
+      "wsjIssue": "2002 Issue 2"
+    },
+    {
+      "number": 212,
+      "title": "Some Justice",
+      "volume": 23,
+      "releaseDate": "2001-12-17",
+      "wsjIssue": "2002 Issue 3"
+    },
+    {
+      "number": 213,
+      "title": "V.I.P.",
+      "volume": 23,
+      "releaseDate": "2001-12-28",
+      "wsjIssue": "2002 Issue 4-5"
+    },
+    {
+      "number": 214,
+      "title": "Strategy to Escape the Sand Kingdom",
+      "volume": 23,
+      "releaseDate": "2002-01-07",
+      "wsjIssue": "2002 Issue 6-7"
+    },
+    {
+      "number": 215,
+      "title": "Last Waltz",
+      "volume": 23,
+      "releaseDate": "2002-01-21",
+      "wsjIssue": "2002 Issue 8"
+    },
+    {
+      "number": 216,
+      "title": "Vivi's Adventure",
+      "volume": 23,
+      "releaseDate": "2002-01-28",
+      "wsjIssue": "2002 Issue 9"
+    },
+    {
+      "number": 217,
+      "title": "Stowaway",
+      "volume": 24,
+      "releaseDate": "2002-02-04",
+      "wsjIssue": "2002 Issue 10"
+    },
+    {
+      "number": 218,
+      "title": "Why the Log Pose Is Dome-Shaped",
+      "volume": 24,
+      "releaseDate": "2002-02-18",
+      "wsjIssue": "2002 Issue 12"
+    },
+    {
+      "number": 219,
+      "title": "Masira the Salvage King",
+      "volume": 24,
+      "releaseDate": "2002-02-25",
+      "wsjIssue": "2002 Issue 13"
+    },
+    {
+      "number": 220,
+      "title": "A Walk on the Seafloor",
+      "volume": 24,
+      "releaseDate": "2002-03-04",
+      "wsjIssue": "2002 Issue 14"
+    },
+    {
+      "number": 221,
+      "title": "Monsters",
+      "volume": 24,
+      "releaseDate": "2002-03-11",
+      "wsjIssue": "2002 Issue 15"
+    },
+    {
+      "number": 222,
+      "title": "The Giant Novice",
+      "volume": 24,
+      "releaseDate": "2002-03-18",
+      "wsjIssue": "2002 Issue 16"
+    },
+    {
+      "number": 223,
+      "title": "I Promise Never to Fight in This Town",
+      "volume": 24,
+      "releaseDate": "2002-03-25",
+      "wsjIssue": "2002 Issue 17"
+    },
+    {
+      "number": 224,
+      "title": "Do Not Dream",
+      "volume": 24,
+      "releaseDate": "2002-04-01",
+      "wsjIssue": "2002 Issue 18"
+    },
+    {
+      "number": 225,
+      "title": "People's Dreams",
+      "volume": 24,
+      "releaseDate": "2002-04-08",
+      "wsjIssue": "2002 Issue 19"
+    },
+    {
+      "number": 226,
+      "title": "Shoujou, the Salvage King of the Seafloor",
+      "volume": 24,
+      "releaseDate": "2002-04-15",
+      "wsjIssue": "2002 Issue 20"
+    },
+    {
+      "number": 227,
+      "title": "Noland the Liar",
+      "volume": 25,
+      "releaseDate": "2002-04-22",
+      "wsjIssue": "2002 Issue 21"
+    },
+    {
+      "number": 228,
+      "title": "Mont Blanc Cricket, the Last Boss of the Monkey Mountain Allied Force",
+      "volume": 25,
+      "releaseDate": "2002-04-27",
+      "wsjIssue": "2002 Issue 22-23"
+    },
+    {
+      "number": 229,
+      "title": "Let's Eat",
+      "volume": 25,
+      "releaseDate": "2002-05-13",
+      "wsjIssue": "2002 Issue 24"
+    },
+    {
+      "number": 230,
+      "title": "Pursue the South Bird!",
+      "volume": 25,
+      "releaseDate": "2002-05-20",
+      "wsjIssue": "2002 Issue 25"
+    },
+    {
+      "number": 231,
+      "title": "Bellamy the Hyena",
+      "volume": 25,
+      "releaseDate": "2002-05-27",
+      "wsjIssue": "2002 Issue 26"
+    },
+    {
+      "number": 232,
+      "title": "The 100 Million Berry Man",
+      "volume": 25,
+      "releaseDate": "2002-06-03",
+      "wsjIssue": "2002 Issue 27"
+    },
+    {
+      "number": 233,
+      "title": "The World's Greatest Power",
+      "volume": 25,
+      "releaseDate": "2002-06-10",
+      "wsjIssue": "2002 Issue 28"
+    },
+    {
+      "number": 234,
+      "title": "Please Remember",
+      "volume": 25,
+      "releaseDate": "2002-06-17",
+      "wsjIssue": "2002 Issue 29"
+    },
+    {
+      "number": 235,
+      "title": "The Knock Up Stream",
+      "volume": 25,
+      "releaseDate": "2002-06-24",
+      "wsjIssue": "2002 Issue 30"
+    },
+    {
+      "number": 236,
+      "title": "The Ship Sails to the Sky",
+      "volume": 25,
+      "releaseDate": "2002-07-01",
+      "wsjIssue": "2002 Issue 31"
+    },
+    {
+      "number": 237,
+      "title": "High in the Sky",
+      "volume": 26,
+      "releaseDate": "2002-07-08",
+      "wsjIssue": "2002 Issue 32"
+    },
+    {
+      "number": 238,
+      "title": "Heaven's Gate",
+      "volume": 26,
+      "releaseDate": "2002-07-15",
+      "wsjIssue": "2002 Issue 33"
+    },
+    {
+      "number": 239,
+      "title": "Angel Beach",
+      "volume": 26,
+      "releaseDate": "2002-07-22",
+      "wsjIssue": "2002 Issue 34"
+    },
+    {
+      "number": 240,
+      "title": "Dial Power",
+      "volume": 26,
+      "releaseDate": "2002-07-29",
+      "wsjIssue": "2002 Issue 35"
+    },
+    {
+      "number": 241,
+      "title": "Heaven's Judgment",
+      "volume": 26,
+      "releaseDate": "2002-08-05",
+      "wsjIssue": "2002 Issue 36"
+    },
+    {
+      "number": 242,
+      "title": "Class-2 Criminals",
+      "volume": 26,
+      "releaseDate": "2002-08-12",
+      "wsjIssue": "2002 Issue 37-38"
+    },
+    {
+      "number": 243,
+      "title": "Trial",
+      "volume": 26,
+      "releaseDate": "2002-08-26",
+      "wsjIssue": "2002 Issue 39"
+    },
+    {
+      "number": 244,
+      "title": "S.O.S.",
+      "volume": 26,
+      "releaseDate": "2002-09-02",
+      "wsjIssue": "2002 Issue 40"
+    },
+    {
+      "number": 245,
+      "title": "Adventure on Kami's Island",
+      "volume": 26,
+      "releaseDate": "2002-09-09",
+      "wsjIssue": "2002 Issue 41"
+    },
+    {
+      "number": 246,
+      "title": "Satori, Vassal of the Forest of No Return",
+      "volume": 26,
+      "releaseDate": "2002-09-14",
+      "wsjIssue": "2002 Issue 42"
+    },
+    {
+      "number": 247,
+      "title": "Ball Challenge",
+      "volume": 27,
+      "releaseDate": "2002-09-22",
+      "wsjIssue": "2002 Issue 43"
+    },
+    {
+      "number": 248,
+      "title": "Former Kami vs. Vassal",
+      "volume": 27,
+      "releaseDate": "2002-10-07",
+      "wsjIssue": "2002 Issue 45"
+    },
+    {
+      "number": 249,
+      "title": "The Village Hidden in the Cloud",
+      "volume": 27,
+      "releaseDate": "2002-10-12",
+      "wsjIssue": "2002 Issue 46"
+    },
+    {
+      "number": 250,
+      "title": "Ball Dragon",
+      "volume": 27,
+      "releaseDate": "2002-10-21",
+      "wsjIssue": "2002 Issue 47"
+    },
+    {
+      "number": 251,
+      "title": "Overture",
+      "volume": 27,
+      "releaseDate": "2002-10-28",
+      "wsjIssue": "2002 Issue 48"
+    },
+    {
+      "number": 252,
+      "title": "Junction",
+      "volume": 27,
+      "releaseDate": "2002-11-02",
+      "wsjIssue": "2002 Issue 49"
+    },
+    {
+      "number": 253,
+      "title": "Varse",
+      "volume": 27,
+      "releaseDate": "2002-11-11",
+      "wsjIssue": "2002 Issue 50"
+    },
+    {
+      "number": 254,
+      "title": "Aubade",
+      "volume": 27,
+      "releaseDate": "2002-11-18",
+      "wsjIssue": "2002 Issue 51"
+    },
+    {
+      "number": 255,
+      "title": "The Anaconda and the Search Team",
+      "volume": 27,
+      "releaseDate": "2002-11-25",
+      "wsjIssue": "2002 Issue 52"
+    },
+    {
+      "number": 256,
+      "title": "Wyper the Berserker",
+      "volume": 28,
+      "releaseDate": "2002-12-02",
+      "wsjIssue": "2003 Issue 1"
+    },
+    {
+      "number": 257,
+      "title": "Dial Battle",
+      "volume": 28,
+      "releaseDate": "2002-12-09",
+      "wsjIssue": "2003 Issue 2"
+    },
+    {
+      "number": 258,
+      "title": "The Many Souths",
+      "volume": 28,
+      "releaseDate": "2002-12-16",
+      "wsjIssue": "2003 Issue 3-4"
+    },
+    {
+      "number": 259,
+      "title": "Pirate Zolo vs. Warrior Braham",
+      "volume": 28,
+      "releaseDate": "2002-12-30",
+      "wsjIssue": "2003 Issue 5"
+    },
+    {
+      "number": 260,
+      "title": "Pirate Luffy vs. Berserker Wyper",
+      "volume": 28,
+      "releaseDate": "2003-01-06",
+      "wsjIssue": "2003 Issue 6-7"
+    },
+    {
+      "number": 261,
+      "title": "Warrior Genbo vs. Heavenly Warriors Commander Yama",
+      "volume": 28,
+      "releaseDate": "2003-01-20",
+      "wsjIssue": "2003 Issue 8"
+    },
+    {
+      "number": 262,
+      "title": "Pirate Chopper vs. Vassal Gedatsu",
+      "volume": 28,
+      "releaseDate": "2003-01-27",
+      "wsjIssue": "2003 Issue 9"
+    },
+    {
+      "number": 263,
+      "title": "Pirate Nami and the Weird Knight vs. Heavenly Warriors Subcommanders Hotori and Kotori",
+      "volume": 28,
+      "releaseDate": "2003-02-03",
+      "wsjIssue": "2003 Issue 10"
+    },
+    {
+      "number": 264,
+      "title": "Warrior Kamakiri vs. Kami Eneru",
+      "volume": 28,
+      "releaseDate": "2003-02-10",
+      "wsjIssue": "2003 Issue 11"
+    },
+    {
+      "number": 265,
+      "title": "Pirate Robin vs. Heavenly Warriors Commander Yama",
+      "volume": 29,
+      "releaseDate": "2003-02-17",
+      "wsjIssue": "2003 Issue 12"
+    },
+    {
+      "number": 266,
+      "title": "Pirate Chopper vs. Vassal Ohm",
+      "volume": 29,
+      "releaseDate": "2003-02-24",
+      "wsjIssue": "2003 Issue 13"
+    },
+    {
+      "number": 267,
+      "title": "March",
+      "volume": 29,
+      "releaseDate": "2003-03-03",
+      "wsjIssue": "2003 Issue 14"
+    },
+    {
+      "number": 268,
+      "title": "Suite",
+      "volume": 29,
+      "releaseDate": "2003-03-10",
+      "wsjIssue": "2003 Issue 15"
+    },
+    {
+      "number": 269,
+      "title": "Concerto",
+      "volume": 29,
+      "releaseDate": "2003-03-17",
+      "wsjIssue": "2003 Issue 16"
+    },
+    {
+      "number": 270,
+      "title": "Serenade",
+      "volume": 29,
+      "releaseDate": "2003-03-31",
+      "wsjIssue": "2003 Issue 18"
+    },
+    {
+      "number": 271,
+      "title": "Pirate Zolo vs. Vassal Ohm",
+      "volume": 29,
+      "releaseDate": "2003-04-07",
+      "wsjIssue": "2003 Issue 19"
+    },
+    {
+      "number": 272,
+      "title": "Play",
+      "volume": 29,
+      "releaseDate": "2003-04-14",
+      "wsjIssue": "2003 Issue 20"
+    },
+    {
+      "number": 273,
+      "title": "Quintet",
+      "volume": 29,
+      "releaseDate": "2003-04-21",
+      "wsjIssue": "2003 Issue 21"
+    },
+    {
+      "number": 274,
+      "title": "Oratorio",
+      "volume": 29,
+      "releaseDate": "2003-04-28",
+      "wsjIssue": "2003 Issue 22-23"
+    },
+    {
+      "number": 275,
+      "title": "Divina Commedia",
+      "volume": 29,
+      "releaseDate": "2003-05-12",
+      "wsjIssue": "2003 Issue 24"
+    },
+    {
+      "number": 276,
+      "title": "Shandian Rhythm",
+      "volume": 30,
+      "releaseDate": "2003-05-19",
+      "wsjIssue": "2003 Issue 25"
+    },
+    {
+      "number": 277,
+      "title": "Maxim",
+      "volume": 30,
+      "releaseDate": "2003-05-26",
+      "wsjIssue": "2003 Issue 26"
+    },
+    {
+      "number": 278,
+      "title": "Conis",
+      "volume": 30,
+      "releaseDate": "2003-06-02",
+      "wsjIssue": "2003 Issue 27"
+    },
+    {
+      "number": 279,
+      "title": "Pirate Luffy vs. Kami Eneru",
+      "volume": 30,
+      "releaseDate": "2003-06-09",
+      "wsjIssue": "2003 Issue 28"
+    },
+    {
+      "number": 280,
+      "title": "Floating",
+      "volume": 30,
+      "releaseDate": "2003-06-16",
+      "wsjIssue": "2003 Issue 29"
+    },
+    {
+      "number": 281,
+      "title": "Deathpiea",
+      "volume": 30,
+      "releaseDate": "2003-06-23",
+      "wsjIssue": "2003 Issue 30"
+    },
+    {
+      "number": 282,
+      "title": "Desire",
+      "volume": 30,
+      "releaseDate": "2003-06-30",
+      "wsjIssue": "2003 Issue 31"
+    },
+    {
+      "number": 283,
+      "title": "On the Front Line of Rescuing Love",
+      "volume": 30,
+      "releaseDate": "2003-07-07",
+      "wsjIssue": "2003 Issue 32"
+    },
+    {
+      "number": 284,
+      "title": "Sorry",
+      "volume": 30,
+      "releaseDate": "2003-07-14",
+      "wsjIssue": "2003 Issue 33"
+    },
+    {
+      "number": 285,
+      "title": "Capriccio",
+      "volume": 30,
+      "releaseDate": "2003-07-19",
+      "wsjIssue": "2003 Issue 34"
+    },
+    {
+      "number": 286,
+      "title": "The Shandoran Demon",
+      "volume": 31,
+      "releaseDate": "2003-07-28",
+      "wsjIssue": "2003 Issue 35"
+    },
+    {
+      "number": 287,
+      "title": "Kami Killing",
+      "volume": 31,
+      "releaseDate": "2003-08-11",
+      "wsjIssue": "2003 Issue 37-38"
+    },
+    {
+      "number": 288,
+      "title": "Curse",
+      "volume": 31,
+      "releaseDate": "2003-08-25",
+      "wsjIssue": "2003 Issue 39"
+    },
+    {
+      "number": 289,
+      "title": "Full Moon",
+      "volume": 31,
+      "releaseDate": "2003-09-01",
+      "wsjIssue": "2003 Issue 40"
+    },
+    {
+      "number": 290,
+      "title": "The Light of Shandora",
+      "volume": 31,
+      "releaseDate": "2003-09-08",
+      "wsjIssue": "2003 Issue 41"
+    },
+    {
+      "number": 291,
+      "title": "We'll Be Here",
+      "volume": 31,
+      "releaseDate": "2003-09-13",
+      "wsjIssue": "2003 Issue 42"
+    },
+    {
+      "number": 292,
+      "title": "To Meet, like the Half-Moon Hidden by Clouds",
+      "volume": 31,
+      "releaseDate": "2003-09-22",
+      "wsjIssue": "2003 Issue 43"
+    },
+    {
+      "number": 293,
+      "title": "Bolero",
+      "volume": 31,
+      "releaseDate": "2003-09-29",
+      "wsjIssue": "2003 Issue 44"
+    },
+    {
+      "number": 294,
+      "title": "Kingdom Come",
+      "volume": 31,
+      "releaseDate": "2003-10-06",
+      "wsjIssue": "2003 Issue 45"
+    },
+    {
+      "number": 295,
+      "title": "Giant Jack",
+      "volume": 31,
+      "releaseDate": "2003-10-11",
+      "wsjIssue": "2003 Issue 46"
+    },
+    {
+      "number": 296,
+      "title": "Ultimate Sky Situation",
+      "volume": 32,
+      "releaseDate": "2003-10-20",
+      "wsjIssue": "2003 Issue 47"
+    },
+    {
+      "number": 297,
+      "title": "Praise of the Earth",
+      "volume": 32,
+      "releaseDate": "2003-10-27",
+      "wsjIssue": "2003 Issue 48"
+    },
+    {
+      "number": 298,
+      "title": "Love Song",
+      "volume": 32,
+      "releaseDate": "2003-11-01",
+      "wsjIssue": "2003 Issue 49"
+    },
+    {
+      "number": 299,
+      "title": "Fantasia",
+      "volume": 32,
+      "releaseDate": "2003-11-10",
+      "wsjIssue": "2003 Issue 50"
+    },
+    {
+      "number": 300,
+      "title": "Symphony",
+      "volume": 32,
+      "releaseDate": "2003-11-22",
+      "wsjIssue": "2003 Issue 52"
+    },
+    {
+      "number": 301,
+      "title": "I Hereby Guide...",
+      "volume": 32,
+      "releaseDate": "2003-12-01",
+      "wsjIssue": "2004 Issue 1"
+    },
+    {
+      "number": 302,
+      "title": "Finale",
+      "volume": 32,
+      "releaseDate": "2003-12-08",
+      "wsjIssue": "2004 Issue 2"
+    },
+    {
+      "number": 303,
+      "title": "The Wealthy Pirate Gang",
+      "volume": 32,
+      "releaseDate": "2003-12-15",
+      "wsjIssue": "2004 Issue 3"
+    },
+    {
+      "number": 304,
+      "title": "Long Island Adventure",
+      "volume": 32,
+      "releaseDate": "2003-12-22",
+      "wsjIssue": "2004 Issue 4-5"
+    },
+    {
+      "number": 305,
+      "title": "Foxy the Silver Fox",
+      "volume": 32,
+      "releaseDate": "2004-01-05",
+      "wsjIssue": "2004 Issue 6-7"
+    },
+    {
+      "number": 306,
+      "title": "Donut Race!",
+      "volume": 33,
+      "releaseDate": "2004-01-19",
+      "wsjIssue": "2004 Issue 8"
+    },
+    {
+      "number": 307,
+      "title": "Ready, Set, Donut!",
+      "volume": 33,
+      "releaseDate": "2004-01-26",
+      "wsjIssue": "2004 Issue 9"
+    },
+    {
+      "number": 308,
+      "title": "Obstructive Tactics",
+      "volume": 33,
+      "releaseDate": "2004-02-02",
+      "wsjIssue": "2004 Issue 10"
+    },
+    {
+      "number": 309,
+      "title": "Groggy Monsters",
+      "volume": 33,
+      "releaseDate": "2004-02-09",
+      "wsjIssue": "2004 Issue 11"
+    },
+    {
+      "number": 310,
+      "title": "Groggy Ring!!",
+      "volume": 33,
+      "releaseDate": "2004-02-16",
+      "wsjIssue": "2004 Issue 12"
+    },
+    {
+      "number": 311,
+      "title": "Rough Game",
+      "volume": 33,
+      "releaseDate": "2004-02-23",
+      "wsjIssue": "2004 Issue 13"
+    },
+    {
+      "number": 312,
+      "title": "Goal!!",
+      "volume": 33,
+      "releaseDate": "2004-03-01",
+      "wsjIssue": "2004 Issue 14"
+    },
+    {
+      "number": 313,
+      "title": "Main Event",
+      "volume": 33,
+      "releaseDate": "2004-03-08",
+      "wsjIssue": "2004 Issue 15"
+    },
+    {
+      "number": 314,
+      "title": "Combat!!",
+      "volume": 33,
+      "releaseDate": "2004-03-15",
+      "wsjIssue": "2004 Issue 16"
+    },
+    {
+      "number": 315,
+      "title": "Secret Room",
+      "volume": 33,
+      "releaseDate": "2004-03-22",
+      "wsjIssue": "2004 Issue 17"
+    },
+    {
+      "number": 316,
+      "title": "Brother Soul",
+      "volume": 33,
+      "releaseDate": "2004-03-29",
+      "wsjIssue": "2004 Issue 18"
+    },
+    {
+      "number": 317,
+      "title": "K.O.",
+      "volume": 34,
+      "releaseDate": "2004-04-12",
+      "wsjIssue": "2004 Issue 20"
+    },
+    {
+      "number": 318,
+      "title": "Closure",
+      "volume": 34,
+      "releaseDate": "2004-04-19",
+      "wsjIssue": "2004 Issue 21"
+    },
+    {
+      "number": 319,
+      "title": "Admiral Aokiji of the Navy Headquarters",
+      "volume": 34,
+      "releaseDate": "2004-04-26",
+      "wsjIssue": "2004 Issue 22-23"
+    },
+    {
+      "number": 320,
+      "title": "Ultimate Military Force",
+      "volume": 34,
+      "releaseDate": "2004-05-10",
+      "wsjIssue": "2004 Issue 24"
+    },
+    {
+      "number": 321,
+      "title": "One-on-One",
+      "volume": 34,
+      "releaseDate": "2004-05-17",
+      "wsjIssue": "2004 Issue 25"
+    },
+    {
+      "number": 322,
+      "title": "Puffing Tom",
+      "volume": 34,
+      "releaseDate": "2004-05-24",
+      "wsjIssue": "2004 Issue 26"
+    },
+    {
+      "number": 323,
+      "title": "The City of Water, Water Seven",
+      "volume": 34,
+      "releaseDate": "2004-05-31",
+      "wsjIssue": "2004 Issue 27"
+    },
+    {
+      "number": 324,
+      "title": "Adventures in the City on the Water",
+      "volume": 34,
+      "releaseDate": "2004-06-07",
+      "wsjIssue": "2004 Issue 28"
+    },
+    {
+      "number": 325,
+      "title": "The Franky Family",
+      "volume": 34,
+      "releaseDate": "2004-06-14",
+      "wsjIssue": "2004 Issue 29"
+    },
+    {
+      "number": 326,
+      "title": "Mr. Iceberg",
+      "volume": 34,
+      "releaseDate": "2004-06-21",
+      "wsjIssue": "2004 Issue 30"
+    },
+    {
+      "number": 327,
+      "title": "Shipbuilding Island, Repair Dock No. 1",
+      "volume": 34,
+      "releaseDate": "2004-06-28",
+      "wsjIssue": "2004 Issue 31"
+    },
+    {
+      "number": 328,
+      "title": "The Pirate Abduction Incident",
+      "volume": 35,
+      "releaseDate": "2004-07-12",
+      "wsjIssue": "2004 Issue 33"
+    },
+    {
+      "number": 329,
+      "title": "My Name Is Franky",
+      "volume": 35,
+      "releaseDate": "2004-07-17",
+      "wsjIssue": "2004 Issue 34"
+    },
+    {
+      "number": 330,
+      "title": "It's Decided",
+      "volume": 35,
+      "releaseDate": "2004-07-26",
+      "wsjIssue": "2004 Issue 35"
+    },
+    {
+      "number": 331,
+      "title": "The Big Argument",
+      "volume": 35,
+      "releaseDate": "2004-08-02",
+      "wsjIssue": "2004 Issue 36"
+    },
+    {
+      "number": 332,
+      "title": "Luffy vs. Usopp",
+      "volume": 35,
+      "releaseDate": "2004-08-09",
+      "wsjIssue": "2004 Issue 37-38"
+    },
+    {
+      "number": 333,
+      "title": "Captain",
+      "volume": 35,
+      "releaseDate": "2004-08-23",
+      "wsjIssue": "2004 Issue 39"
+    },
+    {
+      "number": 334,
+      "title": "Big Trouble in the Secret Room",
+      "volume": 35,
+      "releaseDate": "2004-08-30",
+      "wsjIssue": "2004 Issue 40"
+    },
+    {
+      "number": 335,
+      "title": "Warning",
+      "volume": 35,
+      "releaseDate": "2004-09-06",
+      "wsjIssue": "2004 Issue 41"
+    },
+    {
+      "number": 336,
+      "title": "Luffy vs. Franky",
+      "volume": 35,
+      "releaseDate": "2004-09-13",
+      "wsjIssue": "2004 Issue 42"
+    },
+    {
+      "number": 337,
+      "title": "Protectors of the City of Water",
+      "volume": 36,
+      "releaseDate": "2004-09-18",
+      "wsjIssue": "2004 Issue 43"
+    },
+    {
+      "number": 338,
+      "title": "Coup de Vent",
+      "volume": 36,
+      "releaseDate": "2004-09-27",
+      "wsjIssue": "2004 Issue 44"
+    },
+    {
+      "number": 339,
+      "title": "Rumors",
+      "volume": 36,
+      "releaseDate": "2004-10-04",
+      "wsjIssue": "2004 Issue 45"
+    },
+    {
+      "number": 340,
+      "title": "The Woman Who Brings Darkness",
+      "volume": 36,
+      "releaseDate": "2004-10-09",
+      "wsjIssue": "2004 Issue 46"
+    },
+    {
+      "number": 341,
+      "title": "Demon",
+      "volume": 36,
+      "releaseDate": "2004-10-18",
+      "wsjIssue": "2004 Issue 47"
+    },
+    {
+      "number": 342,
+      "title": "The Messenger of Darkness",
+      "volume": 36,
+      "releaseDate": "2004-10-25",
+      "wsjIssue": "2004 Issue 48"
+    },
+    {
+      "number": 343,
+      "title": "Cipher Pol No. 9",
+      "volume": 36,
+      "releaseDate": "2004-11-01",
+      "wsjIssue": "2004 Issue 49"
+    },
+    {
+      "number": 344,
+      "title": "Opposing Force",
+      "volume": 36,
+      "releaseDate": "2004-11-08",
+      "wsjIssue": "2004 Issue 50"
+    },
+    {
+      "number": 345,
+      "title": "Sleepers",
+      "volume": 36,
+      "releaseDate": "2004-11-15",
+      "wsjIssue": "2004 Issue 51"
+    },
+    {
+      "number": 346,
+      "title": "The Ninth Justice",
+      "volume": 36,
+      "releaseDate": "2004-11-29",
+      "wsjIssue": "2004 Issue 53"
+    },
+    {
+      "number": 347,
+      "title": "Six Powers",
+      "volume": 37,
+      "releaseDate": "2004-12-06",
+      "wsjIssue": "2005 Issue 1"
+    },
+    {
+      "number": 348,
+      "title": "Fighting Power",
+      "volume": 37,
+      "releaseDate": "2004-12-13",
+      "wsjIssue": "2005 Issue 2"
+    },
+    {
+      "number": 349,
+      "title": "Ordinary Citizens",
+      "volume": 37,
+      "releaseDate": "2004-12-20",
+      "wsjIssue": "2005 Issue 3-4"
+    },
+    {
+      "number": 350,
+      "title": "The Warehouse Under the Bridge",
+      "volume": 37,
+      "releaseDate": "2005-01-03",
+      "wsjIssue": "2005 Issue 5-6"
+    },
+    {
+      "number": 351,
+      "title": "Klabautermann",
+      "volume": 37,
+      "releaseDate": "2005-01-17",
+      "wsjIssue": "2005 Issue 7"
+    },
+    {
+      "number": 352,
+      "title": "Tom's Workers",
+      "volume": 37,
+      "releaseDate": "2005-01-24",
+      "wsjIssue": "2005 Issue 8"
+    },
+    {
+      "number": 353,
+      "title": "The Legendary Shipwright",
+      "volume": 37,
+      "releaseDate": "2005-01-31",
+      "wsjIssue": "2005 Issue 9"
+    },
+    {
+      "number": 354,
+      "title": "Sea Train",
+      "volume": 37,
+      "releaseDate": "2005-02-07",
+      "wsjIssue": "2005 Issue 10"
+    },
+    {
+      "number": 355,
+      "title": "Spandam",
+      "volume": 37,
+      "releaseDate": "2005-02-14",
+      "wsjIssue": "2005 Issue 11"
+    },
+    {
+      "number": 356,
+      "title": "Mr. Tom",
+      "volume": 37,
+      "releaseDate": "2005-02-28",
+      "wsjIssue": "2005 Issue 13"
+    },
+    {
+      "number": 357,
+      "title": "Cutty Flam",
+      "volume": 37,
+      "releaseDate": "2005-03-07",
+      "wsjIssue": "2005 Issue 14"
+    },
+    {
+      "number": 358,
+      "title": "Reactivation",
+      "volume": 38,
+      "releaseDate": "2005-03-14",
+      "wsjIssue": "2005 Issue 15"
+    },
+    {
+      "number": 359,
+      "title": "Bingo",
+      "volume": 38,
+      "releaseDate": "2005-03-19",
+      "wsjIssue": "2005 Issue 16"
+    },
+    {
+      "number": 360,
+      "title": "Departing Soon",
+      "volume": 38,
+      "releaseDate": "2005-03-28",
+      "wsjIssue": "2005 Issue 17"
+    },
+    {
+      "number": 361,
+      "title": "P.S.",
+      "volume": 38,
+      "releaseDate": "2005-04-04",
+      "wsjIssue": "2005 Issue 18"
+    },
+    {
+      "number": 362,
+      "title": "Ebb Tide",
+      "volume": 38,
+      "releaseDate": "2005-04-11",
+      "wsjIssue": "2005 Issue 19"
+    },
+    {
+      "number": 363,
+      "title": "Aqua Laguna",
+      "volume": 38,
+      "releaseDate": "2005-04-18",
+      "wsjIssue": "2005 Issue 20"
+    },
+    {
+      "number": 364,
+      "title": "Kokoro",
+      "volume": 38,
+      "releaseDate": "2005-04-25",
+      "wsjIssue": "2005 Issue 21-22"
+    },
+    {
+      "number": 365,
+      "title": "Rocketman!!",
+      "volume": 38,
+      "releaseDate": "2005-05-09",
+      "wsjIssue": "2005 Issue 23"
+    },
+    {
+      "number": 366,
+      "title": "Sortie!",
+      "volume": 38,
+      "releaseDate": "2005-05-16",
+      "wsjIssue": "2005 Issue 24"
+    },
+    {
+      "number": 367,
+      "title": "Sniper King",
+      "volume": 38,
+      "releaseDate": "2005-05-23",
+      "wsjIssue": "2005 Issue 25"
+    },
+    {
+      "number": 368,
+      "title": "Sea Train Battle Game",
+      "volume": 39,
+      "releaseDate": "2005-05-30",
+      "wsjIssue": "2005 Issue 26"
+    },
+    {
+      "number": 369,
+      "title": "Ramen Kung Fu",
+      "volume": 39,
+      "releaseDate": "2005-06-06",
+      "wsjIssue": "2005 Issue 27"
+    },
+    {
+      "number": 370,
+      "title": "You're Not Alone",
+      "volume": 39,
+      "releaseDate": "2005-06-13",
+      "wsjIssue": "2005 Issue 28"
+    },
+    {
+      "number": 371,
+      "title": "The Honorable Captain T-Bone",
+      "volume": 39,
+      "releaseDate": "2005-06-20",
+      "wsjIssue": "2005 Issue 29"
+    },
+    {
+      "number": 372,
+      "title": "Plastic Surgery",
+      "volume": 39,
+      "releaseDate": "2005-06-27",
+      "wsjIssue": "2005 Issue 30"
+    },
+    {
+      "number": 373,
+      "title": "Necessary Evil",
+      "volume": 39,
+      "releaseDate": "2005-07-04",
+      "wsjIssue": "2005 Issue 31"
+    },
+    {
+      "number": 374,
+      "title": "Scramble",
+      "volume": 39,
+      "releaseDate": "2005-07-16",
+      "wsjIssue": "2005 Issue 33"
+    },
+    {
+      "number": 375,
+      "title": "The Supermen of Enies Lobby",
+      "volume": 39,
+      "releaseDate": "2005-07-25",
+      "wsjIssue": "2005 Issue 34"
+    },
+    {
+      "number": 376,
+      "title": "I Got It!!",
+      "volume": 39,
+      "releaseDate": "2005-08-01",
+      "wsjIssue": "2005 Issue 35"
+    },
+    {
+      "number": 377,
+      "title": "The Big Showdown on the Judicial Island",
+      "volume": 39,
+      "releaseDate": "2005-08-08",
+      "wsjIssue": "2005 Issue 36-37"
+    },
+    {
+      "number": 378,
+      "title": "Casualties",
+      "volume": 40,
+      "releaseDate": "2005-08-22",
+      "wsjIssue": "2005 Issue 38"
+    },
+    {
+      "number": 379,
+      "title": "Power Level",
+      "volume": 40,
+      "releaseDate": "2005-08-29",
+      "wsjIssue": "2005 Issue 39"
+    },
+    {
+      "number": 380,
+      "title": "Enies Lobby Main Island Express",
+      "volume": 40,
+      "releaseDate": "2005-09-05",
+      "wsjIssue": "2005 Issue 40"
+    },
+    {
+      "number": 381,
+      "title": "Fired",
+      "volume": 40,
+      "releaseDate": "2005-09-12",
+      "wsjIssue": "2005 Issue 41"
+    },
+    {
+      "number": 382,
+      "title": "Demon Lair",
+      "volume": 40,
+      "releaseDate": "2005-09-17",
+      "wsjIssue": "2005 Issue 42"
+    },
+    {
+      "number": 383,
+      "title": "Luffy vs. Blueno",
+      "volume": 40,
+      "releaseDate": "2005-09-26",
+      "wsjIssue": "2005 Issue 43"
+    },
+    {
+      "number": 384,
+      "title": "Signal the Counterattack",
+      "volume": 40,
+      "releaseDate": "2005-10-03",
+      "wsjIssue": "2005 Issue 44"
+    },
+    {
+      "number": 385,
+      "title": "There Is a Way",
+      "volume": 40,
+      "releaseDate": "2005-10-08",
+      "wsjIssue": "2005 Issue 45"
+    },
+    {
+      "number": 386,
+      "title": "Unprecedented",
+      "volume": 40,
+      "releaseDate": "2005-10-17",
+      "wsjIssue": "2005 Issue 46"
+    },
+    {
+      "number": 387,
+      "title": "Gear",
+      "volume": 40,
+      "releaseDate": "2005-10-31",
+      "wsjIssue": "2005 Issue 48"
+    },
+    {
+      "number": 388,
+      "title": "Gear Two",
+      "volume": 40,
+      "releaseDate": "2005-11-07",
+      "wsjIssue": "2005 Issue 49"
+    },
+    {
+      "number": 389,
+      "title": "Response",
+      "volume": 41,
+      "releaseDate": "2005-11-14",
+      "wsjIssue": "2005 Issue 50"
+    },
+    {
+      "number": 390,
+      "title": "Accepting the Challenge",
+      "volume": 41,
+      "releaseDate": "2005-11-21",
+      "wsjIssue": "2005 Issue 51"
+    },
+    {
+      "number": 391,
+      "title": "The Girl They Called a Demon",
+      "volume": 41,
+      "releaseDate": "2005-11-28",
+      "wsjIssue": "2005 Issue 52"
+    },
+    {
+      "number": 392,
+      "title": "Dereshi",
+      "volume": 41,
+      "releaseDate": "2005-12-12",
+      "wsjIssue": "2006 Issue 2"
+    },
+    {
+      "number": 393,
+      "title": "Olvia",
+      "volume": 41,
+      "releaseDate": "2005-12-19",
+      "wsjIssue": "2006 Issue 3"
+    },
+    {
+      "number": 394,
+      "title": "The Demons of Ohara",
+      "volume": 41,
+      "releaseDate": "2005-12-26",
+      "wsjIssue": "2006 Issue 4-5"
+    },
+    {
+      "number": 395,
+      "title": "Ohara vs. the World Government",
+      "volume": 41,
+      "releaseDate": "2006-01-07",
+      "wsjIssue": "2006 Issue 6-7"
+    },
+    {
+      "number": 396,
+      "title": "Saul",
+      "volume": 41,
+      "releaseDate": "2006-01-23",
+      "wsjIssue": "2006 Issue 8"
+    },
+    {
+      "number": 397,
+      "title": "In Hopes of Reaching the Future",
+      "volume": 41,
+      "releaseDate": "2006-01-30",
+      "wsjIssue": "2006 Issue 9"
+    },
+    {
+      "number": 398,
+      "title": "Declaration of War",
+      "volume": 41,
+      "releaseDate": "2006-02-06",
+      "wsjIssue": "2006 Issue 10"
+    },
+    {
+      "number": 399,
+      "title": "Jump Toward the Waterfall!!",
+      "volume": 41,
+      "releaseDate": "2006-02-13",
+      "wsjIssue": "2006 Issue 11"
+    },
+    {
+      "number": 400,
+      "title": "The Key to Freedom",
+      "volume": 42,
+      "releaseDate": "2006-02-20",
+      "wsjIssue": "2006 Issue 12"
+    },
+    {
+      "number": 401,
+      "title": "Pirates vs. CP9",
+      "volume": 42,
+      "releaseDate": "2006-02-27",
+      "wsjIssue": "2006 Issue 13"
+    },
+    {
+      "number": 402,
+      "title": "Handcuffs No. 2",
+      "volume": 42,
+      "releaseDate": "2006-03-06",
+      "wsjIssue": "2006 Issue 14"
+    },
+    {
+      "number": 403,
+      "title": "Mr. Chivalry",
+      "volume": 42,
+      "releaseDate": "2006-03-13",
+      "wsjIssue": "2006 Issue 15"
+    },
+    {
+      "number": 404,
+      "title": "Franky vs. Fukurô",
+      "volume": 42,
+      "releaseDate": "2006-03-20",
+      "wsjIssue": "2006 Issue 16"
+    },
+    {
+      "number": 405,
+      "title": "Power",
+      "volume": 42,
+      "releaseDate": "2006-03-27",
+      "wsjIssue": "2006 Issue 17"
+    },
+    {
+      "number": 406,
+      "title": "Life Return",
+      "volume": 42,
+      "releaseDate": "2006-04-10",
+      "wsjIssue": "2006 Issue 19"
+    },
+    {
+      "number": 407,
+      "title": "Monster",
+      "volume": 42,
+      "releaseDate": "2006-04-17",
+      "wsjIssue": "2006 Issue 20"
+    },
+    {
+      "number": 408,
+      "title": "Monster vs. Kumadori",
+      "volume": 42,
+      "releaseDate": "2006-04-24",
+      "wsjIssue": "2006 Issue 21-22"
+    },
+    {
+      "number": 409,
+      "title": "The Terrifying Broadcast",
+      "volume": 42,
+      "releaseDate": "2006-05-08",
+      "wsjIssue": "2006 Issue 23"
+    },
+    {
+      "number": 410,
+      "title": "Super-Size Nami",
+      "volume": 43,
+      "releaseDate": "2006-05-15",
+      "wsjIssue": "2006 Issue 24"
+    },
+    {
+      "number": 411,
+      "title": "Nami vs. Kalifa",
+      "volume": 43,
+      "releaseDate": "2006-05-22",
+      "wsjIssue": "2006 Issue 25"
+    },
+    {
+      "number": 412,
+      "title": "You Missed Your Chance",
+      "volume": 43,
+      "releaseDate": "2006-05-29",
+      "wsjIssue": "2006 Issue 26"
+    },
+    {
+      "number": 413,
+      "title": "Hunter",
+      "volume": 43,
+      "releaseDate": "2006-06-05",
+      "wsjIssue": "2006 Issue 27"
+    },
+    {
+      "number": 414,
+      "title": "Sanji vs. Jabra",
+      "volume": 43,
+      "releaseDate": "2006-06-12",
+      "wsjIssue": "2006 Issue 28"
+    },
+    {
+      "number": 415,
+      "title": "Heat Up",
+      "volume": 43,
+      "releaseDate": "2006-06-19",
+      "wsjIssue": "2006 Issue 29"
+    },
+    {
+      "number": 416,
+      "title": "Zolo vs. Kaku",
+      "volume": 43,
+      "releaseDate": "2006-06-26",
+      "wsjIssue": "2006 Issue 30"
+    },
+    {
+      "number": 417,
+      "title": "Asura",
+      "volume": 43,
+      "releaseDate": "2006-07-03",
+      "wsjIssue": "2006 Issue 31"
+    },
+    {
+      "number": 418,
+      "title": "Luffy vs. Rob Lucci",
+      "volume": 43,
+      "releaseDate": "2006-07-10",
+      "wsjIssue": "2006 Issue 32"
+    },
+    {
+      "number": 419,
+      "title": "Legend of a Hero",
+      "volume": 43,
+      "releaseDate": "2006-07-15",
+      "wsjIssue": "2006 Issue 33"
+    },
+    {
+      "number": 420,
+      "title": "Buster Call",
+      "volume": 44,
+      "releaseDate": "2006-07-24",
+      "wsjIssue": "2006 Issue 34"
+    },
+    {
+      "number": 421,
+      "title": "Gear Three",
+      "volume": 44,
+      "releaseDate": "2006-07-31",
+      "wsjIssue": "2006 Issue 35"
+    },
+    {
+      "number": 422,
+      "title": "Rob Lucci",
+      "volume": 44,
+      "releaseDate": "2006-08-07",
+      "wsjIssue": "2006 Issue 36-37"
+    },
+    {
+      "number": 423,
+      "title": "Mermaid Legend",
+      "volume": 44,
+      "releaseDate": "2006-08-21",
+      "wsjIssue": "2006 Issue 38"
+    },
+    {
+      "number": 424,
+      "title": "Escape Ship",
+      "volume": 44,
+      "releaseDate": "2006-08-28",
+      "wsjIssue": "2006 Issue 39"
+    },
+    {
+      "number": 425,
+      "title": "Bridge of Mortal Combat",
+      "volume": 44,
+      "releaseDate": "2006-09-04",
+      "wsjIssue": "2006 Issue 40"
+    },
+    {
+      "number": 426,
+      "title": "A Ship Waiting for Wind",
+      "volume": 44,
+      "releaseDate": "2006-09-11",
+      "wsjIssue": "2006 Issue 41"
+    },
+    {
+      "number": 427,
+      "title": "This Isn't the Afterlife",
+      "volume": 44,
+      "releaseDate": "2006-09-16",
+      "wsjIssue": "2006 Issue 42"
+    },
+    {
+      "number": 428,
+      "title": "Let's Go Back",
+      "volume": 44,
+      "releaseDate": "2006-09-25",
+      "wsjIssue": "2006 Issue 43"
+    },
+    {
+      "number": 429,
+      "title": "Utter Defeat",
+      "volume": 44,
+      "releaseDate": "2006-10-02",
+      "wsjIssue": "2006 Issue 44"
+    },
+    {
+      "number": 430,
+      "title": "A Light Snow of Reminiscence Falls",
+      "volume": 44,
+      "releaseDate": "2006-10-07",
+      "wsjIssue": "2006 Issue 45"
+    },
+    {
+      "number": 431,
+      "title": "Fist of Love",
+      "volume": 45,
+      "releaseDate": "2006-10-23",
+      "wsjIssue": "2006 Issue 47"
+    },
+    {
+      "number": 432,
+      "title": "Jack-in-the-Box",
+      "volume": 45,
+      "releaseDate": "2006-10-30",
+      "wsjIssue": "2006 Issue 48"
+    },
+    {
+      "number": 433,
+      "title": "The Name of That Sea",
+      "volume": 45,
+      "releaseDate": "2006-11-06",
+      "wsjIssue": "2006 Issue 49"
+    },
+    {
+      "number": 434,
+      "title": "Whitebeard and Red-Hair",
+      "volume": 45,
+      "releaseDate": "2006-11-13",
+      "wsjIssue": "2006 Issue 50"
+    },
+    {
+      "number": 435,
+      "title": "You Have My Sympathies",
+      "volume": 45,
+      "releaseDate": "2006-11-20",
+      "wsjIssue": "2006 Issue 51"
+    },
+    {
+      "number": 436,
+      "title": "Trunks from Franky House",
+      "volume": 45,
+      "releaseDate": "2006-12-04",
+      "wsjIssue": "2007 Issue 1"
+    },
+    {
+      "number": 437,
+      "title": "Naked Mania",
+      "volume": 45,
+      "releaseDate": "2006-12-11",
+      "wsjIssue": "2007 Issue 2"
+    },
+    {
+      "number": 438,
+      "title": "Pride",
+      "volume": 45,
+      "releaseDate": "2006-12-18",
+      "wsjIssue": "2007 Issue 3"
+    },
+    {
+      "number": 439,
+      "title": "Third and Seventh",
+      "volume": 45,
+      "releaseDate": "2006-12-25",
+      "wsjIssue": "2007 Issue 4-5"
+    },
+    {
+      "number": 440,
+      "title": "Fire Fist vs. Blackbeard",
+      "volume": 45,
+      "releaseDate": "2007-01-06",
+      "wsjIssue": "2007 Issue 6-7"
+    },
+    {
+      "number": 441,
+      "title": "Duel on Banaro Island",
+      "volume": 46,
+      "releaseDate": "2007-01-22",
+      "wsjIssue": "2007 Issue 8"
+    },
+    {
+      "number": 442,
+      "title": "Adventure in the Demonic Sea",
+      "volume": 46,
+      "releaseDate": "2007-01-29",
+      "wsjIssue": "2007 Issue 9"
+    },
+    {
+      "number": 443,
+      "title": "Thriller Bark",
+      "volume": 46,
+      "releaseDate": "2007-02-05",
+      "wsjIssue": "2007 Issue 10"
+    },
+    {
+      "number": 444,
+      "title": "Adventure on Ghost Island",
+      "volume": 46,
+      "releaseDate": "2007-02-10",
+      "wsjIssue": "2007 Issue 11"
+    },
+    {
+      "number": 445,
+      "title": "Zombies",
+      "volume": 46,
+      "releaseDate": "2007-02-19",
+      "wsjIssue": "2007 Issue 12"
+    },
+    {
+      "number": 446,
+      "title": "Doctor Hogback",
+      "volume": 46,
+      "releaseDate": "2007-02-26",
+      "wsjIssue": "2007 Issue 13"
+    },
+    {
+      "number": 447,
+      "title": "Zombie-in-the-Box",
+      "volume": 46,
+      "releaseDate": "2007-03-05",
+      "wsjIssue": "2007 Issue 14"
+    },
+    {
+      "number": 448,
+      "title": "Moria",
+      "volume": 46,
+      "releaseDate": "2007-03-12",
+      "wsjIssue": "2007 Issue 15"
+    },
+    {
+      "number": 449,
+      "title": "The Four Monsters of Thriller Bark",
+      "volume": 46,
+      "releaseDate": "2007-03-26",
+      "wsjIssue": "2007 Issue 17"
+    },
+    {
+      "number": 450,
+      "title": "Night of the Zombie Generals",
+      "volume": 47,
+      "releaseDate": "2007-04-02",
+      "wsjIssue": "2007 Issue 18"
+    },
+    {
+      "number": 451,
+      "title": "Perona's Wonder Garden",
+      "volume": 47,
+      "releaseDate": "2007-04-09",
+      "wsjIssue": "2007 Issue 19"
+    },
+    {
+      "number": 452,
+      "title": "Jigoro of the Wind",
+      "volume": 47,
+      "releaseDate": "2007-04-16",
+      "wsjIssue": "2007 Issue 20"
+    },
+    {
+      "number": 453,
+      "title": "Cloudy, Partly Bony",
+      "volume": 47,
+      "releaseDate": "2007-04-23",
+      "wsjIssue": "2007 Issue 21"
+    },
+    {
+      "number": 454,
+      "title": "The Humming Swordsman",
+      "volume": 47,
+      "releaseDate": "2007-04-28",
+      "wsjIssue": "2007 Issue 22-23"
+    },
+    {
+      "number": 455,
+      "title": "Gecko Moria of the Seven Warlords of the Sea",
+      "volume": 47,
+      "releaseDate": "2007-05-14",
+      "wsjIssue": "2007 Issue 24"
+    },
+    {
+      "number": 456,
+      "title": "Demon from the Land of Ice",
+      "volume": 47,
+      "releaseDate": "2007-05-21",
+      "wsjIssue": "2007 Issue 25"
+    },
+    {
+      "number": 457,
+      "title": "Meat!!!",
+      "volume": 47,
+      "releaseDate": "2007-05-28",
+      "wsjIssue": "2007 Issue 26"
+    },
+    {
+      "number": 458,
+      "title": "Anything but My Afro",
+      "volume": 47,
+      "releaseDate": "2007-06-04",
+      "wsjIssue": "2007 Issue 27"
+    },
+    {
+      "number": 459,
+      "title": "I Can't Just Die Hoping to be Forgiven",
+      "volume": 47,
+      "releaseDate": "2007-06-11",
+      "wsjIssue": "2007 Issue 28"
+    },
+    {
+      "number": 460,
+      "title": "Conquest Before Dawn!",
+      "volume": 48,
+      "releaseDate": "2007-06-25",
+      "wsjIssue": "2007 Issue 30"
+    },
+    {
+      "number": 461,
+      "title": "Ghost Buster",
+      "volume": 48,
+      "releaseDate": "2007-07-02",
+      "wsjIssue": "2007 Issue 31"
+    },
+    {
+      "number": 462,
+      "title": "Adventures of Oars",
+      "volume": 48,
+      "releaseDate": "2007-07-09",
+      "wsjIssue": "2007 Issue 32"
+    },
+    {
+      "number": 463,
+      "title": "Pirate Sanji vs. Mystery Man Absalom",
+      "volume": 48,
+      "releaseDate": "2007-07-14",
+      "wsjIssue": "2007 Issue 33"
+    },
+    {
+      "number": 464,
+      "title": "Sanji's Dream",
+      "volume": 48,
+      "releaseDate": "2007-07-23",
+      "wsjIssue": "2007 Issue 34"
+    },
+    {
+      "number": 465,
+      "title": "Pirate Usopp vs. Mystery Woman Perona",
+      "volume": 48,
+      "releaseDate": "2007-07-30",
+      "wsjIssue": "2007 Issue 35"
+    },
+    {
+      "number": 466,
+      "title": "Conclusion",
+      "volume": 48,
+      "releaseDate": "2007-08-06",
+      "wsjIssue": "2007 Issue 36-37"
+    },
+    {
+      "number": 467,
+      "title": "Pirate Zolo vs. Samurai Ryuma",
+      "volume": 48,
+      "releaseDate": "2007-08-20",
+      "wsjIssue": "2007 Issue 38"
+    },
+    {
+      "number": 468,
+      "title": "Pirate Chopper vs. Mystery Man Hogback",
+      "volume": 48,
+      "releaseDate": "2007-08-27",
+      "wsjIssue": "2007 Issue 39"
+    },
+    {
+      "number": 469,
+      "title": "Come Out Here, Straw Hat Pirates!",
+      "volume": 48,
+      "releaseDate": "2007-09-03",
+      "wsjIssue": "2007 Issue 40"
+    },
+    {
+      "number": 470,
+      "title": "Oars vs. Straw Hat Pirates",
+      "volume": 48,
+      "releaseDate": "2007-09-10",
+      "wsjIssue": "2007 Issue 41"
+    },
+    {
+      "number": 471,
+      "title": "My Friend",
+      "volume": 49,
+      "releaseDate": "2007-09-22",
+      "wsjIssue": "2007 Issue 43"
+    },
+    {
+      "number": 472,
+      "title": "Down",
+      "volume": 49,
+      "releaseDate": "2007-10-01",
+      "wsjIssue": "2007 Issue 44"
+    },
+    {
+      "number": 473,
+      "title": "Warlord Bartholomew Kuma Appears",
+      "volume": 49,
+      "releaseDate": "2007-10-06",
+      "wsjIssue": "2007 Issue 45"
+    },
+    {
+      "number": 474,
+      "title": "We Have to Do It!",
+      "volume": 49,
+      "releaseDate": "2007-10-15",
+      "wsjIssue": "2007 Issue 46"
+    },
+    {
+      "number": 475,
+      "title": "Pirates of the Forest",
+      "volume": 49,
+      "releaseDate": "2007-10-22",
+      "wsjIssue": "2007 Issue 47"
+    },
+    {
+      "number": 476,
+      "title": "Nightmare Luffy",
+      "volume": 49,
+      "releaseDate": "2007-10-29",
+      "wsjIssue": "2007 Issue 48"
+    },
+    {
+      "number": 477,
+      "title": "3/8",
+      "volume": 49,
+      "releaseDate": "2007-11-05",
+      "wsjIssue": "2007 Issue 49"
+    },
+    {
+      "number": 478,
+      "title": "Luffy vs. Luffy",
+      "volume": 49,
+      "releaseDate": "2007-11-12",
+      "wsjIssue": "2007 Issue 50"
+    },
+    {
+      "number": 479,
+      "title": "Warrior of Hope",
+      "volume": 49,
+      "releaseDate": "2007-11-19",
+      "wsjIssue": "2007 Issue 51"
+    },
+    {
+      "number": 480,
+      "title": "Interception",
+      "volume": 49,
+      "releaseDate": "2007-12-03",
+      "wsjIssue": "2008 Issue 1"
+    },
+    {
+      "number": 481,
+      "title": "Shadows Asgard",
+      "volume": 49,
+      "releaseDate": "2007-12-10",
+      "wsjIssue": "2008 Issue 2"
+    },
+    {
+      "number": 482,
+      "title": "Morning Is Coming",
+      "volume": 50,
+      "releaseDate": "2007-12-17",
+      "wsjIssue": "2008 Issue 3"
+    },
+    {
+      "number": 483,
+      "title": "The End of the Dream",
+      "volume": 50,
+      "releaseDate": "2007-12-25",
+      "wsjIssue": "2008 Issue 4-5"
+    },
+    {
+      "number": 484,
+      "title": "Squish",
+      "volume": 50,
+      "releaseDate": "2008-01-04",
+      "wsjIssue": "2008 Issue 6-7"
+    },
+    {
+      "number": 485,
+      "title": "Straw Hat Pirates—Pirate Hunter Zolo",
+      "volume": 50,
+      "releaseDate": "2008-01-21",
+      "wsjIssue": "2008 Issue 8"
+    },
+    {
+      "number": 486,
+      "title": "Piano",
+      "volume": 50,
+      "releaseDate": "2008-01-28",
+      "wsjIssue": "2008 Issue 9"
+    },
+    {
+      "number": 487,
+      "title": "That Song",
+      "volume": 50,
+      "releaseDate": "2008-02-04",
+      "wsjIssue": "2008 Issue 10"
+    },
+    {
+      "number": 488,
+      "title": "Song of Life",
+      "volume": 50,
+      "releaseDate": "2008-02-09",
+      "wsjIssue": "2008 Issue 11"
+    },
+    {
+      "number": 489,
+      "title": "Eighth Person",
+      "volume": 50,
+      "releaseDate": "2008-02-25",
+      "wsjIssue": "2008 Issue 13"
+    },
+    {
+      "number": 490,
+      "title": "Arriving Again",
+      "volume": 50,
+      "releaseDate": "2008-03-03",
+      "wsjIssue": "2008 Issue 14"
+    },
+    {
+      "number": 491,
+      "title": "Flying Fish Riders",
+      "volume": 50,
+      "releaseDate": "2008-03-10",
+      "wsjIssue": "2008 Issue 15"
+    },
+    {
+      "number": 492,
+      "title": "Iron Mask Duval",
+      "volume": 51,
+      "releaseDate": "2008-03-17",
+      "wsjIssue": "2008 Issue 16"
+    },
+    {
+      "number": 493,
+      "title": "You Know Me",
+      "volume": 51,
+      "releaseDate": "2008-03-24",
+      "wsjIssue": "2008 Issue 17"
+    },
+    {
+      "number": 494,
+      "title": "Duval's Tragedy",
+      "volume": 51,
+      "releaseDate": "2008-03-31",
+      "wsjIssue": "2008 Issue 18"
+    },
+    {
+      "number": 495,
+      "title": "Gaon Cannon",
+      "volume": 51,
+      "releaseDate": "2008-04-07",
+      "wsjIssue": "2008 Issue 19"
+    },
+    {
+      "number": 496,
+      "title": "Yarukiman Mangrove",
+      "volume": 51,
+      "releaseDate": "2008-04-14",
+      "wsjIssue": "2008 Issue 20"
+    },
+    {
+      "number": 497,
+      "title": "Adventure on the Archipelago of Dancing Soap Bubbles",
+      "volume": 51,
+      "releaseDate": "2008-04-21",
+      "wsjIssue": "2008 Issue 21"
+    },
+    {
+      "number": 498,
+      "title": "The Eleven Supernovas",
+      "volume": 51,
+      "releaseDate": "2008-04-28",
+      "wsjIssue": "2008 Issue 22-23"
+    },
+    {
+      "number": 499,
+      "title": "Sabaody Park",
+      "volume": 51,
+      "releaseDate": "2008-05-19",
+      "wsjIssue": "2008 Issue 25"
+    },
+    {
+      "number": 500,
+      "title": "The Embers of History",
+      "volume": 51,
+      "releaseDate": "2008-05-26",
+      "wsjIssue": "2008 Issue 26"
+    },
+    {
+      "number": 501,
+      "title": "The World Begins to Swell",
+      "volume": 51,
+      "releaseDate": "2008-06-02",
+      "wsjIssue": "2008 Issue 27"
+    },
+    {
+      "number": 502,
+      "title": "The Incident of the Celestial Dragons",
+      "volume": 51,
+      "releaseDate": "2008-06-09",
+      "wsjIssue": "2008 Issue 28"
+    },
+    {
+      "number": 503,
+      "title": "Aggravated Island",
+      "volume": 52,
+      "releaseDate": "2008-06-16",
+      "wsjIssue": "2008 Issue 29"
+    },
+    {
+      "number": 504,
+      "title": "Pirate Front Line on the Move!!",
+      "volume": 52,
+      "releaseDate": "2008-06-23",
+      "wsjIssue": "2008 Issue 30"
+    },
+    {
+      "number": 505,
+      "title": "Kuma",
+      "volume": 52,
+      "releaseDate": "2008-06-30",
+      "wsjIssue": "2008 Issue 31"
+    },
+    {
+      "number": 506,
+      "title": "Roger and Rayleigh",
+      "volume": 52,
+      "releaseDate": "2008-07-07",
+      "wsjIssue": "2008 Issue 32"
+    },
+    {
+      "number": 507,
+      "title": "Kizaru Arrives",
+      "volume": 52,
+      "releaseDate": "2008-07-19",
+      "wsjIssue": "2008 Issue 34"
+    },
+    {
+      "number": 508,
+      "title": "Island of Carnage",
+      "volume": 52,
+      "releaseDate": "2008-07-28",
+      "wsjIssue": "2008 Issue 35"
+    },
+    {
+      "number": 509,
+      "title": "Kizaru vs. Four Captains",
+      "volume": 52,
+      "releaseDate": "2008-08-04",
+      "wsjIssue": "2008 Issue 36"
+    },
+    {
+      "number": 510,
+      "title": "Straw Hat Pirates vs. War Machine",
+      "volume": 52,
+      "releaseDate": "2008-08-11",
+      "wsjIssue": "2008 Issue 37-38"
+    },
+    {
+      "number": 511,
+      "title": "Axe-Carrying Sentomaru",
+      "volume": 52,
+      "releaseDate": "2008-08-25",
+      "wsjIssue": "2008 Issue 39"
+    },
+    {
+      "number": 512,
+      "title": "Zolo, Gone",
+      "volume": 52,
+      "releaseDate": "2008-09-01",
+      "wsjIssue": "2008 Issue 40"
+    },
+    {
+      "number": 513,
+      "title": "Beyond Rescue!!!",
+      "volume": 53,
+      "releaseDate": "2008-09-08",
+      "wsjIssue": "2008 Issue 41"
+    },
+    {
+      "number": 514,
+      "title": "Body Parasite Mushrooms",
+      "volume": 53,
+      "releaseDate": "2008-09-13",
+      "wsjIssue": "2008 Issue 42"
+    },
+    {
+      "number": 515,
+      "title": "Adventure on the Island of Women",
+      "volume": 53,
+      "releaseDate": "2008-09-22",
+      "wsjIssue": "2008 Issue 43"
+    },
+    {
+      "number": 516,
+      "title": "Pirate Empress Boa Hancock",
+      "volume": 53,
+      "releaseDate": "2008-09-29",
+      "wsjIssue": "2008 Issue 44"
+    },
+    {
+      "number": 517,
+      "title": "Bath Time",
+      "volume": 53,
+      "releaseDate": "2008-10-06",
+      "wsjIssue": "2008 Issue 45"
+    },
+    {
+      "number": 518,
+      "title": "Coliseum",
+      "volume": 53,
+      "releaseDate": "2008-10-11",
+      "wsjIssue": "2008 Issue 46"
+    },
+    {
+      "number": 519,
+      "title": "Natural Born King",
+      "volume": 53,
+      "releaseDate": "2008-10-27",
+      "wsjIssue": "2008 Issue 48"
+    },
+    {
+      "number": 520,
+      "title": "Eye of the Gorgon",
+      "volume": 53,
+      "releaseDate": "2008-11-01",
+      "wsjIssue": "2008 Issue 49"
+    },
+    {
+      "number": 521,
+      "title": "Hoof of the Celestial Dragon",
+      "volume": 53,
+      "releaseDate": "2008-11-10",
+      "wsjIssue": "2008 Issue 50"
+    },
+    {
+      "number": 522,
+      "title": "Fatal Illness",
+      "volume": 53,
+      "releaseDate": "2008-11-17",
+      "wsjIssue": "2008 Issue 51"
+    },
+    {
+      "number": 523,
+      "title": "Hell",
+      "volume": 54,
+      "releaseDate": "2008-11-22",
+      "wsjIssue": "2008 Issue 52"
+    },
+    {
+      "number": 524,
+      "title": "Unstoppable",
+      "volume": 54,
+      "releaseDate": "2008-12-01",
+      "wsjIssue": "2009 Issue 1"
+    },
+    {
+      "number": 525,
+      "title": "The Underwater Prison Impel Down",
+      "volume": 54,
+      "releaseDate": "2008-12-08",
+      "wsjIssue": "2009 Issue 2"
+    },
+    {
+      "number": 526,
+      "title": "Adventure in the Great Prison",
+      "volume": 54,
+      "releaseDate": "2008-12-22",
+      "wsjIssue": "2009 Issue 4-5"
+    },
+    {
+      "number": 527,
+      "title": "Level 1: Crimson Hell",
+      "volume": 54,
+      "releaseDate": "2009-01-05",
+      "wsjIssue": "2009 Issue 6-7"
+    },
+    {
+      "number": 528,
+      "title": "Jimbei, First Son of the Sea",
+      "volume": 54,
+      "releaseDate": "2009-01-19",
+      "wsjIssue": "2009 Issue 8"
+    },
+    {
+      "number": 529,
+      "title": "Level 2: Beast Hell",
+      "volume": 54,
+      "releaseDate": "2009-01-26",
+      "wsjIssue": "2009 Issue 9"
+    },
+    {
+      "number": 530,
+      "title": "From One Hell to Another",
+      "volume": 54,
+      "releaseDate": "2009-02-02",
+      "wsjIssue": "2009 Issue 10"
+    },
+    {
+      "number": 531,
+      "title": "Level 3: Starvation Hell",
+      "volume": 54,
+      "releaseDate": "2009-02-09",
+      "wsjIssue": "2009 Issue 11"
+    },
+    {
+      "number": 532,
+      "title": "Jailer Beast Minotaur",
+      "volume": 54,
+      "releaseDate": "2009-02-16",
+      "wsjIssue": "2009 Issue 12"
+    },
+    {
+      "number": 533,
+      "title": "Level 4: Inferno Hell",
+      "volume": 55,
+      "releaseDate": "2009-02-23",
+      "wsjIssue": "2009 Issue 13"
+    },
+    {
+      "number": 534,
+      "title": "Warden Magellan vs. Pirate Luffy",
+      "volume": 55,
+      "releaseDate": "2009-03-09",
+      "wsjIssue": "2009 Issue 15"
+    },
+    {
+      "number": 535,
+      "title": "Friend",
+      "volume": 55,
+      "releaseDate": "2009-03-16",
+      "wsjIssue": "2009 Issue 16"
+    },
+    {
+      "number": 536,
+      "title": "Level 5: Frozen Hell",
+      "volume": 55,
+      "releaseDate": "2009-03-23",
+      "wsjIssue": "2009 Issue 17"
+    },
+    {
+      "number": 537,
+      "title": "A Ray of Hope",
+      "volume": 55,
+      "releaseDate": "2009-03-30",
+      "wsjIssue": "2009 Issue 18"
+    },
+    {
+      "number": 538,
+      "title": "Level 5.5: New Kama Land",
+      "volume": 55,
+      "releaseDate": "2009-04-06",
+      "wsjIssue": "2009 Issue 19"
+    },
+    {
+      "number": 539,
+      "title": "Emporio Energy Hormone",
+      "volume": 55,
+      "releaseDate": "2009-04-13",
+      "wsjIssue": "2009 Issue 20"
+    },
+    {
+      "number": 540,
+      "title": "Level 6: Infinite Hell",
+      "volume": 55,
+      "releaseDate": "2009-04-27",
+      "wsjIssue": "2009 Issue 22-23"
+    },
+    {
+      "number": 541,
+      "title": "The Greatest Ever",
+      "volume": 55,
+      "releaseDate": "2009-05-11",
+      "wsjIssue": "2009 Issue 24"
+    },
+    {
+      "number": 542,
+      "title": "Yet Another Epic Incident",
+      "volume": 56,
+      "releaseDate": "2009-05-18",
+      "wsjIssue": "2009 Issue 25"
+    },
+    {
+      "number": 543,
+      "title": "Straw Hat and Blackbeard",
+      "volume": 56,
+      "releaseDate": "2009-05-25",
+      "wsjIssue": "2009 Issue 26"
+    },
+    {
+      "number": 544,
+      "title": "The Lid to the Cauldron of Hell Opens",
+      "volume": 56,
+      "releaseDate": "2009-06-01",
+      "wsjIssue": "2009 Issue 27"
+    },
+    {
+      "number": 545,
+      "title": "To Sunshine and Freedom",
+      "volume": 56,
+      "releaseDate": "2009-06-08",
+      "wsjIssue": "2009 Issue 28"
+    },
+    {
+      "number": 546,
+      "title": "Fish-man Pirate Captain Jimbei, Warlord of the Sea",
+      "volume": 56,
+      "releaseDate": "2009-06-15",
+      "wsjIssue": "2009 Issue 29"
+    },
+    {
+      "number": 547,
+      "title": "Island Ripper",
+      "volume": 56,
+      "releaseDate": "2009-06-22",
+      "wsjIssue": "2009 Issue 30"
+    },
+    {
+      "number": 548,
+      "title": "Thank You",
+      "volume": 56,
+      "releaseDate": "2009-06-29",
+      "wsjIssue": "2009 Issue 31"
+    },
+    {
+      "number": 549,
+      "title": "Battleship",
+      "volume": 56,
+      "releaseDate": "2009-07-06",
+      "wsjIssue": "2009 Issue 32"
+    },
+    {
+      "number": 550,
+      "title": "Navy Headquarters",
+      "volume": 56,
+      "releaseDate": "2009-07-18",
+      "wsjIssue": "2009 Issue 34"
+    },
+    {
+      "number": 551,
+      "title": "Whitebeard of the Four Emperors",
+      "volume": 56,
+      "releaseDate": "2009-07-27",
+      "wsjIssue": "2009 Issue 35"
+    },
+    {
+      "number": 552,
+      "title": "Ace and Whitebeard",
+      "volume": 57,
+      "releaseDate": "2009-08-03",
+      "wsjIssue": "2009 Issue 36"
+    },
+    {
+      "number": 553,
+      "title": "Paramount War",
+      "volume": 57,
+      "releaseDate": "2009-08-10",
+      "wsjIssue": "2009 Issue 37-38"
+    },
+    {
+      "number": 554,
+      "title": "Admiral Akainu",
+      "volume": 57,
+      "releaseDate": "2009-08-24",
+      "wsjIssue": "2009 Issue 39"
+    },
+    {
+      "number": 555,
+      "title": "Oars and the Hat",
+      "volume": 57,
+      "releaseDate": "2009-08-31",
+      "wsjIssue": "2009 Issue 40"
+    },
+    {
+      "number": 556,
+      "title": "Justice Will Prevail!",
+      "volume": 57,
+      "releaseDate": "2009-09-07",
+      "wsjIssue": "2009 Issue 41"
+    },
+    {
+      "number": 557,
+      "title": "Luffy and Whitebeard",
+      "volume": 57,
+      "releaseDate": "2009-09-19",
+      "wsjIssue": "2009 Issue 43"
+    },
+    {
+      "number": 558,
+      "title": "Little Brother",
+      "volume": 57,
+      "releaseDate": "2009-09-28",
+      "wsjIssue": "2009 Issue 44"
+    },
+    {
+      "number": 559,
+      "title": "Destiny",
+      "volume": 57,
+      "releaseDate": "2009-10-05",
+      "wsjIssue": "2009 Issue 45"
+    },
+    {
+      "number": 560,
+      "title": "Prisoners of Impel Down",
+      "volume": 57,
+      "releaseDate": "2009-10-10",
+      "wsjIssue": "2009 Issue 46"
+    },
+    {
+      "number": 561,
+      "title": "Luffy vs. Mihawk",
+      "volume": 57,
+      "releaseDate": "2009-10-26",
+      "wsjIssue": "2009 Issue 48"
+    },
+    {
+      "number": 562,
+      "title": "Whirl Spider Squard",
+      "volume": 57,
+      "releaseDate": "2009-11-02",
+      "wsjIssue": "2009 Issue 49"
+    },
+    {
+      "number": 563,
+      "title": "One Man, One Heart",
+      "volume": 58,
+      "releaseDate": "2009-11-09",
+      "wsjIssue": "2009 Issue 50"
+    },
+    {
+      "number": 564,
+      "title": "The Man Who Shook the World",
+      "volume": 58,
+      "releaseDate": "2009-11-21",
+      "wsjIssue": "2009 Issue 52"
+    },
+    {
+      "number": 565,
+      "title": "Oars's Path",
+      "volume": 58,
+      "releaseDate": "2009-11-30",
+      "wsjIssue": "2009 Issue 53"
+    },
+    {
+      "number": 566,
+      "title": "Raid",
+      "volume": 58,
+      "releaseDate": "2009-12-07",
+      "wsjIssue": "2010 Issue 1"
+    },
+    {
+      "number": 567,
+      "title": "Marineford Navy Headquarters—Oris Plaza",
+      "volume": 58,
+      "releaseDate": "2009-12-14",
+      "wsjIssue": "2010 Issue 2"
+    },
+    {
+      "number": 568,
+      "title": "Have It Your Way!",
+      "volume": 58,
+      "releaseDate": "2009-12-21",
+      "wsjIssue": "2010 Issue 3-4"
+    },
+    {
+      "number": 569,
+      "title": "White Monster",
+      "volume": 58,
+      "releaseDate": "2010-01-04",
+      "wsjIssue": "2010 Issue 5-6"
+    },
+    {
+      "number": 570,
+      "title": "The Bridge of Life",
+      "volume": 58,
+      "releaseDate": "2010-01-18",
+      "wsjIssue": "2010 Issue 7"
+    },
+    {
+      "number": 571,
+      "title": "The Execution Platform",
+      "volume": 58,
+      "releaseDate": "2010-01-25",
+      "wsjIssue": "2010 Issue 8"
+    },
+    {
+      "number": 572,
+      "title": "The Times They Are A-Changin'",
+      "volume": 58,
+      "releaseDate": "2010-02-01",
+      "wsjIssue": "2010 Issue 9"
+    },
+    {
+      "number": 573,
+      "title": "The Name of This Era Is \"Whitebeard\"",
+      "volume": 58,
+      "releaseDate": "2010-02-08",
+      "wsjIssue": "2010 Issue 10"
+    },
+    {
+      "number": 574,
+      "title": "The Death of Portgaz D. Ace",
+      "volume": 59,
+      "releaseDate": "2010-02-15",
+      "wsjIssue": "2010 Issue 11"
+    },
+    {
+      "number": 575,
+      "title": "Voiceless Rage",
+      "volume": 59,
+      "releaseDate": "2010-02-22",
+      "wsjIssue": "2010 Issue 12"
+    },
+    {
+      "number": 576,
+      "title": "The Great Pirate Edward Newgate",
+      "volume": 59,
+      "releaseDate": "2010-03-08",
+      "wsjIssue": "2010 Issue 14"
+    },
+    {
+      "number": 577,
+      "title": "Outrageous Events One After Another",
+      "volume": 59,
+      "releaseDate": "2010-03-15",
+      "wsjIssue": "2010 Issue 15"
+    },
+    {
+      "number": 578,
+      "title": "A Gift for the New Era",
+      "volume": 59,
+      "releaseDate": "2010-03-20",
+      "wsjIssue": "2010 Issue 16"
+    },
+    {
+      "number": 579,
+      "title": "A Few Seconds of Courage",
+      "volume": 59,
+      "releaseDate": "2010-03-29",
+      "wsjIssue": "2010 Issue 17"
+    },
+    {
+      "number": 580,
+      "title": "The War's Conclusion",
+      "volume": 59,
+      "releaseDate": "2010-04-05",
+      "wsjIssue": "2010 Issue 18"
+    },
+    {
+      "number": 581,
+      "title": "Creeping Future",
+      "volume": 59,
+      "releaseDate": "2010-04-19",
+      "wsjIssue": "2010 Issue 20"
+    },
+    {
+      "number": 582,
+      "title": "Luffy and Ace",
+      "volume": 59,
+      "releaseDate": "2010-04-26",
+      "wsjIssue": "2010 Issue 21-22"
+    },
+    {
+      "number": 583,
+      "title": "Gray Terminal",
+      "volume": 59,
+      "releaseDate": "2010-05-10",
+      "wsjIssue": "2010 Issue 23"
+    },
+    {
+      "number": 584,
+      "title": "Incident With Porchemy",
+      "volume": 59,
+      "releaseDate": "2010-05-17",
+      "wsjIssue": "2010 Issue 24"
+    },
+    {
+      "number": 585,
+      "title": "Brotherly Pact",
+      "volume": 60,
+      "releaseDate": "2010-05-24",
+      "wsjIssue": "2010 Issue 25"
+    },
+    {
+      "number": 586,
+      "title": "City of Stench",
+      "volume": 60,
+      "releaseDate": "2010-05-31",
+      "wsjIssue": "2010 Issue 26"
+    },
+    {
+      "number": 587,
+      "title": "I Will Never Run Away",
+      "volume": 60,
+      "releaseDate": "2010-06-07",
+      "wsjIssue": "2010 Issue 27"
+    },
+    {
+      "number": 588,
+      "title": "Sabo's Ocean",
+      "volume": 60,
+      "releaseDate": "2010-06-14",
+      "wsjIssue": "2010 Issue 28"
+    },
+    {
+      "number": 589,
+      "title": "Will of the Winds",
+      "volume": 60,
+      "releaseDate": "2010-06-28",
+      "wsjIssue": "2010 Issue 30"
+    },
+    {
+      "number": 590,
+      "title": "My Little Brother",
+      "volume": 60,
+      "releaseDate": "2010-07-05",
+      "wsjIssue": "2010 Issue 31"
+    },
+    {
+      "number": 591,
+      "title": "Are You Sure About That?",
+      "volume": 60,
+      "releaseDate": "2010-07-12",
+      "wsjIssue": "2010 Issue 32"
+    },
+    {
+      "number": 592,
+      "title": "Cheer",
+      "volume": 60,
+      "releaseDate": "2010-07-17",
+      "wsjIssue": "2010 Issue 33"
+    },
+    {
+      "number": 593,
+      "title": "NEWS",
+      "volume": 60,
+      "releaseDate": "2010-07-26",
+      "wsjIssue": "2010 Issue 34"
+    },
+    {
+      "number": 594,
+      "title": "Message",
+      "volume": 60,
+      "releaseDate": "2010-08-02",
+      "wsjIssue": "2010 Issue 35"
+    },
+    {
+      "number": 595,
+      "title": "The Pledge",
+      "volume": 61,
+      "releaseDate": "2010-08-09",
+      "wsjIssue": "2010 Issue 36-37"
+    },
+    {
+      "number": 596,
+      "title": "SPECTRUM",
+      "volume": 61,
+      "releaseDate": "2010-08-23",
+      "wsjIssue": "2010 Issue 38"
+    },
+    {
+      "number": 597,
+      "title": "3D2Y",
+      "volume": 61,
+      "releaseDate": "2010-08-30",
+      "wsjIssue": "2010 Issue 39"
+    },
+    {
+      "number": 598,
+      "title": "Two Years Later",
+      "volume": 61,
+      "releaseDate": "2010-10-04",
+      "wsjIssue": "2010 Issue 44"
+    },
+    {
+      "number": 599,
+      "title": "Nine Pirates",
+      "volume": 61,
+      "releaseDate": "2010-10-09",
+      "wsjIssue": "2010 Issue 45"
+    },
+    {
+      "number": 600,
+      "title": "Island of New Beginnings",
+      "volume": 61,
+      "releaseDate": "2010-10-18",
+      "wsjIssue": "2010 Issue 46"
+    },
+    {
+      "number": 601,
+      "title": "Romance Dawn for the New World",
+      "volume": 61,
+      "releaseDate": "2010-10-25",
+      "wsjIssue": "2010 Issue 47"
+    },
+    {
+      "number": 602,
+      "title": "Downward Ho!",
+      "volume": 61,
+      "releaseDate": "2010-11-01",
+      "wsjIssue": "2010 Issue 48"
+    },
+    {
+      "number": 603,
+      "title": "Keep That in Mind",
+      "volume": 61,
+      "releaseDate": "2010-11-08",
+      "wsjIssue": "2010 Issue 49"
+    },
+    {
+      "number": 604,
+      "title": "To the Deep Sea",
+      "volume": 62,
+      "releaseDate": "2010-11-15",
+      "wsjIssue": "2010 Issue 50"
+    },
+    {
+      "number": 605,
+      "title": "The Kraken and the Pirates",
+      "volume": 62,
+      "releaseDate": "2010-11-29",
+      "wsjIssue": "2010 Issue 52"
+    },
+    {
+      "number": 606,
+      "title": "Deep Sea Adventure",
+      "volume": 62,
+      "releaseDate": "2010-12-06",
+      "wsjIssue": "2011 Issue 1"
+    },
+    {
+      "number": 607,
+      "title": "30,000 Feet Under the Sea",
+      "volume": 62,
+      "releaseDate": "2010-12-13",
+      "wsjIssue": "2011 Issue 2"
+    },
+    {
+      "number": 608,
+      "title": "Underwater Paradise",
+      "volume": 62,
+      "releaseDate": "2010-12-20",
+      "wsjIssue": "2011 Issue 3-4"
+    },
+    {
+      "number": 609,
+      "title": "Adventure on Fish-Man Island",
+      "volume": 62,
+      "releaseDate": "2011-01-04",
+      "wsjIssue": "2011 Issue 5-6"
+    },
+    {
+      "number": 610,
+      "title": "Madam Sharley, Fortune-Teller",
+      "volume": 62,
+      "releaseDate": "2011-01-17",
+      "wsjIssue": "2011 Issue 7"
+    },
+    {
+      "number": 611,
+      "title": "Hody Jones",
+      "volume": 62,
+      "releaseDate": "2011-01-24",
+      "wsjIssue": "2011 Issue 8"
+    },
+    {
+      "number": 612,
+      "title": "Taken by the Shark They Saved",
+      "volume": 62,
+      "releaseDate": "2011-01-31",
+      "wsjIssue": "2011 Issue 9"
+    },
+    {
+      "number": 613,
+      "title": "Mermaid Princess of Shell Tower",
+      "volume": 62,
+      "releaseDate": "2011-02-07",
+      "wsjIssue": "2011 Issue 10"
+    },
+    {
+      "number": 614,
+      "title": "Too Late Now",
+      "volume": 62,
+      "releaseDate": "2011-02-14",
+      "wsjIssue": "2011 Issue 11"
+    },
+    {
+      "number": 615,
+      "title": "Mark-Mark Curse",
+      "volume": 63,
+      "releaseDate": "2011-02-21",
+      "wsjIssue": "2011 Issue 12"
+    },
+    {
+      "number": 616,
+      "title": "Anniversary for Revenge",
+      "volume": 63,
+      "releaseDate": "2011-02-28",
+      "wsjIssue": "2011 Issue 13"
+    },
+    {
+      "number": 617,
+      "title": "Incident at Coral Hill",
+      "volume": 63,
+      "releaseDate": "2011-03-14",
+      "wsjIssue": "2011 Issue 15"
+    },
+    {
+      "number": 618,
+      "title": "Proposal",
+      "volume": 63,
+      "releaseDate": "2011-03-19",
+      "wsjIssue": "2011 Issue 16"
+    },
+    {
+      "number": 619,
+      "title": "At the Forest of the Sea",
+      "volume": 63,
+      "releaseDate": "2011-04-04",
+      "wsjIssue": "2011 Issue 17"
+    },
+    {
+      "number": 620,
+      "title": "The Wonderful Amusement Park",
+      "volume": 63,
+      "releaseDate": "2011-04-11",
+      "wsjIssue": "2011 Issue 18"
+    },
+    {
+      "number": 621,
+      "title": "Otohime and Tiger",
+      "volume": 63,
+      "releaseDate": "2011-04-18",
+      "wsjIssue": "2011 Issue 19"
+    },
+    {
+      "number": 622,
+      "title": "The Sun Pirates",
+      "volume": 63,
+      "releaseDate": "2011-04-25",
+      "wsjIssue": "2011 Issue 20-21"
+    },
+    {
+      "number": 623,
+      "title": "Fisher Tiger the Pirate",
+      "volume": 63,
+      "releaseDate": "2011-05-09",
+      "wsjIssue": "2011 Issue 22"
+    },
+    {
+      "number": 624,
+      "title": "Queen Otohime",
+      "volume": 63,
+      "releaseDate": "2011-05-16",
+      "wsjIssue": "2011 Issue 23"
+    },
+    {
+      "number": 625,
+      "title": "Uninherited Will",
+      "volume": 63,
+      "releaseDate": "2011-05-23",
+      "wsjIssue": "2011 Issue 24"
+    },
+    {
+      "number": 626,
+      "title": "Neptune Brothers",
+      "volume": 63,
+      "releaseDate": "2011-05-30",
+      "wsjIssue": "2011 Issue 25"
+    },
+    {
+      "number": 627,
+      "title": "Thank You",
+      "volume": 64,
+      "releaseDate": "2011-06-06",
+      "wsjIssue": "2011 Issue 26"
+    },
+    {
+      "number": 628,
+      "title": "Spring Cleaning",
+      "volume": 64,
+      "releaseDate": "2011-06-20",
+      "wsjIssue": "2011 Issue 28"
+    },
+    {
+      "number": 629,
+      "title": "Former Warlord in the Way",
+      "volume": 64,
+      "releaseDate": "2011-06-27",
+      "wsjIssue": "2011 Issue 29"
+    },
+    {
+      "number": 630,
+      "title": "Getting Violent",
+      "volume": 64,
+      "releaseDate": "2011-07-04",
+      "wsjIssue": "2011 Issue 30"
+    },
+    {
+      "number": 631,
+      "title": "Conchcorde Plaza",
+      "volume": 64,
+      "releaseDate": "2011-07-11",
+      "wsjIssue": "2011 Issue 31"
+    },
+    {
+      "number": 632,
+      "title": "I Knew",
+      "volume": 64,
+      "releaseDate": "2011-07-16",
+      "wsjIssue": "2011 Issue 32"
+    },
+    {
+      "number": 633,
+      "title": "Friend or Foe",
+      "volume": 64,
+      "releaseDate": "2011-08-01",
+      "wsjIssue": "2011 Issue 34"
+    },
+    {
+      "number": 634,
+      "title": "100,000 vs. 10",
+      "volume": 64,
+      "releaseDate": "2011-08-08",
+      "wsjIssue": "2011 Issue 35-36"
+    },
+    {
+      "number": 635,
+      "title": "So Scared I Ran Up to the Sky",
+      "volume": 64,
+      "releaseDate": "2011-08-22",
+      "wsjIssue": "2011 Issue 37"
+    },
+    {
+      "number": 636,
+      "title": "General from Futureland",
+      "volume": 64,
+      "releaseDate": "2011-08-29",
+      "wsjIssue": "2011 Issue 38"
+    },
+    {
+      "number": 637,
+      "title": "The Ancient Ark",
+      "volume": 65,
+      "releaseDate": "2011-09-05",
+      "wsjIssue": "2011 Issue 39"
+    },
+    {
+      "number": 638,
+      "title": "Escape-Hoshi",
+      "volume": 65,
+      "releaseDate": "2011-09-12",
+      "wsjIssue": "2011 Issue 40"
+    },
+    {
+      "number": 639,
+      "title": "Protect Everything",
+      "volume": 65,
+      "releaseDate": "2011-09-17",
+      "wsjIssue": "2011 Issue 41"
+    },
+    {
+      "number": 640,
+      "title": "Above Fish-Man Island",
+      "volume": 65,
+      "releaseDate": "2011-09-26",
+      "wsjIssue": "2011 Issue 42"
+    },
+    {
+      "number": 641,
+      "title": "What Are You?",
+      "volume": 65,
+      "releaseDate": "2011-10-08",
+      "wsjIssue": "2011 Issue 44"
+    },
+    {
+      "number": 642,
+      "title": "Lost All Face",
+      "volume": 65,
+      "releaseDate": "2011-10-17",
+      "wsjIssue": "2011 Issue 45"
+    },
+    {
+      "number": 643,
+      "title": "Phantom",
+      "volume": 65,
+      "releaseDate": "2011-10-24",
+      "wsjIssue": "2011 Issue 46"
+    },
+    {
+      "number": 644,
+      "title": "To Nothing",
+      "volume": 65,
+      "releaseDate": "2011-10-31",
+      "wsjIssue": "2011 Issue 47"
+    },
+    {
+      "number": 645,
+      "title": "Death Is Another Form of Revenge",
+      "volume": 65,
+      "releaseDate": "2011-11-07",
+      "wsjIssue": "2011 Issue 48"
+    },
+    {
+      "number": 646,
+      "title": "Frog",
+      "volume": 65,
+      "releaseDate": "2011-11-21",
+      "wsjIssue": "2011 Issue 50"
+    },
+    {
+      "number": 647,
+      "title": "Stop, Noah",
+      "volume": 66,
+      "releaseDate": "2011-11-28",
+      "wsjIssue": "2011 Issue 51"
+    },
+    {
+      "number": 648,
+      "title": "The Road Toward the Sun",
+      "volume": 66,
+      "releaseDate": "2011-12-05",
+      "wsjIssue": "2012 Issue 1"
+    },
+    {
+      "number": 649,
+      "title": "The Dance of Breams and Plaices",
+      "volume": 66,
+      "releaseDate": "2011-12-12",
+      "wsjIssue": "2012 Issue 2"
+    },
+    {
+      "number": 650,
+      "title": "Two Changes to Be Aware Of",
+      "volume": 66,
+      "releaseDate": "2011-12-19",
+      "wsjIssue": "2012 Issue 3-4"
+    },
+    {
+      "number": 651,
+      "title": "A Voice from the New World",
+      "volume": 66,
+      "releaseDate": "2012-01-04",
+      "wsjIssue": "2012 Issue 5-6"
+    },
+    {
+      "number": 652,
+      "title": "A Premonition of Stormy Seas",
+      "volume": 66,
+      "releaseDate": "2012-01-16",
+      "wsjIssue": "2012 Issue 7"
+    },
+    {
+      "number": 653,
+      "title": "The Hero Hat",
+      "volume": 66,
+      "releaseDate": "2012-01-23",
+      "wsjIssue": "2012 Issue 8"
+    },
+    {
+      "number": 654,
+      "title": "A Gam of Whales",
+      "volume": 66,
+      "releaseDate": "2012-01-30",
+      "wsjIssue": "2012 Issue 9"
+    },
+    {
+      "number": 655,
+      "title": "Punk Hazard",
+      "volume": 66,
+      "releaseDate": "2012-02-06",
+      "wsjIssue": "2012 Issue 10"
+    },
+    {
+      "number": 656,
+      "title": "Adventure on the Burning Island",
+      "volume": 66,
+      "releaseDate": "2012-02-13",
+      "wsjIssue": "2012 Issue 11"
+    },
+    {
+      "number": 657,
+      "title": "Severed Head",
+      "volume": 67,
+      "releaseDate": "2012-02-20",
+      "wsjIssue": "2012 Issue 12"
+    },
+    {
+      "number": 658,
+      "title": "The Biscuits Room",
+      "volume": 67,
+      "releaseDate": "2012-03-05",
+      "wsjIssue": "2012 Issue 14"
+    },
+    {
+      "number": 659,
+      "title": "About My Torso",
+      "volume": 67,
+      "releaseDate": "2012-03-12",
+      "wsjIssue": "2012 Issue 15"
+    },
+    {
+      "number": 660,
+      "title": "Trafalgar Law, Warlord of the Sea",
+      "volume": 67,
+      "releaseDate": "2012-03-19",
+      "wsjIssue": "2012 Issue 16"
+    },
+    {
+      "number": 661,
+      "title": "Lakeside Bandits",
+      "volume": 67,
+      "releaseDate": "2012-03-26",
+      "wsjIssue": "2012 Issue 17"
+    },
+    {
+      "number": 662,
+      "title": "Warlord Law vs. Vice Admiral Smoker",
+      "volume": 67,
+      "releaseDate": "2012-04-02",
+      "wsjIssue": "2012 Issue 18"
+    },
+    {
+      "number": 663,
+      "title": "CC",
+      "volume": 67,
+      "releaseDate": "2012-04-16",
+      "wsjIssue": "2012 Issue 20"
+    },
+    {
+      "number": 664,
+      "title": "Master Caesar Clown",
+      "volume": 67,
+      "releaseDate": "2012-04-23",
+      "wsjIssue": "2012 Issue 21-22"
+    },
+    {
+      "number": 665,
+      "title": "Candy",
+      "volume": 67,
+      "releaseDate": "2012-05-07",
+      "wsjIssue": "2012 Issue 23"
+    },
+    {
+      "number": 666,
+      "title": "Yeti Cool Brothers",
+      "volume": 67,
+      "releaseDate": "2012-05-14",
+      "wsjIssue": "2012 Issue 24"
+    },
+    {
+      "number": 667,
+      "title": "Cool Fight",
+      "volume": 67,
+      "releaseDate": "2012-05-21",
+      "wsjIssue": "2012 Issue 25"
+    },
+    {
+      "number": 668,
+      "title": "Pirate Alliance",
+      "volume": 68,
+      "releaseDate": "2012-05-28",
+      "wsjIssue": "2012 Issue 26"
+    },
+    {
+      "number": 669,
+      "title": "Commence Operation",
+      "volume": 68,
+      "releaseDate": "2012-06-04",
+      "wsjIssue": "2012 Issue 27"
+    },
+    {
+      "number": 670,
+      "title": "Blizzard with a Chance of Slime",
+      "volume": 68,
+      "releaseDate": "2012-06-11",
+      "wsjIssue": "2012 Issue 28"
+    },
+    {
+      "number": 671,
+      "title": "Gas-Gas Fruit",
+      "volume": 68,
+      "releaseDate": "2012-06-18",
+      "wsjIssue": "2012 Issue 29"
+    },
+    {
+      "number": 672,
+      "title": "My Name Is Kin'emon!!",
+      "volume": 68,
+      "releaseDate": "2012-07-02",
+      "wsjIssue": "2012 Issue 31"
+    },
+    {
+      "number": 673,
+      "title": "Vergo and Joker",
+      "volume": 68,
+      "releaseDate": "2012-07-09",
+      "wsjIssue": "2012 Issue 32"
+    },
+    {
+      "number": 674,
+      "title": "The Observers",
+      "volume": 68,
+      "releaseDate": "2012-07-14",
+      "wsjIssue": "2012 Issue 33"
+    },
+    {
+      "number": 675,
+      "title": "I Call It Land of the Dead",
+      "volume": 68,
+      "releaseDate": "2012-07-30",
+      "wsjIssue": "2012 Issue 35"
+    },
+    {
+      "number": 676,
+      "title": "The Perfect Weapon of Mass Murder",
+      "volume": 68,
+      "releaseDate": "2012-08-06",
+      "wsjIssue": "2012 Issue 36-37"
+    },
+    {
+      "number": 677,
+      "title": "Counter Hazard!!",
+      "volume": 68,
+      "releaseDate": "2012-08-20",
+      "wsjIssue": "2012 Issue 38"
+    },
+    {
+      "number": 678,
+      "title": "Lobby of Laboratory Building A",
+      "volume": 68,
+      "releaseDate": "2012-08-27",
+      "wsjIssue": "2012 Issue 39"
+    },
+    {
+      "number": 679,
+      "title": "The G-5 Spirit",
+      "volume": 69,
+      "releaseDate": "2012-09-03",
+      "wsjIssue": "2012 Issue 40"
+    },
+    {
+      "number": 680,
+      "title": "G-5 Commander Vergo the Bamboo Demon",
+      "volume": 69,
+      "releaseDate": "2012-09-10",
+      "wsjIssue": "2012 Issue 41"
+    },
+    {
+      "number": 681,
+      "title": "Luffy vs. Master",
+      "volume": 69,
+      "releaseDate": "2012-09-15",
+      "wsjIssue": "2012 Issue 42"
+    },
+    {
+      "number": 682,
+      "title": "Puppet Master",
+      "volume": 69,
+      "releaseDate": "2012-09-24",
+      "wsjIssue": "2012 Issue 43"
+    },
+    {
+      "number": 683,
+      "title": "An Icy Woman",
+      "volume": 69,
+      "releaseDate": "2012-10-06",
+      "wsjIssue": "2012 Issue 45"
+    },
+    {
+      "number": 684,
+      "title": "Don't Do It, Vegapunk",
+      "volume": 69,
+      "releaseDate": "2012-10-15",
+      "wsjIssue": "2012 Issue 46"
+    },
+    {
+      "number": 685,
+      "title": "My Name is Momonosuke",
+      "volume": 69,
+      "releaseDate": "2012-10-22",
+      "wsjIssue": "2012 Issue 47"
+    },
+    {
+      "number": 686,
+      "title": "The Snow-Woman in the Biscuits Room",
+      "volume": 69,
+      "releaseDate": "2012-10-29",
+      "wsjIssue": "2012 Issue 48"
+    },
+    {
+      "number": 687,
+      "title": "Wild Beast",
+      "volume": 69,
+      "releaseDate": "2012-11-05",
+      "wsjIssue": "2012 Issue 49"
+    },
+    {
+      "number": 688,
+      "title": "Mocha",
+      "volume": 69,
+      "releaseDate": "2012-11-12",
+      "wsjIssue": "2012 Issue 50"
+    },
+    {
+      "number": 689,
+      "title": "The Island That's There but Isn't There",
+      "volume": 69,
+      "releaseDate": "2012-11-26",
+      "wsjIssue": "2012 Issue 52"
+    },
+    {
+      "number": 690,
+      "title": "S.A.D.",
+      "volume": 69,
+      "releaseDate": "2012-12-03",
+      "wsjIssue": "2013 Issue 1"
+    },
+    {
+      "number": 691,
+      "title": "King of the Land of the Dead",
+      "volume": 70,
+      "releaseDate": "2012-12-10",
+      "wsjIssue": "2013 Issue 2"
+    },
+    {
+      "number": 692,
+      "title": "Assassins from Dressrosa",
+      "volume": 70,
+      "releaseDate": "2012-12-17",
+      "wsjIssue": "2013 Issue 3"
+    },
+    {
+      "number": 693,
+      "title": "Die for Me",
+      "volume": 70,
+      "releaseDate": "2012-12-22",
+      "wsjIssue": "2013 Issue 4-5"
+    },
+    {
+      "number": 694,
+      "title": "The Most Dangerous Man",
+      "volume": 70,
+      "releaseDate": "2013-01-04",
+      "wsjIssue": "2013 Issue 6-7"
+    },
+    {
+      "number": 695,
+      "title": "Leave It to Us!!!",
+      "volume": 70,
+      "releaseDate": "2013-01-21",
+      "wsjIssue": "2013 Issue 8"
+    },
+    {
+      "number": 696,
+      "title": "Alignment of Interests",
+      "volume": 70,
+      "releaseDate": "2013-01-28",
+      "wsjIssue": "2013 Issue 9"
+    },
+    {
+      "number": 697,
+      "title": "A Deal",
+      "volume": 70,
+      "releaseDate": "2013-02-04",
+      "wsjIssue": "2013 Issue 10"
+    },
+    {
+      "number": 698,
+      "title": "Enter Doflamingo",
+      "volume": 70,
+      "releaseDate": "2013-02-09",
+      "wsjIssue": "2013 Issue 11"
+    },
+    {
+      "number": 699,
+      "title": "Morning Edition",
+      "volume": 70,
+      "releaseDate": "2013-02-25",
+      "wsjIssue": "2013 Issue 13"
+    },
+    {
+      "number": 700,
+      "title": "His Momentum",
+      "volume": 70,
+      "releaseDate": "2013-03-04",
+      "wsjIssue": "2013 Issue 14"
+    },
+    {
+      "number": 701,
+      "title": "Adventure in the Land of Love, Passion and Toys",
+      "volume": 71,
+      "releaseDate": "2013-03-11",
+      "wsjIssue": "2013 Issue 15"
+    },
+    {
+      "number": 702,
+      "title": "Corrida Coliseum",
+      "volume": 71,
+      "releaseDate": "2013-03-25",
+      "wsjIssue": "2013 Issue 17"
+    },
+    {
+      "number": 703,
+      "title": "Waiting Room",
+      "volume": 71,
+      "releaseDate": "2013-04-01",
+      "wsjIssue": "2013 Issue 18"
+    },
+    {
+      "number": 704,
+      "title": "Lucy and the Statue of Kyros",
+      "volume": 71,
+      "releaseDate": "2013-04-08",
+      "wsjIssue": "2013 Issue 19"
+    },
+    {
+      "number": 705,
+      "title": "Maynard the Pursuer",
+      "volume": 71,
+      "releaseDate": "2013-04-15",
+      "wsjIssue": "2013 Issue 20"
+    },
+    {
+      "number": 706,
+      "title": "I Ain't Gonna Laugh at Ya",
+      "volume": 71,
+      "releaseDate": "2013-04-22",
+      "wsjIssue": "2013 Issue 21"
+    },
+    {
+      "number": 707,
+      "title": "Block B",
+      "volume": 71,
+      "releaseDate": "2013-04-27",
+      "wsjIssue": "2013 Issue 22-23"
+    },
+    {
+      "number": 708,
+      "title": "Coliseum of Scoundrels",
+      "volume": 71,
+      "releaseDate": "2013-05-13",
+      "wsjIssue": "2013 Issue 24"
+    },
+    {
+      "number": 709,
+      "title": "King Punch!!",
+      "volume": 71,
+      "releaseDate": "2013-05-20",
+      "wsjIssue": "2013 Issue 25"
+    },
+    {
+      "number": 710,
+      "title": "To Greenbit",
+      "volume": 71,
+      "releaseDate": "2013-06-10",
+      "wsjIssue": "2013 Issue 28"
+    },
+    {
+      "number": 711,
+      "title": "Adventure in the Land of the Little People",
+      "volume": 71,
+      "releaseDate": "2013-06-17",
+      "wsjIssue": "2013 Issue 29"
+    },
+    {
+      "number": 712,
+      "title": "Violet",
+      "volume": 72,
+      "releaseDate": "2013-07-01",
+      "wsjIssue": "2013 Issue 31"
+    },
+    {
+      "number": 713,
+      "title": "Usoland",
+      "volume": 72,
+      "releaseDate": "2013-07-08",
+      "wsjIssue": "2013 Issue 32"
+    },
+    {
+      "number": 714,
+      "title": "Lucy and Moocy",
+      "volume": 72,
+      "releaseDate": "2013-07-13",
+      "wsjIssue": "2013 Issue 33"
+    },
+    {
+      "number": 715,
+      "title": "The Battleground of Block C",
+      "volume": 72,
+      "releaseDate": "2013-07-22",
+      "wsjIssue": "2013 Issue 34"
+    },
+    {
+      "number": 716,
+      "title": "Don Chin Jao",
+      "volume": 72,
+      "releaseDate": "2013-08-05",
+      "wsjIssue": "2013 Issue 36"
+    },
+    {
+      "number": 717,
+      "title": "Dressrosa's Forgotten",
+      "volume": 72,
+      "releaseDate": "2013-08-12",
+      "wsjIssue": "2013 Issue 37-38"
+    },
+    {
+      "number": 718,
+      "title": "Riku Army at the Flower Field",
+      "volume": 72,
+      "releaseDate": "2013-08-26",
+      "wsjIssue": "2013 Issue 39"
+    },
+    {
+      "number": 719,
+      "title": "Open, Chin Jao",
+      "volume": 72,
+      "releaseDate": "2013-09-02",
+      "wsjIssue": "2013 Issue 40"
+    },
+    {
+      "number": 720,
+      "title": "Prisoner-Gladiators",
+      "volume": 72,
+      "releaseDate": "2013-09-09",
+      "wsjIssue": "2013 Issue 41"
+    },
+    {
+      "number": 721,
+      "title": "Rebecca and the Soldier",
+      "volume": 72,
+      "releaseDate": "2013-09-14",
+      "wsjIssue": "2013 Issue 42"
+    },
+    {
+      "number": 722,
+      "title": "Royal Bloodlines",
+      "volume": 73,
+      "releaseDate": "2013-09-30",
+      "wsjIssue": "2013 Issue 44"
+    },
+    {
+      "number": 723,
+      "title": "Change of Plans",
+      "volume": 73,
+      "releaseDate": "2013-10-07",
+      "wsjIssue": "2013 Issue 45"
+    },
+    {
+      "number": 724,
+      "title": "Law's Plan",
+      "volume": 73,
+      "releaseDate": "2013-10-12",
+      "wsjIssue": "2013 Issue 46"
+    },
+    {
+      "number": 725,
+      "title": "The Undefeated Woman",
+      "volume": 73,
+      "releaseDate": "2013-10-21",
+      "wsjIssue": "2013 Issue 47"
+    },
+    {
+      "number": 726,
+      "title": "The Riku Family",
+      "volume": 73,
+      "releaseDate": "2013-11-02",
+      "wsjIssue": "2013 Issue 49"
+    },
+    {
+      "number": 727,
+      "title": "The Hero's Ambush",
+      "volume": 73,
+      "releaseDate": "2013-11-11",
+      "wsjIssue": "2013 Issue 50"
+    },
+    {
+      "number": 728,
+      "title": "The Number of Tragedies",
+      "volume": 73,
+      "releaseDate": "2013-11-18",
+      "wsjIssue": "2013 Issue 51"
+    },
+    {
+      "number": 729,
+      "title": "Warlord Doflamingo vs. Warlord Law",
+      "volume": 73,
+      "releaseDate": "2013-11-25",
+      "wsjIssue": "2013 Issue 52"
+    },
+    {
+      "number": 730,
+      "title": "Three Cards",
+      "volume": 73,
+      "releaseDate": "2013-12-09",
+      "wsjIssue": "2014 Issue 2"
+    },
+    {
+      "number": 731,
+      "title": "Operation Dressrosa S.O.P.",
+      "volume": 73,
+      "releaseDate": "2013-12-16",
+      "wsjIssue": "2014 Issue 3"
+    },
+    {
+      "number": 732,
+      "title": "An Underground World",
+      "volume": 74,
+      "releaseDate": "2013-12-21",
+      "wsjIssue": "2014 Issue 4-5"
+    },
+    {
+      "number": 733,
+      "title": "What the Soldier Wants",
+      "volume": 74,
+      "releaseDate": "2014-01-04",
+      "wsjIssue": "2014 Issue 6-7"
+    },
+    {
+      "number": 734,
+      "title": "The Slicing Winds of Rommel",
+      "volume": 74,
+      "releaseDate": "2014-01-20",
+      "wsjIssue": "2014 Issue 8"
+    },
+    {
+      "number": 735,
+      "title": "Fujitora's Plan",
+      "volume": 74,
+      "releaseDate": "2014-01-27",
+      "wsjIssue": "2014 Issue 9"
+    },
+    {
+      "number": 736,
+      "title": "Supreme Officer Diamante",
+      "volume": 74,
+      "releaseDate": "2014-02-03",
+      "wsjIssue": "2014 Issue 10"
+    },
+    {
+      "number": 737,
+      "title": "Officer's Tower",
+      "volume": 74,
+      "releaseDate": "2014-02-10",
+      "wsjIssue": "2014 Issue 11"
+    },
+    {
+      "number": 738,
+      "title": "Trebol Army, Special Officer Sugar",
+      "volume": 74,
+      "releaseDate": "2014-02-24",
+      "wsjIssue": "2014 Issue 13"
+    },
+    {
+      "number": 739,
+      "title": "Captain",
+      "volume": 74,
+      "releaseDate": "2014-03-03",
+      "wsjIssue": "2014 Issue 14"
+    },
+    {
+      "number": 740,
+      "title": "It's in Your Hands!!!",
+      "volume": 74,
+      "releaseDate": "2014-03-10",
+      "wsjIssue": "2014 Issue 15"
+    },
+    {
+      "number": 741,
+      "title": "Usoland the Liar",
+      "volume": 74,
+      "releaseDate": "2014-03-17",
+      "wsjIssue": "2014 Issue 16"
+    },
+    {
+      "number": 742,
+      "title": "Ever at Your Side",
+      "volume": 74,
+      "releaseDate": "2014-03-31",
+      "wsjIssue": "2014 Issue 18"
+    },
+    {
+      "number": 743,
+      "title": "Dressrosa Trembles",
+      "volume": 75,
+      "releaseDate": "2014-04-07",
+      "wsjIssue": "2014 Issue 19"
+    },
+    {
+      "number": 744,
+      "title": "Revolutionary Army Chief of Staff",
+      "volume": 75,
+      "releaseDate": "2014-04-14",
+      "wsjIssue": "2014 Issue 20"
+    },
+    {
+      "number": 745,
+      "title": "The Birdcage",
+      "volume": 75,
+      "releaseDate": "2014-04-28",
+      "wsjIssue": "2014 Issue 22-23"
+    },
+    {
+      "number": 746,
+      "title": "Stars",
+      "volume": 75,
+      "releaseDate": "2014-05-12",
+      "wsjIssue": "2014 Issue 24"
+    },
+    {
+      "number": 747,
+      "title": "Supreme Officer Pica",
+      "volume": 75,
+      "releaseDate": "2014-05-19",
+      "wsjIssue": "2014 Issue 25"
+    },
+    {
+      "number": 748,
+      "title": "Repaying the Debt",
+      "volume": 75,
+      "releaseDate": "2014-05-26",
+      "wsjIssue": "2014 Issue 26"
+    },
+    {
+      "number": 749,
+      "title": "Onward, Gallery of Rogues!!",
+      "volume": 75,
+      "releaseDate": "2014-06-02",
+      "wsjIssue": "2014 Issue 27"
+    },
+    {
+      "number": 750,
+      "title": "Flash Points",
+      "volume": 75,
+      "releaseDate": "2014-06-23",
+      "wsjIssue": "2014 Issue 30"
+    },
+    {
+      "number": 751,
+      "title": "Sabo vs. Admiral Fujitora",
+      "volume": 75,
+      "releaseDate": "2014-06-30",
+      "wsjIssue": "2014 Issue 31"
+    },
+    {
+      "number": 752,
+      "title": "Palm",
+      "volume": 75,
+      "releaseDate": "2014-07-07",
+      "wsjIssue": "2014 Issue 32"
+    },
+    {
+      "number": 753,
+      "title": "Battle",
+      "volume": 76,
+      "releaseDate": "2014-07-19",
+      "wsjIssue": "2014 Issue 34"
+    },
+    {
+      "number": 754,
+      "title": "Making Acquaintance",
+      "volume": 76,
+      "releaseDate": "2014-07-28",
+      "wsjIssue": "2014 Issue 35"
+    },
+    {
+      "number": 755,
+      "title": "A Man's World",
+      "volume": 76,
+      "releaseDate": "2014-08-04",
+      "wsjIssue": "2014 Issue 36"
+    },
+    {
+      "number": 756,
+      "title": "The Fourth Step",
+      "volume": 76,
+      "releaseDate": "2014-08-11",
+      "wsjIssue": "2014 Issue 37-38"
+    },
+    {
+      "number": 757,
+      "title": "Trump Card",
+      "volume": 76,
+      "releaseDate": "2014-08-25",
+      "wsjIssue": "2014 Issue 39"
+    },
+    {
+      "number": 758,
+      "title": "Just Keep Going",
+      "volume": 76,
+      "releaseDate": "2014-09-01",
+      "wsjIssue": "2014 Issue 40"
+    },
+    {
+      "number": 759,
+      "title": "Secret Plan",
+      "volume": 76,
+      "releaseDate": "2014-09-08",
+      "wsjIssue": "2014 Issue 41"
+    },
+    {
+      "number": 760,
+      "title": "The Same Bet",
+      "volume": 76,
+      "releaseDate": "2014-09-13",
+      "wsjIssue": "2014 Issue 42"
+    },
+    {
+      "number": 761,
+      "title": "The Op-Op Fruit",
+      "volume": 76,
+      "releaseDate": "2014-09-22",
+      "wsjIssue": "2014 Issue 43"
+    },
+    {
+      "number": 762,
+      "title": "The White Town",
+      "volume": 76,
+      "releaseDate": "2014-10-06",
+      "wsjIssue": "2014 Issue 45"
+    },
+    {
+      "number": 763,
+      "title": "Declaration of Humanity",
+      "volume": 76,
+      "releaseDate": "2014-10-11",
+      "wsjIssue": "2014 Issue 46"
+    },
+    {
+      "number": 764,
+      "title": "White Monster",
+      "volume": 77,
+      "releaseDate": "2014-10-20",
+      "wsjIssue": "2014 Issue 47"
+    },
+    {
+      "number": 765,
+      "title": "Minion, the Isle of Fate",
+      "volume": 77,
+      "releaseDate": "2014-10-27",
+      "wsjIssue": "2014 Issue 48"
+    },
+    {
+      "number": 766,
+      "title": "Smile",
+      "volume": 77,
+      "releaseDate": "2014-11-10",
+      "wsjIssue": "2014 Issue 50"
+    },
+    {
+      "number": 767,
+      "title": "Cora",
+      "volume": 77,
+      "releaseDate": "2014-11-17",
+      "wsjIssue": "2014 Issue 51"
+    },
+    {
+      "number": 768,
+      "title": "The Trigger That Day",
+      "volume": 77,
+      "releaseDate": "2014-11-22",
+      "wsjIssue": "2014 Issue 52"
+    },
+    {
+      "number": 769,
+      "title": "Bellamy the Pirate",
+      "volume": 77,
+      "releaseDate": "2014-12-01",
+      "wsjIssue": "2015 Issue 1"
+    },
+    {
+      "number": 770,
+      "title": "The Spear of Elbaph",
+      "volume": 77,
+      "releaseDate": "2014-12-15",
+      "wsjIssue": "2015 Issue 3"
+    },
+    {
+      "number": 771,
+      "title": "Sai, Don of the Happosui Army",
+      "volume": 77,
+      "releaseDate": "2014-12-22",
+      "wsjIssue": "2015 Issue 4-5"
+    },
+    {
+      "number": 772,
+      "title": "Cabbage & Lomeo",
+      "volume": 77,
+      "releaseDate": "2015-01-05",
+      "wsjIssue": "2015 Issue 6-7"
+    },
+    {
+      "number": 773,
+      "title": "Half 'n Half",
+      "volume": 77,
+      "releaseDate": "2015-01-19",
+      "wsjIssue": "2015 Issue 8"
+    },
+    {
+      "number": 774,
+      "title": "Leo, Captain of the Tontatta Warriors",
+      "volume": 77,
+      "releaseDate": "2015-01-26",
+      "wsjIssue": "2015 Issue 9"
+    },
+    {
+      "number": 775,
+      "title": "To Russian With Love",
+      "volume": 77,
+      "releaseDate": "2015-02-02",
+      "wsjIssue": "2015 Issue 10"
+    },
+    {
+      "number": 776,
+      "title": "Hero of the Coliseum",
+      "volume": 78,
+      "releaseDate": "2015-02-16",
+      "wsjIssue": "2015 Issue 12"
+    },
+    {
+      "number": 777,
+      "title": "Zolo vs. Pica",
+      "volume": 78,
+      "releaseDate": "2015-02-23",
+      "wsjIssue": "2015 Issue 13"
+    },
+    {
+      "number": 778,
+      "title": "Tactics No. 5",
+      "volume": 78,
+      "releaseDate": "2015-03-02",
+      "wsjIssue": "2015 Issue 14"
+    },
+    {
+      "number": 779,
+      "title": "His Final Battle",
+      "volume": 78,
+      "releaseDate": "2015-03-09",
+      "wsjIssue": "2015 Issue 15"
+    },
+    {
+      "number": 780,
+      "title": "The Heart Curse",
+      "volume": 78,
+      "releaseDate": "2015-03-23",
+      "wsjIssue": "2015 Issue 17"
+    },
+    {
+      "number": 781,
+      "title": "Desire",
+      "volume": 78,
+      "releaseDate": "2015-03-30",
+      "wsjIssue": "2015 Issue 18"
+    },
+    {
+      "number": 782,
+      "title": "Champion of Evil",
+      "volume": 78,
+      "releaseDate": "2015-04-06",
+      "wsjIssue": "2015 Issue 19"
+    },
+    {
+      "number": 783,
+      "title": "In My Way",
+      "volume": 78,
+      "releaseDate": "2015-04-13",
+      "wsjIssue": "2015 Issue 20"
+    },
+    {
+      "number": 784,
+      "title": "Gear Four",
+      "volume": 78,
+      "releaseDate": "2015-04-27",
+      "wsjIssue": "2015 Issue 22-23"
+    },
+    {
+      "number": 785,
+      "title": "On Broken Legs",
+      "volume": 78,
+      "releaseDate": "2015-05-11",
+      "wsjIssue": "2015 Issue 24"
+    },
+    {
+      "number": 786,
+      "title": "Gyats",
+      "volume": 79,
+      "releaseDate": "2015-05-18",
+      "wsjIssue": "2015 Issue 25"
+    },
+    {
+      "number": 787,
+      "title": "Four Minutes Before",
+      "volume": 79,
+      "releaseDate": "2015-05-25",
+      "wsjIssue": "2015 Issue 26"
+    },
+    {
+      "number": 788,
+      "title": "My Battle",
+      "volume": 79,
+      "releaseDate": "2015-06-01",
+      "wsjIssue": "2015 Issue 27"
+    },
+    {
+      "number": 789,
+      "title": "Lucy!!",
+      "volume": 79,
+      "releaseDate": "2015-06-08",
+      "wsjIssue": "2015 Issue 28"
+    },
+    {
+      "number": 790,
+      "title": "Heaven and Earth",
+      "volume": 79,
+      "releaseDate": "2015-06-22",
+      "wsjIssue": "2015 Issue 30"
+    },
+    {
+      "number": 791,
+      "title": "Rubble",
+      "volume": 79,
+      "releaseDate": "2015-06-29",
+      "wsjIssue": "2015 Issue 31"
+    },
+    {
+      "number": 792,
+      "title": "On Hands and Knees",
+      "volume": 79,
+      "releaseDate": "2015-07-06",
+      "wsjIssue": "2015 Issue 32"
+    },
+    {
+      "number": 793,
+      "title": "Tiger and Dog",
+      "volume": 79,
+      "releaseDate": "2015-07-13",
+      "wsjIssue": "2015 Issue 33"
+    },
+    {
+      "number": 794,
+      "title": "Sabo's Adventure",
+      "volume": 79,
+      "releaseDate": "2015-07-18",
+      "wsjIssue": "2015 Issue 34"
+    },
+    {
+      "number": 795,
+      "title": "Suicide",
+      "volume": 79,
+      "releaseDate": "2015-08-03",
+      "wsjIssue": "2015 Issue 36"
+    },
+    {
+      "number": 796,
+      "title": "Soldier's Conviction",
+      "volume": 80,
+      "releaseDate": "2015-08-10",
+      "wsjIssue": "2015 Issue 37-38"
+    },
+    {
+      "number": 797,
+      "title": "Rebecca",
+      "volume": 80,
+      "releaseDate": "2015-08-24",
+      "wsjIssue": "2015 Issue 39"
+    },
+    {
+      "number": 798,
+      "title": "Heart",
+      "volume": 80,
+      "releaseDate": "2015-08-31",
+      "wsjIssue": "2015 Issue 40"
+    },
+    {
+      "number": 799,
+      "title": "Father and Sons",
+      "volume": 80,
+      "releaseDate": "2015-09-07",
+      "wsjIssue": "2015 Issue 41"
+    },
+    {
+      "number": 800,
+      "title": "Sons' Cups",
+      "volume": 80,
+      "releaseDate": "2015-09-19",
+      "wsjIssue": "2015 Issue 43"
+    },
+    {
+      "number": 801,
+      "title": "Opening Speech",
+      "volume": 80,
+      "releaseDate": "2015-09-28",
+      "wsjIssue": "2015 Issue 44"
+    },
+    {
+      "number": 802,
+      "title": "Zou",
+      "volume": 80,
+      "releaseDate": "2015-10-05",
+      "wsjIssue": "2015 Issue 45"
+    },
+    {
+      "number": 803,
+      "title": "Elephant Climbing",
+      "volume": 80,
+      "releaseDate": "2015-10-10",
+      "wsjIssue": "2015 Issue 46"
+    },
+    {
+      "number": 804,
+      "title": "Adventure in the Land Atop the Elephant's Back",
+      "volume": 80,
+      "releaseDate": "2015-10-26",
+      "wsjIssue": "2015 Issue 48"
+    },
+    {
+      "number": 805,
+      "title": "The Minks",
+      "volume": 80,
+      "releaseDate": "2015-11-02",
+      "wsjIssue": "2015 Issue 49"
+    },
+    {
+      "number": 806,
+      "title": "At Rightflank Fortress",
+      "volume": 80,
+      "releaseDate": "2015-11-09",
+      "wsjIssue": "2015 Issue 50"
+    },
+    {
+      "number": 807,
+      "title": "Ten Days Earlier",
+      "volume": 81,
+      "releaseDate": "2015-11-21",
+      "wsjIssue": "2015 Issue 52"
+    },
+    {
+      "number": 808,
+      "title": "Duke Dogstorm",
+      "volume": 81,
+      "releaseDate": "2015-11-30",
+      "wsjIssue": "2015 Issue 53"
+    },
+    {
+      "number": 809,
+      "title": "The Cat Viper",
+      "volume": 81,
+      "releaseDate": "2015-12-07",
+      "wsjIssue": "2016 Issue 1"
+    },
+    {
+      "number": 810,
+      "title": "The Twirly Hat Crew Arrives",
+      "volume": 81,
+      "releaseDate": "2015-12-21",
+      "wsjIssue": "2016 Issue 3-4"
+    },
+    {
+      "number": 811,
+      "title": "ROKO",
+      "volume": 81,
+      "releaseDate": "2016-01-04",
+      "wsjIssue": "2016 Issue 5-6"
+    },
+    {
+      "number": 812,
+      "title": "Capone \"Gang\" Bege",
+      "volume": 81,
+      "releaseDate": "2016-01-18",
+      "wsjIssue": "2016 Issue 7"
+    },
+    {
+      "number": 813,
+      "title": "Tea Party Invitation",
+      "volume": 81,
+      "releaseDate": "2016-01-25",
+      "wsjIssue": "2016 Issue 8"
+    },
+    {
+      "number": 814,
+      "title": "Let's Go See the Cat Viper",
+      "volume": 81,
+      "releaseDate": "2016-02-01",
+      "wsjIssue": "2016 Issue 9"
+    },
+    {
+      "number": 815,
+      "title": "Take Me With You!!",
+      "volume": 81,
+      "releaseDate": "2016-02-08",
+      "wsjIssue": "2016 Issue 10"
+    },
+    {
+      "number": 816,
+      "title": "Dog vs. Cat",
+      "volume": 81,
+      "releaseDate": "2016-02-15",
+      "wsjIssue": "2016 Issue 11"
+    },
+    {
+      "number": 817,
+      "title": "Raizo of the Mist",
+      "volume": 82,
+      "releaseDate": "2016-02-29",
+      "wsjIssue": "2016 Issue 13"
+    },
+    {
+      "number": 818,
+      "title": "Inside the Whale",
+      "volume": 82,
+      "releaseDate": "2016-03-07",
+      "wsjIssue": "2016 Issue 14"
+    },
+    {
+      "number": 819,
+      "title": "Momonosuke, Heir to the Kozuki Clan",
+      "volume": 82,
+      "releaseDate": "2016-03-14",
+      "wsjIssue": "2016 Issue 15"
+    },
+    {
+      "number": 820,
+      "title": "Cats and Dogs Have a History",
+      "volume": 82,
+      "releaseDate": "2016-03-19",
+      "wsjIssue": "2016 Issue 16"
+    },
+    {
+      "number": 821,
+      "title": "Understood",
+      "volume": 82,
+      "releaseDate": "2016-04-04",
+      "wsjIssue": "2016 Issue 18"
+    },
+    {
+      "number": 822,
+      "title": "Descending the Elephant",
+      "volume": 82,
+      "releaseDate": "2016-04-11",
+      "wsjIssue": "2016 Issue 19"
+    },
+    {
+      "number": 823,
+      "title": "The World Is Restless",
+      "volume": 82,
+      "releaseDate": "2016-04-18",
+      "wsjIssue": "2016 Issue 20"
+    },
+    {
+      "number": 824,
+      "title": "Playing Pirates",
+      "volume": 82,
+      "releaseDate": "2016-04-25",
+      "wsjIssue": "2016 Issue 21-22"
+    },
+    {
+      "number": 825,
+      "title": "Comic Strip",
+      "volume": 82,
+      "releaseDate": "2016-05-09",
+      "wsjIssue": "2016 Issue 23"
+    },
+    {
+      "number": 826,
+      "title": "0 and 4",
+      "volume": 82,
+      "releaseDate": "2016-05-23",
+      "wsjIssue": "2016 Issue 25"
+    },
+    {
+      "number": 827,
+      "title": "Totto Land",
+      "volume": 82,
+      "releaseDate": "2016-05-30",
+      "wsjIssue": "2016 Issue 26"
+    },
+    {
+      "number": 828,
+      "title": "1 and 2",
+      "volume": 83,
+      "releaseDate": "2016-06-06",
+      "wsjIssue": "2016 Issue 27"
+    },
+    {
+      "number": 829,
+      "title": "Emperor of the Sea, Charlotte Linlin",
+      "volume": 83,
+      "releaseDate": "2016-06-20",
+      "wsjIssue": "2016 Issue 29"
+    },
+    {
+      "number": 830,
+      "title": "A Man You Can Bet On",
+      "volume": 83,
+      "releaseDate": "2016-06-27",
+      "wsjIssue": "2016 Issue 30"
+    },
+    {
+      "number": 831,
+      "title": "Adventure in the Mysterious Forest",
+      "volume": 83,
+      "releaseDate": "2016-07-04",
+      "wsjIssue": "2016 Issue 31"
+    },
+    {
+      "number": 832,
+      "title": "Kingdom of Germa",
+      "volume": 83,
+      "releaseDate": "2016-07-16",
+      "wsjIssue": "2016 Issue 33"
+    },
+    {
+      "number": 833,
+      "title": "Vinsmoke Judge",
+      "volume": 83,
+      "releaseDate": "2016-07-25",
+      "wsjIssue": "2016 Issue 34"
+    },
+    {
+      "number": 834,
+      "title": "My Dream",
+      "volume": 83,
+      "releaseDate": "2016-08-01",
+      "wsjIssue": "2016 Issue 35"
+    },
+    {
+      "number": 835,
+      "title": "Kingdom of Soul",
+      "volume": 83,
+      "releaseDate": "2016-08-08",
+      "wsjIssue": "2016 Issue 36-37"
+    },
+    {
+      "number": 836,
+      "title": "Lola's Vivre Card",
+      "volume": 83,
+      "releaseDate": "2016-08-22",
+      "wsjIssue": "2016 Issue 38"
+    },
+    {
+      "number": 837,
+      "title": "Luffy vs. Cracker the General",
+      "volume": 83,
+      "releaseDate": "2016-08-29",
+      "wsjIssue": "2016 Issue 39"
+    },
+    {
+      "number": 838,
+      "title": "ChoBro",
+      "volume": 83,
+      "releaseDate": "2016-09-05",
+      "wsjIssue": "2016 Issue 40"
+    },
+    {
+      "number": 839,
+      "title": "I Owe You My Life!",
+      "volume": 84,
+      "releaseDate": "2016-09-17",
+      "wsjIssue": "2016 Issue 42"
+    },
+    {
+      "number": 840,
+      "title": "The Iron Mask",
+      "volume": 84,
+      "releaseDate": "2016-09-26",
+      "wsjIssue": "2016 Issue 43"
+    },
+    {
+      "number": 841,
+      "title": "To the East Blue",
+      "volume": 84,
+      "releaseDate": "2016-10-03",
+      "wsjIssue": "2016 Issue 44"
+    },
+    {
+      "number": 842,
+      "title": "The Power of a Full Stomach",
+      "volume": 84,
+      "releaseDate": "2016-10-08",
+      "wsjIssue": "2016 Issue 45"
+    },
+    {
+      "number": 843,
+      "title": "Vinsmoke Sanji",
+      "volume": 84,
+      "releaseDate": "2016-10-24",
+      "wsjIssue": "2016 Issue 47"
+    },
+    {
+      "number": 844,
+      "title": "Luffy vs. Sanji",
+      "volume": 84,
+      "releaseDate": "2016-10-31",
+      "wsjIssue": "2016 Issue 48"
+    },
+    {
+      "number": 845,
+      "title": "Forces of Rage",
+      "volume": 84,
+      "releaseDate": "2016-11-07",
+      "wsjIssue": "2016 Issue 49"
+    },
+    {
+      "number": 846,
+      "title": "Tamago Security",
+      "volume": 84,
+      "releaseDate": "2016-11-21",
+      "wsjIssue": "2016 Issue 51"
+    },
+    {
+      "number": 847,
+      "title": "Luffy and Big Mom",
+      "volume": 84,
+      "releaseDate": "2016-11-28",
+      "wsjIssue": "2016 Issue 52"
+    },
+    {
+      "number": 848,
+      "title": "Goodbye",
+      "volume": 84,
+      "releaseDate": "2016-12-05",
+      "wsjIssue": "2017 Issue 1"
+    },
+    {
+      "number": 849,
+      "title": "ChoBro in the Land of Mirrors",
+      "volume": 85,
+      "releaseDate": "2016-12-12",
+      "wsjIssue": "2017 Issue 2-3"
+    },
+    {
+      "number": 850,
+      "title": "A Ray of Light",
+      "volume": 85,
+      "releaseDate": "2016-12-26",
+      "wsjIssue": "2017 Issue 4-5"
+    },
+    {
+      "number": 851,
+      "title": "Dog-End",
+      "volume": 85,
+      "releaseDate": "2017-01-07",
+      "wsjIssue": "2017 Issue 6"
+    },
+    {
+      "number": 852,
+      "title": "Germa's Failure",
+      "volume": 85,
+      "releaseDate": "2017-01-16",
+      "wsjIssue": "2017 Issue 7"
+    },
+    {
+      "number": 853,
+      "title": "Not Here",
+      "volume": 85,
+      "releaseDate": "2017-01-30",
+      "wsjIssue": "2017 Issue 9"
+    },
+    {
+      "number": 854,
+      "title": "What Are You Doing?",
+      "volume": 85,
+      "releaseDate": "2017-02-06",
+      "wsjIssue": "2017 Issue 10"
+    },
+    {
+      "number": 855,
+      "title": "Glurrgle!!!",
+      "volume": 85,
+      "releaseDate": "2017-02-13",
+      "wsjIssue": "2017 Issue 11"
+    },
+    {
+      "number": 856,
+      "title": "Liar",
+      "volume": 85,
+      "releaseDate": "2017-02-20",
+      "wsjIssue": "2017 Issue 12"
+    },
+    {
+      "number": 857,
+      "title": "Rook",
+      "volume": 85,
+      "releaseDate": "2017-03-06",
+      "wsjIssue": "2017 Issue 14"
+    },
+    {
+      "number": 858,
+      "title": "Meeting",
+      "volume": 85,
+      "releaseDate": "2017-03-13",
+      "wsjIssue": "2017 Issue 15"
+    },
+    {
+      "number": 859,
+      "title": "Emperor Assassination Plan",
+      "volume": 86,
+      "releaseDate": "2017-03-18",
+      "wsjIssue": "2017 Issue 16"
+    },
+    {
+      "number": 860,
+      "title": "10:00 Start",
+      "volume": 86,
+      "releaseDate": "2017-03-27",
+      "wsjIssue": "2017 Issue 17"
+    },
+    {
+      "number": 861,
+      "title": "The Actor",
+      "volume": 86,
+      "releaseDate": "2017-04-03",
+      "wsjIssue": "2017 Issue 18"
+    },
+    {
+      "number": 862,
+      "title": "The Thinker",
+      "volume": 86,
+      "releaseDate": "2017-04-17",
+      "wsjIssue": "2017 Issue 20"
+    },
+    {
+      "number": 863,
+      "title": "The Knight",
+      "volume": 86,
+      "releaseDate": "2017-04-24",
+      "wsjIssue": "2017 Issue 21-22"
+    },
+    {
+      "number": 864,
+      "title": "The Vinsmoke Massacre Plot",
+      "volume": 86,
+      "releaseDate": "2017-05-08",
+      "wsjIssue": "2017 Issue 23"
+    },
+    {
+      "number": 865,
+      "title": "Hey, Mother",
+      "volume": 86,
+      "releaseDate": "2017-05-15",
+      "wsjIssue": "2017 Issue 24"
+    },
+    {
+      "number": 866,
+      "title": "Natural Born Destroyer",
+      "volume": 86,
+      "releaseDate": "2017-05-29",
+      "wsjIssue": "2017 Issue 26"
+    },
+    {
+      "number": 867,
+      "title": "Happy Birthday",
+      "volume": 86,
+      "releaseDate": "2017-06-05",
+      "wsjIssue": "2017 Issue 27"
+    },
+    {
+      "number": 868,
+      "title": "KX Launcher",
+      "volume": 86,
+      "releaseDate": "2017-06-12",
+      "wsjIssue": "2017 Issue 28"
+    },
+    {
+      "number": 869,
+      "title": "Castling",
+      "volume": 86,
+      "releaseDate": "2017-06-19",
+      "wsjIssue": "2017 Issue 29"
+    },
+    {
+      "number": 870,
+      "title": "Parting",
+      "volume": 87,
+      "releaseDate": "2017-07-03",
+      "wsjIssue": "2017 Issue 31"
+    },
+    {
+      "number": 871,
+      "title": "You Can Do It, Caesar!!",
+      "volume": 87,
+      "releaseDate": "2017-07-10",
+      "wsjIssue": "2017 Issue 32"
+    },
+    {
+      "number": 872,
+      "title": "Thick and Fluffy",
+      "volume": 87,
+      "releaseDate": "2017-07-15",
+      "wsjIssue": "2017 Issue 33"
+    },
+    {
+      "number": 873,
+      "title": "Recipe for Disaster",
+      "volume": 87,
+      "releaseDate": "2017-07-24",
+      "wsjIssue": "2017 Issue 34"
+    },
+    {
+      "number": 874,
+      "title": "Be My Servant",
+      "volume": 87,
+      "releaseDate": "2017-08-07",
+      "wsjIssue": "2017 Issue 36-37"
+    },
+    {
+      "number": 875,
+      "title": "A Woman's Honor",
+      "volume": 87,
+      "releaseDate": "2017-08-21",
+      "wsjIssue": "2017 Issue 38"
+    },
+    {
+      "number": 876,
+      "title": "Pudding Coincidentally Appears!!",
+      "volume": 87,
+      "releaseDate": "2017-08-28",
+      "wsjIssue": "2017 Issue 39"
+    },
+    {
+      "number": 877,
+      "title": "Bittersweet",
+      "volume": 87,
+      "releaseDate": "2017-09-04",
+      "wsjIssue": "2017 Issue 40"
+    },
+    {
+      "number": 878,
+      "title": "Commander Pedro of the Mink Guardians",
+      "volume": 87,
+      "releaseDate": "2017-09-16",
+      "wsjIssue": "2017 Issue 42"
+    },
+    {
+      "number": 879,
+      "title": "Big Mom's Sweet 3 General, Katakuri",
+      "volume": 87,
+      "releaseDate": "2017-09-25",
+      "wsjIssue": "2017 Issue 43"
+    },
+    {
+      "number": 880,
+      "title": "Zero Escape",
+      "volume": 88,
+      "releaseDate": "2017-10-02",
+      "wsjIssue": "2017 Issue 44"
+    },
+    {
+      "number": 881,
+      "title": "Wave Room",
+      "volume": 88,
+      "releaseDate": "2017-10-07",
+      "wsjIssue": "2017 Issue 45"
+    },
+    {
+      "number": 882,
+      "title": "Beyond the Emperor's Expectations",
+      "volume": 88,
+      "releaseDate": "2017-10-23",
+      "wsjIssue": "2017 Issue 47"
+    },
+    {
+      "number": 883,
+      "title": "Merienda",
+      "volume": 88,
+      "releaseDate": "2017-10-30",
+      "wsjIssue": "2017 Issue 48"
+    },
+    {
+      "number": 884,
+      "title": "Who Is That?",
+      "volume": 88,
+      "releaseDate": "2017-11-06",
+      "wsjIssue": "2017 Issue 49"
+    },
+    {
+      "number": 885,
+      "title": "I'm Brulee!!!",
+      "volume": 88,
+      "releaseDate": "2017-11-13",
+      "wsjIssue": "2017 Issue 50"
+    },
+    {
+      "number": 886,
+      "title": "Way of Life",
+      "volume": 88,
+      "releaseDate": "2017-11-27",
+      "wsjIssue": "2017 Issue 52"
+    },
+    {
+      "number": 887,
+      "title": "Someone Somewhere Is Wishing for Your Happiness",
+      "volume": 88,
+      "releaseDate": "2017-12-04",
+      "wsjIssue": "2018 Issue 1"
+    },
+    {
+      "number": 888,
+      "title": "Lion",
+      "volume": 88,
+      "releaseDate": "2017-12-11",
+      "wsjIssue": "2018 Issue 2-3"
+    },
+    {
+      "number": 889,
+      "title": "Unfamiliar Mama",
+      "volume": 88,
+      "releaseDate": "2017-12-25",
+      "wsjIssue": "2018 Issue 4-5"
+    },
+    {
+      "number": 890,
+      "title": "Big Mom on the Ship",
+      "volume": 89,
+      "releaseDate": "2018-01-04",
+      "wsjIssue": "2018 Issue 6"
+    },
+    {
+      "number": 891,
+      "title": "They Believe in Me",
+      "volume": 89,
+      "releaseDate": "2018-01-15",
+      "wsjIssue": "2018 Issue 7"
+    },
+    {
+      "number": 892,
+      "title": "Threat Confirmed",
+      "volume": 89,
+      "releaseDate": "2018-01-29",
+      "wsjIssue": "2018 Issue 9"
+    },
+    {
+      "number": 893,
+      "title": "Flampe, 36th Daughter of Charlotte",
+      "volume": 89,
+      "releaseDate": "2018-02-05",
+      "wsjIssue": "2018 Issue 10"
+    },
+    {
+      "number": 894,
+      "title": "12:05",
+      "volume": 89,
+      "releaseDate": "2018-02-10",
+      "wsjIssue": "2018 Issue 11"
+    },
+    {
+      "number": 895,
+      "title": "Luffy the Pirate vs. General Katakuri",
+      "volume": 89,
+      "releaseDate": "2018-02-19",
+      "wsjIssue": "2018 Issue 12"
+    },
+    {
+      "number": 896,
+      "title": "One Last Thing",
+      "volume": 89,
+      "releaseDate": "2018-03-05",
+      "wsjIssue": "2018 Issue 14"
+    },
+    {
+      "number": 897,
+      "title": "Pekoms's Cacao Island Escape Plan",
+      "volume": 89,
+      "releaseDate": "2018-03-12",
+      "wsjIssue": "2018 Issue 15"
+    },
+    {
+      "number": 898,
+      "title": "I Will Return",
+      "volume": 89,
+      "releaseDate": "2018-03-19",
+      "wsjIssue": "2018 Issue 16"
+    },
+    {
+      "number": 899,
+      "title": "The Final Fortress",
+      "volume": 89,
+      "releaseDate": "2018-03-26",
+      "wsjIssue": "2018 Issue 17"
+    },
+    {
+      "number": 900,
+      "title": "Bad End Musical",
+      "volume": 89,
+      "releaseDate": "2018-04-02",
+      "wsjIssue": "2018 Issue 18"
+    },
+    {
+      "number": 901,
+      "title": "Don't Let Even Death Stop You!!!",
+      "volume": 90,
+      "releaseDate": "2018-04-16",
+      "wsjIssue": "2018 Issue 20"
+    },
+    {
+      "number": 902,
+      "title": "End Roll",
+      "volume": 90,
+      "releaseDate": "2018-04-23",
+      "wsjIssue": "2018 Issue 21-22"
+    },
+    {
+      "number": 903,
+      "title": "Fifth Emperor",
+      "volume": 90,
+      "releaseDate": "2018-05-02",
+      "wsjIssue": "2018 Issue 23"
+    },
+    {
+      "number": 904,
+      "title": "Introducing the Revolutionary Army Captains",
+      "volume": 90,
+      "releaseDate": "2018-05-14",
+      "wsjIssue": "2018 Issue 24"
+    },
+    {
+      "number": 905,
+      "title": "What a Beautiful World",
+      "volume": 90,
+      "releaseDate": "2018-05-28",
+      "wsjIssue": "2018 Issue 26"
+    },
+    {
+      "number": 906,
+      "title": "Sacred Marijoa",
+      "volume": 90,
+      "releaseDate": "2018-06-04",
+      "wsjIssue": "2018 Issue 27"
+    },
+    {
+      "number": 907,
+      "title": "The Empty Throne",
+      "volume": 90,
+      "releaseDate": "2018-06-11",
+      "wsjIssue": "2018 Issue 28"
+    },
+    {
+      "number": 908,
+      "title": "The Reverie Begins",
+      "volume": 90,
+      "releaseDate": "2018-06-18",
+      "wsjIssue": "2018 Issue 29"
+    },
+    {
+      "number": 909,
+      "title": "Seppuku",
+      "volume": 90,
+      "releaseDate": "2018-07-02",
+      "wsjIssue": "2018 Issue 31"
+    },
+    {
+      "number": 910,
+      "title": "Onward to Wano",
+      "volume": 90,
+      "releaseDate": "2018-07-09",
+      "wsjIssue": "2018 Issue 32"
+    },
+    {
+      "number": 911,
+      "title": "Adventure in the Land of Samurai",
+      "volume": 91,
+      "releaseDate": "2018-07-14",
+      "wsjIssue": "2018 Issue 33"
+    },
+    {
+      "number": 912,
+      "title": "Amigasa Village",
+      "volume": 91,
+      "releaseDate": "2018-07-23",
+      "wsjIssue": "2018 Issue 34"
+    },
+    {
+      "number": 913,
+      "title": "The Crane Returns the Favor",
+      "volume": 91,
+      "releaseDate": "2018-08-06",
+      "wsjIssue": "2018 Issue 36-37"
+    },
+    {
+      "number": 914,
+      "title": "Okobore Town",
+      "volume": 91,
+      "releaseDate": "2018-08-20",
+      "wsjIssue": "2018 Issue 38"
+    },
+    {
+      "number": 915,
+      "title": "Bakura Town",
+      "volume": 91,
+      "releaseDate": "2018-08-27",
+      "wsjIssue": "2018 Issue 39"
+    },
+    {
+      "number": 916,
+      "title": "Wano Sumo",
+      "volume": 91,
+      "releaseDate": "2018-09-03",
+      "wsjIssue": "2018 Issue 40"
+    },
+    {
+      "number": 917,
+      "title": "Food Treasure Barge",
+      "volume": 91,
+      "releaseDate": "2018-09-15",
+      "wsjIssue": "2018 Issue 42"
+    },
+    {
+      "number": 918,
+      "title": "Luffytaro Returns the Favor",
+      "volume": 91,
+      "releaseDate": "2018-09-22",
+      "wsjIssue": "2018 Issue 43"
+    },
+    {
+      "number": 919,
+      "title": "The Ruins of Oden Castle",
+      "volume": 91,
+      "releaseDate": "2018-10-01",
+      "wsjIssue": "2018 Issue 44"
+    },
+    {
+      "number": 920,
+      "title": "For Love of Oden",
+      "volume": 91,
+      "releaseDate": "2018-10-06",
+      "wsjIssue": "2018 Issue 45"
+    },
+    {
+      "number": 921,
+      "title": "Shutenmaru",
+      "volume": 91,
+      "releaseDate": "2018-10-22",
+      "wsjIssue": "2018 Issue 47"
+    },
+    {
+      "number": 922,
+      "title": "Supreme Commander Kaido of the Animal Kingdom Pirates",
+      "volume": 92,
+      "releaseDate": "2018-10-29",
+      "wsjIssue": "2018 Issue 48"
+    },
+    {
+      "number": 923,
+      "title": "Emperor of the Sea Kaido vs. Luffy",
+      "volume": 92,
+      "releaseDate": "2018-11-05",
+      "wsjIssue": "2018 Issue 49"
+    },
+    {
+      "number": 924,
+      "title": "Huh",
+      "volume": 92,
+      "releaseDate": "2018-11-12",
+      "wsjIssue": "2018 Issue 50"
+    },
+    {
+      "number": 925,
+      "title": "Absence",
+      "volume": 92,
+      "releaseDate": "2018-11-26",
+      "wsjIssue": "2018 Issue 52"
+    },
+    {
+      "number": 926,
+      "title": "Excavation Labor Camp",
+      "volume": 92,
+      "releaseDate": "2018-12-03",
+      "wsjIssue": "2019 Issue 1"
+    },
+    {
+      "number": 927,
+      "title": "Otoko the Kamuro",
+      "volume": 92,
+      "releaseDate": "2018-12-10",
+      "wsjIssue": "2019 Issue 2"
+    },
+    {
+      "number": 928,
+      "title": "Introducing Komurasaki the Oiran",
+      "volume": 92,
+      "releaseDate": "2018-12-22",
+      "wsjIssue": "2019 Issue 4-5"
+    },
+    {
+      "number": 929,
+      "title": "Shogun of Wano, Kurozumi Orochi",
+      "volume": 92,
+      "releaseDate": "2019-01-07",
+      "wsjIssue": "2019 Issue 6-7"
+    },
+    {
+      "number": 930,
+      "title": "Ebisu Town",
+      "volume": 92,
+      "releaseDate": "2019-01-21",
+      "wsjIssue": "2019 Issue 8"
+    },
+    {
+      "number": 931,
+      "title": "Soba Mask",
+      "volume": 92,
+      "releaseDate": "2019-02-04",
+      "wsjIssue": "2019 Issue 10"
+    },
+    {
+      "number": 932,
+      "title": "Shogun and Oiran",
+      "volume": 93,
+      "releaseDate": "2019-02-09",
+      "wsjIssue": "2019 Issue 11"
+    },
+    {
+      "number": 933,
+      "title": "A Warrior's Mercy",
+      "volume": 93,
+      "releaseDate": "2019-02-18",
+      "wsjIssue": "2019 Issue 12"
+    },
+    {
+      "number": 934,
+      "title": "Hyogoro the Flower",
+      "volume": 93,
+      "releaseDate": "2019-02-25",
+      "wsjIssue": "2019 Issue 13"
+    },
+    {
+      "number": 935,
+      "title": "Queen",
+      "volume": 93,
+      "releaseDate": "2019-03-11",
+      "wsjIssue": "2019 Issue 15"
+    },
+    {
+      "number": 936,
+      "title": "Sumo Inferno",
+      "volume": 93,
+      "releaseDate": "2019-03-18",
+      "wsjIssue": "2019 Issue 16"
+    },
+    {
+      "number": 937,
+      "title": "Gyukimaru on Bandit's Bridge",
+      "volume": 93,
+      "releaseDate": "2019-03-25",
+      "wsjIssue": "2019 Issue 17"
+    },
+    {
+      "number": 938,
+      "title": "A Woman's Secret",
+      "volume": 93,
+      "releaseDate": "2019-04-01",
+      "wsjIssue": "2019 Issue 18"
+    },
+    {
+      "number": 939,
+      "title": "The Old Leopard Never Forgets the Way",
+      "volume": 93,
+      "releaseDate": "2019-04-15",
+      "wsjIssue": "2019 Issue 20"
+    },
+    {
+      "number": 940,
+      "title": "Sparks of Rebellion",
+      "volume": 93,
+      "releaseDate": "2019-04-22",
+      "wsjIssue": "2019 Issue 21"
+    },
+    {
+      "number": 941,
+      "title": "The Star of Ebisu",
+      "volume": 93,
+      "releaseDate": "2019-04-27",
+      "wsjIssue": "2019 Issue 22-23"
+    },
+    {
+      "number": 942,
+      "title": "Daimyo of Hakumai, Shimotsuki Yasuie",
+      "volume": 93,
+      "releaseDate": "2019-05-13",
+      "wsjIssue": "2019 Issue 24"
+    },
+    {
+      "number": 943,
+      "title": "Smile",
+      "volume": 94,
+      "releaseDate": "2019-05-27",
+      "wsjIssue": "2019 Issue 26"
+    },
+    {
+      "number": 944,
+      "title": "Partner",
+      "volume": 94,
+      "releaseDate": "2019-06-03",
+      "wsjIssue": "2019 Issue 27"
+    },
+    {
+      "number": 945,
+      "title": "Olin",
+      "volume": 94,
+      "releaseDate": "2019-06-10",
+      "wsjIssue": "2019 Issue 28"
+    },
+    {
+      "number": 946,
+      "title": "Queen vs. Olin",
+      "volume": 94,
+      "releaseDate": "2019-06-24",
+      "wsjIssue": "2019 Issue 30"
+    },
+    {
+      "number": 947,
+      "title": "Queen's Gamble",
+      "volume": 94,
+      "releaseDate": "2019-07-01",
+      "wsjIssue": "2019 Issue 31"
+    },
+    {
+      "number": 948,
+      "title": "Introducing Kawamatsu the Kappa",
+      "volume": 94,
+      "releaseDate": "2019-07-08",
+      "wsjIssue": "2019 Issue 32"
+    },
+    {
+      "number": 949,
+      "title": "Mummy",
+      "volume": 94,
+      "releaseDate": "2019-07-22",
+      "wsjIssue": "2019 Issue 34"
+    },
+    {
+      "number": 950,
+      "title": "A Soldier's Dream",
+      "volume": 94,
+      "releaseDate": "2019-07-29",
+      "wsjIssue": "2019 Issue 35"
+    },
+    {
+      "number": 951,
+      "title": "Rampage",
+      "volume": 94,
+      "releaseDate": "2019-08-05",
+      "wsjIssue": "2019 Issue 36-37"
+    },
+    {
+      "number": 952,
+      "title": "Hiyori and Kawamatsu",
+      "volume": 94,
+      "releaseDate": "2019-08-19",
+      "wsjIssue": "2019 Issue 38"
+    },
+    {
+      "number": 953,
+      "title": "Once a Fox",
+      "volume": 94,
+      "releaseDate": "2019-08-26",
+      "wsjIssue": "2019 Issue 39"
+    },
+    {
+      "number": 954,
+      "title": "Like a Dragon Given Wings",
+      "volume": 95,
+      "releaseDate": "2019-09-02",
+      "wsjIssue": "2019 Issue 40"
+    },
+    {
+      "number": 955,
+      "title": "Enma",
+      "volume": 95,
+      "releaseDate": "2019-09-14",
+      "wsjIssue": "2019 Issue 42"
+    },
+    {
+      "number": 956,
+      "title": "Big News",
+      "volume": 95,
+      "releaseDate": "2019-09-21",
+      "wsjIssue": "2019 Issue 43"
+    },
+    {
+      "number": 957,
+      "title": "Ultimate",
+      "volume": 95,
+      "releaseDate": "2019-09-30",
+      "wsjIssue": "2019 Issue 44"
+    },
+    {
+      "number": 958,
+      "title": "The Promised Port",
+      "volume": 95,
+      "releaseDate": "2019-10-07",
+      "wsjIssue": "2019 Issue 45"
+    },
+    {
+      "number": 959,
+      "title": "Samurai",
+      "volume": 95,
+      "releaseDate": "2019-10-21",
+      "wsjIssue": "2019 Issue 47"
+    },
+    {
+      "number": 960,
+      "title": "Introducing Kozuki Oden",
+      "volume": 95,
+      "releaseDate": "2019-10-28",
+      "wsjIssue": "2019 Issue 48"
+    },
+    {
+      "number": 961,
+      "title": "The Mountain God Incident",
+      "volume": 95,
+      "releaseDate": "2019-11-02",
+      "wsjIssue": "2019 Issue 49"
+    },
+    {
+      "number": 962,
+      "title": "Daimyo and Vassals",
+      "volume": 95,
+      "releaseDate": "2019-11-18",
+      "wsjIssue": "2019 Issue 51"
+    },
+    {
+      "number": 963,
+      "title": "Becoming Samurai",
+      "volume": 95,
+      "releaseDate": "2019-11-25",
+      "wsjIssue": "2019 Issue 52"
+    },
+    {
+      "number": 964,
+      "title": "Oden's Adventure",
+      "volume": 95,
+      "releaseDate": "2019-12-02",
+      "wsjIssue": "2020 Issue 1"
+    },
+    {
+      "number": 965,
+      "title": "The Kurozumi Clan's Plot",
+      "volume": 96,
+      "releaseDate": "2019-12-16",
+      "wsjIssue": "2020 Issue 3"
+    },
+    {
+      "number": 966,
+      "title": "Roger and Whitebeard",
+      "volume": 96,
+      "releaseDate": "2019-12-23",
+      "wsjIssue": "2020 Issue 4-5"
+    },
+    {
+      "number": 967,
+      "title": "Roger's Adventure",
+      "volume": 96,
+      "releaseDate": "2020-01-04",
+      "wsjIssue": "2020 Issue 6-7"
+    },
+    {
+      "number": 968,
+      "title": "Oden's Return",
+      "volume": 96,
+      "releaseDate": "2020-01-20",
+      "wsjIssue": "2020 Issue 8"
+    },
+    {
+      "number": 969,
+      "title": "Fool of a Lord",
+      "volume": 96,
+      "releaseDate": "2020-01-27",
+      "wsjIssue": "2020 Issue 9"
+    },
+    {
+      "number": 970,
+      "title": "Oden vs. Kaido",
+      "volume": 96,
+      "releaseDate": "2020-02-03",
+      "wsjIssue": "2020 Issue 10"
+    },
+    {
+      "number": 971,
+      "title": "Sentenced to Boil",
+      "volume": 96,
+      "releaseDate": "2020-02-17",
+      "wsjIssue": "2020 Issue 12"
+    },
+    {
+      "number": 972,
+      "title": "I Am Oden, and I Was Born to Boil",
+      "volume": 96,
+      "releaseDate": "2020-02-22",
+      "wsjIssue": "2020 Issue 13"
+    },
+    {
+      "number": 973,
+      "title": "The Kozuki Clan",
+      "volume": 96,
+      "releaseDate": "2020-03-09",
+      "wsjIssue": "2020 Issue 15"
+    },
+    {
+      "number": 974,
+      "title": "Onward to Onigashima!!",
+      "volume": 96,
+      "releaseDate": "2020-03-16",
+      "wsjIssue": "2020 Issue 16"
+    },
+    {
+      "number": 975,
+      "title": "Kin'emon's Clever Trick",
+      "volume": 97,
+      "releaseDate": "2020-03-23",
+      "wsjIssue": "2020 Issue 17"
+    },
+    {
+      "number": 976,
+      "title": "Begging Your Pardon!!!",
+      "volume": 97,
+      "releaseDate": "2020-04-06",
+      "wsjIssue": "2020 Issue 19"
+    },
+    {
+      "number": 977,
+      "title": "The Party's Off!!!",
+      "volume": 97,
+      "releaseDate": "2020-04-13",
+      "wsjIssue": "2020 Issue 20"
+    },
+    {
+      "number": 978,
+      "title": "Introducing the Tobi Roppo",
+      "volume": 97,
+      "releaseDate": "2020-04-27",
+      "wsjIssue": "2020 Issue 21-22"
+    },
+    {
+      "number": 979,
+      "title": "Family Problem",
+      "volume": 97,
+      "releaseDate": "2020-05-11",
+      "wsjIssue": "2020 Issue 23"
+    },
+    {
+      "number": 980,
+      "title": "Fighting Music",
+      "volume": 97,
+      "releaseDate": "2020-05-25",
+      "wsjIssue": "2020 Issue 25"
+    },
+    {
+      "number": 981,
+      "title": "Joining the Fight",
+      "volume": 97,
+      "releaseDate": "2020-06-08",
+      "wsjIssue": "2020 Issue 27"
+    },
+    {
+      "number": 982,
+      "title": "Scoundrel Meets Scoundrel",
+      "volume": 97,
+      "releaseDate": "2020-06-15",
+      "wsjIssue": "2020 Issue 28"
+    },
+    {
+      "number": 983,
+      "title": "Thunder",
+      "volume": 97,
+      "releaseDate": "2020-06-22",
+      "wsjIssue": "2020 Issue 29"
+    },
+    {
+      "number": 984,
+      "title": "My Bible",
+      "volume": 97,
+      "releaseDate": "2020-07-06",
+      "wsjIssue": "2020 Issue 31"
+    },
+    {
+      "number": 985,
+      "title": "New Onigashima Project",
+      "volume": 98,
+      "releaseDate": "2020-07-20",
+      "wsjIssue": "2020 Issue 33-34"
+    },
+    {
+      "number": 986,
+      "title": "My Name",
+      "volume": 98,
+      "releaseDate": "2020-08-03",
+      "wsjIssue": "2020 Issue 35"
+    },
+    {
+      "number": 987,
+      "title": "Vassals of Glory",
+      "volume": 98,
+      "releaseDate": "2020-08-11",
+      "wsjIssue": "2020 Issue 36-37"
+    },
+    {
+      "number": 988,
+      "title": "Sorry for the Wait",
+      "volume": 98,
+      "releaseDate": "2020-08-24",
+      "wsjIssue": "2020 Issue 38"
+    },
+    {
+      "number": 989,
+      "title": "I Can't Imagine Losing",
+      "volume": 98,
+      "releaseDate": "2020-09-07",
+      "wsjIssue": "2020 Issue 40"
+    },
+    {
+      "number": 990,
+      "title": "Army of One",
+      "volume": 98,
+      "releaseDate": "2020-09-14",
+      "wsjIssue": "2020 Issue 41"
+    },
+    {
+      "number": 991,
+      "title": "Let Us Die!!!",
+      "volume": 98,
+      "releaseDate": "2020-09-28",
+      "wsjIssue": "2020 Issue 43"
+    },
+    {
+      "number": 992,
+      "title": "Remnants",
+      "volume": 98,
+      "releaseDate": "2020-10-17",
+      "wsjIssue": "2020 Issue 46"
+    },
+    {
+      "number": 993,
+      "title": "The Dream of Wano",
+      "volume": 98,
+      "releaseDate": "2020-10-26",
+      "wsjIssue": "2020 Issue 47"
+    },
+    {
+      "number": 994,
+      "title": "My Other Name Is Yamato",
+      "volume": 98,
+      "releaseDate": "2020-11-02",
+      "wsjIssue": "2020 Issue 48"
+    },
+    {
+      "number": 995,
+      "title": "A Kunoichi's Oath",
+      "volume": 99,
+      "releaseDate": "2020-11-16",
+      "wsjIssue": "2020 Issue 50"
+    },
+    {
+      "number": 996,
+      "title": "Island of the Strongest",
+      "volume": 99,
+      "releaseDate": "2020-11-21",
+      "wsjIssue": "2020 Issue 51"
+    },
+    {
+      "number": 997,
+      "title": "Flame Clouds",
+      "volume": 99,
+      "releaseDate": "2020-11-30",
+      "wsjIssue": "2020 Issue 52"
+    },
+    {
+      "number": 998,
+      "title": "Ancient Types",
+      "volume": 99,
+      "releaseDate": "2020-12-14",
+      "wsjIssue": "2021 Issue 2"
+    },
+    {
+      "number": 999,
+      "title": "The Sake I Brewed to Drink With You",
+      "volume": 99,
+      "releaseDate": "2020-12-21",
+      "wsjIssue": "2021 Issue 3-4"
+    },
+    {
+      "number": 1000,
+      "title": "Straw Hat Luffy",
+      "volume": 99,
+      "releaseDate": "2021-01-04",
+      "wsjIssue": "2021 Issue 5-6"
+    },
+    {
+      "number": 1001,
+      "title": "Battle of Monsters on Onigashima",
+      "volume": 99,
+      "releaseDate": "2021-01-18",
+      "wsjIssue": "2021 Issue 7"
+    },
+    {
+      "number": 1002,
+      "title": "Four Emperors vs. New Generation",
+      "volume": 99,
+      "releaseDate": "2021-02-01",
+      "wsjIssue": "2021 Issue 9"
+    },
+    {
+      "number": 1003,
+      "title": "Night on the Board",
+      "volume": 99,
+      "releaseDate": "2021-02-08",
+      "wsjIssue": "2021 Issue 10"
+    },
+    {
+      "number": 1004,
+      "title": "Millet Dumplings",
+      "volume": 99,
+      "releaseDate": "2021-02-15",
+      "wsjIssue": "2021 Issue 11"
+    },
+    {
+      "number": 1005,
+      "title": "Demon Child",
+      "volume": 100,
+      "releaseDate": "2021-03-01",
+      "wsjIssue": "2021 Issue 13"
+    },
+    {
+      "number": 1006,
+      "title": "The Honorable Hyogoro the Flower",
+      "volume": 100,
+      "releaseDate": "2021-03-08",
+      "wsjIssue": "2021 Issue 14"
+    },
+    {
+      "number": 1007,
+      "title": "Mr. Raccoon Dog",
+      "volume": 100,
+      "releaseDate": "2021-03-15",
+      "wsjIssue": "2021 Issue 15"
+    },
+    {
+      "number": 1008,
+      "title": "Leader of the Atamayama Thieves Brigade, Ashura Doji",
+      "volume": 100,
+      "releaseDate": "2021-03-29",
+      "wsjIssue": "2021 Issue 17"
+    },
+    {
+      "number": 1009,
+      "title": "Naraku",
+      "volume": 100,
+      "releaseDate": "2021-04-05",
+      "wsjIssue": "2021 Issue 18"
+    },
+    {
+      "number": 1010,
+      "title": "Color of the Supreme King",
+      "volume": 100,
+      "releaseDate": "2021-04-12",
+      "wsjIssue": "2021 Issue 19"
+    },
+    {
+      "number": 1011,
+      "title": "The Code of Sweet Beans",
+      "volume": 100,
+      "releaseDate": "2021-04-26",
+      "wsjIssue": "2021 Issue 21-22"
+    },
+    {
+      "number": 1012,
+      "title": "Itch",
+      "volume": 100,
+      "releaseDate": "2021-05-10",
+      "wsjIssue": "2021 Issue 23"
+    },
+    {
+      "number": 1013,
+      "title": "Anarchy in the B.M. (Big Mom)",
+      "volume": 100,
+      "releaseDate": "2021-05-17",
+      "wsjIssue": "2021 Issue 24"
+    },
+    {
+      "number": 1014,
+      "title": "The Ham",
+      "volume": 100,
+      "releaseDate": "2021-05-31",
+      "wsjIssue": "2021 Issue 26"
+    },
+    {
+      "number": 1015,
+      "title": "Chains",
+      "volume": 100,
+      "releaseDate": "2021-06-07",
+      "wsjIssue": "2021 Issue 27"
+    },
+    {
+      "number": 1016,
+      "title": "It's Me, Otama!!",
+      "volume": 101,
+      "releaseDate": "2021-06-14",
+      "wsjIssue": "2021 Issue 28"
+    },
+    {
+      "number": 1017,
+      "title": "The Order",
+      "volume": 101,
+      "releaseDate": "2021-06-28",
+      "wsjIssue": "2021 Issue 30"
+    },
+    {
+      "number": 1018,
+      "title": "Jimbei vs. Who's-Who",
+      "volume": 101,
+      "releaseDate": "2021-07-05",
+      "wsjIssue": "2021 Issue 31"
+    },
+    {
+      "number": 1019,
+      "title": "Heliceratops",
+      "volume": 101,
+      "releaseDate": "2021-07-19",
+      "wsjIssue": "2021 Issue 33-34"
+    },
+    {
+      "number": 1020,
+      "title": "Robin vs. Black Maria",
+      "volume": 101,
+      "releaseDate": "2021-08-02",
+      "wsjIssue": "2021 Issue 35"
+    },
+    {
+      "number": 1021,
+      "title": "Demonio",
+      "volume": 101,
+      "releaseDate": "2021-08-10",
+      "wsjIssue": "2021 Issue 36-37"
+    },
+    {
+      "number": 1022,
+      "title": "The Stars Take the Stage",
+      "volume": 101,
+      "releaseDate": "2021-08-23",
+      "wsjIssue": "2021 Issue 38"
+    },
+    {
+      "number": 1023,
+      "title": "Spitting Image",
+      "volume": 101,
+      "releaseDate": "2021-08-30",
+      "wsjIssue": "2021 Issue 39"
+    },
+    {
+      "number": 1024,
+      "title": "So-and-So",
+      "volume": 101,
+      "releaseDate": "2021-09-06",
+      "wsjIssue": "2021 Issue 40"
+    },
+    {
+      "number": 1025,
+      "title": "Twin Dragons",
+      "volume": 101,
+      "releaseDate": "2021-09-13",
+      "wsjIssue": "2021 Issue 41"
+    },
+    {
+      "number": 1026,
+      "title": "The Pivotal Clash",
+      "volume": 102,
+      "releaseDate": "2021-09-27",
+      "wsjIssue": "2021 Issue 43"
+    },
+    {
+      "number": 1027,
+      "title": "Danger Beyond Imagining",
+      "volume": 102,
+      "releaseDate": "2021-10-04",
+      "wsjIssue": "2021 Issue 44"
+    },
+    {
+      "number": 1028,
+      "title": "Brachiosnakeus",
+      "volume": 102,
+      "releaseDate": "2021-10-11",
+      "wsjIssue": "2021 Issue 45"
+    },
+    {
+      "number": 1029,
+      "title": "The Tower",
+      "volume": 102,
+      "releaseDate": "2021-10-25",
+      "wsjIssue": "2021 Issue 47"
+    },
+    {
+      "number": 1030,
+      "title": "Echoing the Impermanence of All Things",
+      "volume": 102,
+      "releaseDate": "2021-11-01",
+      "wsjIssue": "2021 Issue 48"
+    },
+    {
+      "number": 1031,
+      "title": "Warrior of Science",
+      "volume": 102,
+      "releaseDate": "2021-11-08",
+      "wsjIssue": "2021 Issue 49"
+    },
+    {
+      "number": 1032,
+      "title": "Oden's Beloved Blade",
+      "volume": 102,
+      "releaseDate": "2021-11-22",
+      "wsjIssue": "2021 Issue 51"
+    },
+    {
+      "number": 1033,
+      "title": "Shimotsuki Kozaburo",
+      "volume": 102,
+      "releaseDate": "2021-11-29",
+      "wsjIssue": "2021 Issue 52"
+    },
+    {
+      "number": 1034,
+      "title": "Sanji vs. Queen",
+      "volume": 102,
+      "releaseDate": "2021-12-06",
+      "wsjIssue": "2022 Issue 1"
+    },
+    {
+      "number": 1035,
+      "title": "Zolo vs. King",
+      "volume": 102,
+      "releaseDate": "2021-12-20",
+      "wsjIssue": "2022 Issue 3-4"
+    },
+    {
+      "number": 1036,
+      "title": "Bushido Is the Way of Death",
+      "volume": 103,
+      "releaseDate": "2022-01-04",
+      "wsjIssue": "2022 Issue 5-6"
+    },
+    {
+      "number": 1037,
+      "title": "Drunken Dragon Bagua",
+      "volume": 103,
+      "releaseDate": "2022-01-17",
+      "wsjIssue": "2022 Issue 7"
+    },
+    {
+      "number": 1038,
+      "title": "Kid & Law vs. Big Mom",
+      "volume": 103,
+      "releaseDate": "2022-01-31",
+      "wsjIssue": "2022 Issue 9"
+    },
+    {
+      "number": 1039,
+      "title": "Top Billing",
+      "volume": 103,
+      "releaseDate": "2022-02-07",
+      "wsjIssue": "2022 Issue 10"
+    },
+    {
+      "number": 1040,
+      "title": "Wasted Words on Young Ears",
+      "volume": 103,
+      "releaseDate": "2022-02-14",
+      "wsjIssue": "2022 Issue 11"
+    },
+    {
+      "number": 1041,
+      "title": "Komurasaki",
+      "volume": 103,
+      "releaseDate": "2022-02-28",
+      "wsjIssue": "2022 Issue 13"
+    },
+    {
+      "number": 1042,
+      "title": "The Victor Needs No Epithet",
+      "volume": 103,
+      "releaseDate": "2022-03-07",
+      "wsjIssue": "2022 Issue 14"
+    },
+    {
+      "number": 1043,
+      "title": "Let's Face Death Together!!!",
+      "volume": 103,
+      "releaseDate": "2022-03-14",
+      "wsjIssue": "2022 Issue 15"
+    },
+    {
+      "number": 1044,
+      "title": "Warrior of Liberation",
+      "volume": 103,
+      "releaseDate": "2022-03-28",
+      "wsjIssue": "2022 Issue 17"
+    },
+    {
+      "number": 1045,
+      "title": "Next Level",
+      "volume": 103,
+      "releaseDate": "2022-04-04",
+      "wsjIssue": "2022 Issue 18"
+    },
+    {
+      "number": 1046,
+      "title": "Raizo",
+      "volume": 103,
+      "releaseDate": "2022-04-11",
+      "wsjIssue": "2022 Issue 19"
+    },
+    {
+      "number": 1047,
+      "title": "The Sky over the Capital",
+      "volume": 104,
+      "releaseDate": "2022-04-25",
+      "wsjIssue": "2022 Issue 21-22"
+    },
+    {
+      "number": 1048,
+      "title": "Twenty Years",
+      "volume": 104,
+      "releaseDate": "2022-05-09",
+      "wsjIssue": "2022 Issue 23"
+    },
+    {
+      "number": 1049,
+      "title": "The World That Should Be",
+      "volume": 104,
+      "releaseDate": "2022-05-16",
+      "wsjIssue": "2022 Issue 24"
+    },
+    {
+      "number": 1050,
+      "title": "Honor",
+      "volume": 104,
+      "releaseDate": "2022-05-30",
+      "wsjIssue": "2022 Issue 26"
+    },
+    {
+      "number": 1051,
+      "title": "Shogun of Wano, Kozuki Momonosuke",
+      "volume": 104,
+      "releaseDate": "2022-06-06",
+      "wsjIssue": "2022 Issue 27"
+    },
+    {
+      "number": 1052,
+      "title": "A New Morning",
+      "volume": 104,
+      "releaseDate": "2022-06-13",
+      "wsjIssue": "2022 Issue 28"
+    },
+    {
+      "number": 1053,
+      "title": "New Emperors",
+      "volume": 104,
+      "releaseDate": "2022-06-20",
+      "wsjIssue": "2022 Issue 29"
+    },
+    {
+      "number": 1054,
+      "title": "Flame Emperor",
+      "volume": 104,
+      "releaseDate": "2022-07-25",
+      "wsjIssue": "2022 Issue 34"
+    },
+    {
+      "number": 1055,
+      "title": "The New Era",
+      "volume": 104,
+      "releaseDate": "2022-08-01",
+      "wsjIssue": "2022 Issue 35"
+    },
+    {
+      "number": 1056,
+      "title": "Cross Guild",
+      "volume": 105,
+      "releaseDate": "2022-08-08",
+      "wsjIssue": "2022 Issue 36-37"
+    },
+    {
+      "number": 1057,
+      "title": "The End",
+      "volume": 105,
+      "releaseDate": "2022-08-22",
+      "wsjIssue": "2022 Issue 38"
+    },
+    {
+      "number": 1058,
+      "title": "New Emperors",
+      "volume": 105,
+      "releaseDate": "2022-08-29",
+      "wsjIssue": "2022 Issue 39"
+    },
+    {
+      "number": 1059,
+      "title": "The Matter Involving Captain Koby",
+      "volume": 105,
+      "releaseDate": "2022-09-12",
+      "wsjIssue": "2022 Issue 41"
+    },
+    {
+      "number": 1060,
+      "title": "Luffy's Dream",
+      "volume": 105,
+      "releaseDate": "2022-09-20",
+      "wsjIssue": "2022 Issue 42"
+    },
+    {
+      "number": 1061,
+      "title": "Future Island Egghead",
+      "volume": 105,
+      "releaseDate": "2022-09-26",
+      "wsjIssue": "2022 Issue 43"
+    },
+    {
+      "number": 1062,
+      "title": "Adventure in the Land of Science",
+      "volume": 105,
+      "releaseDate": "2022-10-11",
+      "wsjIssue": "2022 Issue 45"
+    },
+    {
+      "number": 1063,
+      "title": "My Only Family",
+      "volume": 105,
+      "releaseDate": "2022-10-17",
+      "wsjIssue": "2022 Issue 46"
+    },
+    {
+      "number": 1064,
+      "title": "Egghead Labophase",
+      "volume": 105,
+      "releaseDate": "2022-10-24",
+      "wsjIssue": "2022 Issue 47"
+    },
+    {
+      "number": 1065,
+      "title": "Six Vegapunks",
+      "volume": 105,
+      "releaseDate": "2022-11-07",
+      "wsjIssue": "2022 Issue 49"
+    },
+    {
+      "number": 1066,
+      "title": "The Will of Ohara",
+      "volume": 106,
+      "releaseDate": "2022-11-14",
+      "wsjIssue": "2022 Issue 50"
+    },
+    {
+      "number": 1067,
+      "title": "Punk Records",
+      "volume": 106,
+      "releaseDate": "2022-11-21",
+      "wsjIssue": "2022 Issue 51"
+    },
+    {
+      "number": 1068,
+      "title": "A Genius's Dream",
+      "volume": 106,
+      "releaseDate": "2022-12-05",
+      "wsjIssue": "2023 Issue 1"
+    },
+    {
+      "number": 1069,
+      "title": "All Things Are Brought into This World with Hope",
+      "volume": 106,
+      "releaseDate": "2022-12-12",
+      "wsjIssue": "2023 Issue 2"
+    },
+    {
+      "number": 1070,
+      "title": "The Strongest Form of Humanity",
+      "volume": 106,
+      "releaseDate": "2022-12-26",
+      "wsjIssue": "2023 Issue 4-5"
+    },
+    {
+      "number": 1071,
+      "title": "The Hero Deploys",
+      "volume": 106,
+      "releaseDate": "2023-01-07",
+      "wsjIssue": "2023 Issue 6-7"
+    },
+    {
+      "number": 1072,
+      "title": "The Weight of Memory",
+      "volume": 106,
+      "releaseDate": "2023-01-23",
+      "wsjIssue": "2023 Issue 8"
+    },
+    {
+      "number": 1073,
+      "title": "Miss Buckingham Stussy",
+      "volume": 106,
+      "releaseDate": "2023-01-30",
+      "wsjIssue": "2023 Issue 9"
+    },
+    {
+      "number": 1074,
+      "title": "Mk. III",
+      "volume": 106,
+      "releaseDate": "2023-02-13",
+      "wsjIssue": "2023 Issue 11"
+    },
+    {
+      "number": 1075,
+      "title": "Labophase Death Game",
+      "volume": 106,
+      "releaseDate": "2023-02-20",
+      "wsjIssue": "2023 Issue 12"
+    },
+    {
+      "number": 1076,
+      "title": "Old Friends",
+      "volume": 106,
+      "releaseDate": "2023-02-27",
+      "wsjIssue": "2023 Issue 13"
+    },
+    {
+      "number": 1077,
+      "title": "Should Have Noticed Sooner",
+      "volume": 107,
+      "releaseDate": "2023-03-13",
+      "wsjIssue": "2023 Issue 15"
+    },
+    {
+      "number": 1078,
+      "title": "Escape Limit",
+      "volume": 107,
+      "releaseDate": "2023-03-20",
+      "wsjIssue": "2023 Issue 16"
+    },
+    {
+      "number": 1079,
+      "title": "The Emperor's Crew, the Red-Haired Pirates",
+      "volume": 107,
+      "releaseDate": "2023-03-27",
+      "wsjIssue": "2023 Issue 17"
+    },
+    {
+      "number": 1080,
+      "title": "The Hero of Legend",
+      "volume": 107,
+      "releaseDate": "2023-04-10",
+      "wsjIssue": "2023 Issue 19"
+    },
+    {
+      "number": 1081,
+      "title": "Tenth Ship Captain of the Blackbeard Pirates, Kuzan",
+      "volume": 107,
+      "releaseDate": "2023-04-24",
+      "wsjIssue": "2023 Issue 21-22"
+    },
+    {
+      "number": 1082,
+      "title": "Let's Go and Take It!!",
+      "volume": 107,
+      "releaseDate": "2023-05-08",
+      "wsjIssue": "2023 Issue 23"
+    },
+    {
+      "number": 1083,
+      "title": "The Truth of That Day",
+      "volume": 107,
+      "releaseDate": "2023-05-15",
+      "wsjIssue": "2023 Issue 24"
+    },
+    {
+      "number": 1084,
+      "title": "The Attempted Murder of a Celestial Dragon",
+      "volume": 107,
+      "releaseDate": "2023-05-22",
+      "wsjIssue": "2023 Issue 25"
+    },
+    {
+      "number": 1085,
+      "title": "The Death of Nefeltari Cobra",
+      "volume": 107,
+      "releaseDate": "2023-06-05",
+      "wsjIssue": "2023 Issue 27"
+    },
+    {
+      "number": 1086,
+      "title": "The Five Elders",
+      "volume": 107,
+      "releaseDate": "2023-06-12",
+      "wsjIssue": "2023 Issue 28"
+    },
+    {
+      "number": 1087,
+      "title": "Battleship Bags",
+      "volume": 107,
+      "releaseDate": "2023-07-17",
+      "wsjIssue": "2023 Issue 33"
+    },
+    {
+      "number": 1088,
+      "title": "Final Lesson",
+      "volume": 107,
+      "releaseDate": "2023-07-24",
+      "wsjIssue": "2023 Issue 34"
+    },
+    {
+      "number": 1089,
+      "title": "Hostage Situation",
+      "volume": 108,
+      "releaseDate": "2023-08-07",
+      "wsjIssue": "2023 Issue 36-37"
+    },
+    {
+      "number": 1090,
+      "title": "Kizaru",
+      "volume": 108,
+      "releaseDate": "2023-08-21",
+      "wsjIssue": "2023 Issue 38"
+    },
+    {
+      "number": 1091,
+      "title": "Sentomaru",
+      "volume": 108,
+      "releaseDate": "2023-09-04",
+      "wsjIssue": "2023 Issue 40"
+    },
+    {
+      "number": 1092,
+      "title": "Kuma the Tyrant's Holy Land Rampage",
+      "volume": 108,
+      "releaseDate": "2023-09-18",
+      "wsjIssue": "2023 Issue 42"
+    },
+    {
+      "number": 1093,
+      "title": "Luffy vs. Kizaru",
+      "volume": 108,
+      "releaseDate": "2023-09-25",
+      "wsjIssue": "2023 Issue 43"
+    },
+    {
+      "number": 1094,
+      "title": "Five Elders, Godhead of Science & Defense, St. Jaygarcia Saturn",
+      "volume": 108,
+      "releaseDate": "2023-10-09",
+      "wsjIssue": "2023 Issue 45"
+    },
+    {
+      "number": 1095,
+      "title": "Better Off Dead in This World",
+      "volume": 108,
+      "releaseDate": "2023-10-16",
+      "wsjIssue": "2023 Issue 46"
+    },
+    {
+      "number": 1096,
+      "title": "Kumachi",
+      "volume": 108,
+      "releaseDate": "2023-10-30",
+      "wsjIssue": "2023 Issue 48"
+    },
+    {
+      "number": 1097,
+      "title": "Ginny",
+      "volume": 108,
+      "releaseDate": "2023-11-06",
+      "wsjIssue": "2023 Issue 49"
+    },
+    {
+      "number": 1098,
+      "title": "Bonney's Birth",
+      "volume": 108,
+      "releaseDate": "2023-11-13",
+      "wsjIssue": "2023 Issue 50"
+    },
+    {
+      "number": 1099,
+      "title": "Pacifist",
+      "volume": 108,
+      "releaseDate": "2023-11-27",
+      "wsjIssue": "2023 Issue 52"
+    },
+    {
+      "number": 1100,
+      "title": "Thank You, Bonney",
+      "volume": 108,
+      "releaseDate": "2023-12-04",
+      "wsjIssue": "2024 Issue 1"
+    },
+    {
+      "number": 1101,
+      "title": "To Bonney",
+      "volume": 109,
+      "releaseDate": "2023-12-11",
+      "wsjIssue": "2024 Issue 2"
+    },
+    {
+      "number": 1102,
+      "title": "Kuma's Life",
+      "volume": 109,
+      "releaseDate": "2023-12-25",
+      "wsjIssue": "2024 Issue 4-5"
+    },
+    {
+      "number": 1103,
+      "title": "I'm Sorry, Daddy",
+      "volume": 109,
+      "releaseDate": "2024-01-06",
+      "wsjIssue": "2024 Issue 6-7"
+    },
+    {
+      "number": 1104,
+      "title": "Thank You, Daddy",
+      "volume": 109,
+      "releaseDate": "2024-01-22",
+      "wsjIssue": "2024 Issue 8"
+    },
+    {
+      "number": 1105,
+      "title": "The Height of Folly",
+      "volume": 109,
+      "releaseDate": "2024-01-29",
+      "wsjIssue": "2024 Issue 9"
+    },
+    {
+      "number": 1106,
+      "title": "On Your Side",
+      "volume": 109,
+      "releaseDate": "2024-02-05",
+      "wsjIssue": "2024 Issue 10"
+    },
+    {
+      "number": 1107,
+      "title": "I've Been Looking for You!!",
+      "volume": 109,
+      "releaseDate": "2024-02-19",
+      "wsjIssue": "2024 Issue 12"
+    },
+    {
+      "number": 1108,
+      "title": "Come In, World",
+      "volume": 109,
+      "releaseDate": "2024-02-26",
+      "wsjIssue": "2024 Issue 13"
+    },
+    {
+      "number": 1109,
+      "title": "Interception",
+      "volume": 109,
+      "releaseDate": "2024-03-04",
+      "wsjIssue": "2024 Issue 14"
+    },
+    {
+      "number": 1110,
+      "title": "Starfall",
+      "volume": 109,
+      "releaseDate": "2024-03-18",
+      "wsjIssue": "2024 Issue 16"
+    },
+    {
+      "number": 1111,
+      "title": "Sun-Shield",
+      "volume": 110,
+      "releaseDate": "2024-03-25",
+      "wsjIssue": "2024 Issue 17"
+    },
+    {
+      "number": 1112,
+      "title": "Hard Aspects",
+      "volume": 110,
+      "releaseDate": "2024-04-22",
+      "wsjIssue": "2024 Issue 21"
+    },
+    {
+      "number": 1113,
+      "title": "Stalemate",
+      "volume": 110,
+      "releaseDate": "2024-04-29",
+      "wsjIssue": "2024 Issue 22-23"
+    },
+    {
+      "number": 1114,
+      "title": "The Wings of Icarus",
+      "volume": 110,
+      "releaseDate": "2024-05-13",
+      "wsjIssue": "2024 Issue 24"
+    },
+    {
+      "number": 1115,
+      "title": "Pieces of a Continent",
+      "volume": 110,
+      "releaseDate": "2024-05-27",
+      "wsjIssue": "2024 Issue 26"
+    },
+    {
+      "number": 1116,
+      "title": "Inner Conflict",
+      "volume": 110,
+      "releaseDate": "2024-06-03",
+      "wsjIssue": "2024 Issue 27"
+    },
+    {
+      "number": 1117,
+      "title": "A",
+      "volume": 110,
+      "releaseDate": "2024-06-17",
+      "wsjIssue": "2024 Issue 29"
+    },
+    {
+      "number": 1118,
+      "title": "The Most Free",
+      "volume": 110,
+      "releaseDate": "2024-06-24",
+      "wsjIssue": "2024 Issue 30"
+    },
+    {
+      "number": 1119,
+      "title": "Emet",
+      "volume": 110,
+      "releaseDate": "2024-07-01",
+      "wsjIssue": "2024 Issue 31"
+    },
+    {
+      "number": 1120,
+      "title": "Atlas",
+      "volume": 110,
+      "releaseDate": "2024-07-15",
+      "wsjIssue": "2024 Issue 33"
+    },
+    {
+      "number": 1121,
+      "title": "The Upheaval of the Era",
+      "volume": 110,
+      "releaseDate": "2024-07-22",
+      "wsjIssue": "2024 Issue 34"
+    },
+    {
+      "number": 1122,
+      "title": "Time Is Right",
+      "volume": 111,
+      "releaseDate": "2024-08-05",
+      "wsjIssue": "2024 Issue 36-37"
+    },
+    {
+      "number": 1123,
+      "title": "The Void Fortnight",
+      "volume": 111,
+      "releaseDate": "2024-08-19",
+      "wsjIssue": "2024 Issue 38"
+    },
+    {
+      "number": 1124,
+      "title": "Close Friend",
+      "volume": 111,
+      "releaseDate": "2024-08-26",
+      "wsjIssue": "2024 Issue 39"
+    },
+    {
+      "number": 1125,
+      "title": "What Death Means",
+      "volume": 111,
+      "releaseDate": "2024-09-09",
+      "wsjIssue": "2024 Issue 41"
+    },
+    {
+      "number": 1126,
+      "title": "Settling the Score",
+      "volume": 111,
+      "releaseDate": "2024-09-16",
+      "wsjIssue": "2024 Issue 42"
+    },
+    {
+      "number": 1127,
+      "title": "Adventure in the Land of Mystery",
+      "volume": 111,
+      "releaseDate": "2024-09-23",
+      "wsjIssue": "2024 Issue 43"
+    },
+    {
+      "number": 1128,
+      "title": "RPG",
+      "volume": 111,
+      "releaseDate": "2024-10-07",
+      "wsjIssue": "2024 Issue 45"
+    },
+    {
+      "number": 1129,
+      "title": "Livedolls",
+      "volume": 111,
+      "releaseDate": "2024-10-14",
+      "wsjIssue": "2024 Issue 46"
+    },
+    {
+      "number": 1130,
+      "title": "The Accursed Prince",
+      "volume": 111,
+      "releaseDate": "2024-10-21",
+      "wsjIssue": "2024 Issue 47"
+    },
+    {
+      "number": 1131,
+      "title": "Loki in the Underworld",
+      "volume": 111,
+      "releaseDate": "2024-11-11",
+      "wsjIssue": "2024 Issue 50"
+    },
+    {
+      "number": 1132,
+      "title": "Adventure in Elbaph",
+      "volume": 111,
+      "releaseDate": "2024-12-02",
+      "wsjIssue": "2025 Issue 1"
+    },
+    {
+      "number": 1133,
+      "title": "Nice Things",
+      "volume": 111,
+      "releaseDate": "2024-12-09",
+      "wsjIssue": "2025 Issue 2"
+    },
+    {
+      "number": 1134,
+      "title": "The Owl Library",
+      "volume": 112,
+      "releaseDate": "2024-12-23",
+      "wsjIssue": "2025 Issue 4-5"
+    },
+    {
+      "number": 1135,
+      "title": "Friends' Cups",
+      "volume": 112,
+      "releaseDate": "2025-01-04",
+      "wsjIssue": "2025 Issue 6-7"
+    },
+    {
+      "number": 1136,
+      "title": "The Land That Awaits the Sun",
+      "volume": 112,
+      "releaseDate": "2025-01-20",
+      "wsjIssue": "2025 Issue 8"
+    },
+    {
+      "number": 1137,
+      "title": "Introducing Shamrock",
+      "volume": 112,
+      "releaseDate": "2025-01-27",
+      "wsjIssue": "2025 Issue 9"
+    },
+    {
+      "number": 1138,
+      "title": "The Harley",
+      "volume": 112,
+      "releaseDate": "2025-02-03",
+      "wsjIssue": "2025 Issue 10"
+    },
+    {
+      "number": 1139,
+      "title": "Mountain-Eater",
+      "volume": 112,
+      "releaseDate": "2025-02-10",
+      "wsjIssue": "2025 Issue 11"
+    },
+    {
+      "number": 1140,
+      "title": "Scopper Gaban",
+      "volume": 112,
+      "releaseDate": "2025-02-24",
+      "wsjIssue": "2025 Issue 13"
+    },
+    {
+      "number": 1141,
+      "title": "An Older Woman",
+      "volume": 112,
+      "releaseDate": "2025-03-03",
+      "wsjIssue": "2025 Issue 14"
+    },
+    {
+      "number": 1142,
+      "title": "What I'm Afraid Of",
+      "volume": 112,
+      "releaseDate": "2025-03-10",
+      "wsjIssue": "2025 Issue 15"
+    },
+    {
+      "number": 1143,
+      "title": "Holy Knights",
+      "volume": 112,
+      "releaseDate": "2025-03-24",
+      "wsjIssue": "2025 Issue 17"
+    },
+    {
+      "number": 1144,
+      "title": "A Time for Warriors",
+      "volume": 112,
+      "releaseDate": "2025-03-31",
+      "wsjIssue": "2025 Issue 18"
+    },
+    {
+      "number": 1145,
+      "title": "Wildfire in Forest Sector 2, Branch Route 8",
+      "volume": 113,
+      "releaseDate": "2025-04-07",
+      "wsjIssue": "2025 Issue 19"
+    },
+    {
+      "number": 1146,
+      "title": "Motion in Stillness",
+      "volume": 113,
+      "releaseDate": "2025-04-21",
+      "wsjIssue": "2025 Issue 21"
+    },
+    {
+      "number": 1147,
+      "title": "What We're Afraid Of",
+      "volume": 113,
+      "releaseDate": "2025-04-28",
+      "wsjIssue": "2025 Issue 22-23"
+    },
+    {
+      "number": 1148,
+      "title": "Ronja",
+      "volume": 113,
+      "releaseDate": "2025-05-12",
+      "wsjIssue": "2025 Issue 24"
+    },
+    {
+      "number": 1149,
+      "title": "One Second",
+      "volume": 113,
+      "releaseDate": "2025-05-26",
+      "wsjIssue": "2025 Issue 26"
+    },
+    {
+      "number": 1150,
+      "title": "Domi Reversi",
+      "volume": 113,
+      "releaseDate": "2025-06-02",
+      "wsjIssue": "2025 Issue 27"
+    },
+    {
+      "number": 1151,
+      "title": "I Get the Idea!!!",
+      "volume": 113,
+      "releaseDate": "2025-06-09",
+      "wsjIssue": "2025 Issue 28"
+    },
+    {
+      "number": 1152,
+      "title": "A Horrible Day",
+      "volume": 113,
+      "releaseDate": "2025-06-23",
+      "wsjIssue": "2025 Issue 30"
+    },
+    {
+      "number": 1153,
+      "title": "The Birth of Loki",
+      "volume": 113,
+      "releaseDate": "2025-06-30",
+      "wsjIssue": "2025 Issue 31"
+    },
+    {
+      "number": 1154,
+      "title": "Can't Even Die",
+      "volume": 113,
+      "releaseDate": "2025-07-14",
+      "wsjIssue": "2025 Issue 33"
+    },
+    {
+      "number": 1155,
+      "title": "The Rocks Pirates",
+      "volume": 113,
+      "releaseDate": "2025-07-21",
+      "wsjIssue": "2025 Issue 34"
+    },
+    {
+      "number": 1156,
+      "title": "Idols",
+      "volume": 114,
+      "releaseDate": "2025-08-04",
+      "wsjIssue": "2025 Issue 36-37"
+    },
+    {
+      "number": 1157,
+      "title": "Legendary Bar",
+      "volume": 114,
+      "releaseDate": "2025-08-18",
+      "wsjIssue": "2025 Issue 38"
+    },
+    {
+      "number": 1158,
+      "title": "Rocks vs. Harald",
+      "volume": 114,
+      "releaseDate": "2025-09-01",
+      "wsjIssue": "2025 Issue 40"
+    },
+    {
+      "number": 1159,
+      "title": "The Island of Fate",
+      "volume": 114,
+      "releaseDate": "2025-09-08",
+      "wsjIssue": "2025 Issue 41"
+    },
+    {
+      "number": 1160,
+      "title": "The God Valley Incident",
+      "volume": 114,
+      "releaseDate": "2025-09-15",
+      "wsjIssue": "2025 Issue 42"
+    },
+    {
+      "number": 1161,
+      "title": "A Song of Love Bound Under a Hail of Arrows",
+      "volume": 114,
+      "releaseDate": "2025-09-29",
+      "wsjIssue": "2025 Issue 44"
+    },
+    {
+      "number": 1162,
+      "title": "God Valley Battle Royale",
+      "volume": 114,
+      "releaseDate": "2025-10-13",
+      "wsjIssue": "2025 Issue 46"
+    },
+    {
+      "number": 1163,
+      "title": "Promise",
+      "volume": 114,
+      "releaseDate": "2025-10-27",
+      "wsjIssue": "2025 Issue 48"
+    },
+    {
+      "number": 1164,
+      "title": "Davy Blood",
+      "volume": 114,
+      "releaseDate": "2025-11-03",
+      "wsjIssue": "2025 Issue 49"
+    },
+    {
+      "number": 1165,
+      "title": "Reverberations",
+      "volume": 114,
+      "releaseDate": "2025-11-10",
+      "wsjIssue": "2025 Issue 50"
+    },
+    {
+      "number": 1166,
+      "title": "New Stories",
+      "volume": 114,
+      "releaseDate": "2025-11-24",
+      "wsjIssue": "2025 Issue 52"
+    },
+    {
+      "number": 1167,
+      "title": "Ida's Sons",
+      "volume": 115,
+      "releaseDate": "2025-12-01",
+      "wsjIssue": "2026 Issue 1"
+    },
+    {
+      "number": 1168,
+      "title": "The Snows of Elbaph",
+      "volume": 115,
+      "releaseDate": "2025-12-08",
+      "wsjIssue": "2026 Issue 2"
+    },
+    {
+      "number": 1169,
+      "title": "My Death Cannot Come Soon Enough",
+      "volume": 115,
+      "releaseDate": "2025-12-22",
+      "wsjIssue": "2026 Issue 4-5"
+    },
+    {
+      "number": 1170,
+      "title": "Contrary",
+      "volume": 115,
+      "releaseDate": "2026-01-05",
+      "wsjIssue": "2026 Issue 6-7"
+    },
+    {
+      "number": 1171,
+      "title": "Ragnir",
+      "volume": 115,
+      "releaseDate": "2026-01-19",
+      "wsjIssue": "2026 Issue 8"
+    },
+    {
+      "number": 1172,
+      "title": "The Elbaph I Dreamed Of",
+      "volume": 115,
+      "releaseDate": "2026-02-02",
+      "wsjIssue": "2026 Issue 10"
+    },
+    {
+      "number": 1173,
+      "title": "Warrior Generation",
+      "volume": 115,
+      "releaseDate": "2026-02-09",
+      "wsjIssue": "2026 Issue 11"
+    },
+    {
+      "number": 1174,
+      "title": "The Strongest Thing in the World",
+      "volume": 115,
+      "releaseDate": "2026-02-16",
+      "wsjIssue": "2026 Issue 12"
+    },
+    {
+      "number": 1175,
+      "title": "Niddhoggr",
+      "volume": 115,
+      "releaseDate": "2026-03-02",
+      "wsjIssue": "2026 Issue 14"
+    },
+    {
+      "number": 1176,
+      "title": "With Pride",
+      "volume": 115,
+      "releaseDate": "2026-03-09",
+      "wsjIssue": "2026 Issue 15"
+    },
+    {
+      "number": 1177,
+      "title": "Furious",
+      "volume": 115,
+      "releaseDate": "2026-03-23",
+      "wsjIssue": "2026 Issue 17"
+    },
+    {
+      "number": 1178,
+      "title": "Waking From a Nightmare",
+      "volume": 115,
+      "releaseDate": "2026-03-30",
+      "wsjIssue": "2026 Issue 18"
+    },
+    {
+      "number": 1179,
+      "title": "Nerona Imu Descends",
+      "volume": 115,
+      "releaseDate": "2026-04-06",
+      "wsjIssue": "2026 Issue 19"
+    },
+    {
+      "number": 1180,
+      "title": "Omen",
+      "volume": null,
+      "releaseDate": "2026-04-20",
+      "wsjIssue": "2026 Issue 21"
+    },
+    {
+      "number": 1181,
+      "title": "God and Devil",
+      "volume": null,
+      "releaseDate": "2026-04-27",
+      "wsjIssue": "2026 Issue 22-23"
+    },
+    {
+      "number": 1182,
+      "title": "Zaza",
+      "volume": null,
+      "releaseDate": "2026-05-11",
+      "wsjIssue": "2026 Issue 24"
+    },
+    {
+      "number": 1183,
+      "title": "Good Morn-Maid",
+      "volume": null,
+      "releaseDate": "2026-05-25",
+      "wsjIssue": "2026 Issue 26"
+    },
+    {
+      "number": 1184,
+      "title": "We're All Bones When We Die",
+      "volume": null,
+      "releaseDate": "2026-06-01",
+      "wsjIssue": "2026 Issue 27"
+    },
+    {
+      "number": 1185,
+      "title": "Mindja Own Beeswax",
+      "volume": null,
+      "releaseDate": "2026-06-15",
+      "wsjIssue": "2026 Issue 29"
+    },
+    {
+      "number": 1186,
+      "title": "One More Time",
+      "volume": null,
+      "releaseDate": "2026-06-29",
+      "wsjIssue": "2026 Issue 31"
+    },
+    {
+      "number": 1187,
+      "title": "The Root of the Problem",
+      "volume": null,
+      "releaseDate": "2026-07-06",
+      "wsjIssue": "2026 Issue 32"
+    },
+    {
+      "number": 1188,
+      "title": "Vohu",
+      "volume": null,
+      "releaseDate": "2026-07-13",
+      "wsjIssue": "2026 Issue 33"
+    },
+    {
+      "number": 1189,
+      "title": "King of the World",
+      "volume": null,
+      "releaseDate": "2026-07-27",
+      "wsjIssue": "2026 Issue 35"
+    },
+    {
+      "number": 1190,
+      "title": "Those Whose Death Brings Celebration",
+      "volume": null,
+      "releaseDate": "2026-08-10",
+      "wsjIssue": "2026 Issue 37-38"
+    },
+    {
+      "number": 1191,
+      "title": "There's Still Loki",
+      "volume": null,
+      "releaseDate": "2026-08-24",
+      "wsjIssue": "2026 Issue 39"
+    },
+    {
+      "number": 1192,
+      "title": "We Won't Stand For It!!!",
+      "volume": null,
+      "releaseDate": "2026-09-07",
+      "wsjIssue": "2026 Issue 41"
+    },
+    {
+      "number": 1193,
+      "title": "Still Practicing",
+      "volume": null,
+      "releaseDate": "2026-09-14",
+      "wsjIssue": "2026 Issue 42-43"
+    },
+    {
+      "number": 1194,
+      "title": "All Things Are In Flux",
+      "volume": null,
+      "releaseDate": "2026-09-28",
+      "wsjIssue": "2026 Issue 44"
+    },
+    {
+      "number": 1195,
+      "title": "Weakness",
+      "volume": null,
+      "releaseDate": "2026-10-12",
+      "wsjIssue": "2026 Issue 46"
+    },
+    {
+      "number": 1196,
+      "title": "TBA",
+      "volume": null,
+      "releaseDate": "2026-10-19",
+      "wsjIssue": "2026 Issue 47"
+    }
+  ]
+}
