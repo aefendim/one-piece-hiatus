@@ -63,3 +63,10 @@ The workflow in `.github/workflows/update.yml`:
 
 Chapter data © the [One Piece Wiki](https://onepiece.fandom.com) community
 (CC BY-SA). This project is an unofficial fan-made chart.
+
+## How this was built
+
+In the interest of transparency: this project was "vibecoded" — designed and
+implemented collaboratively with **Claude Code** (Anthropic's AI coding agent),
+with direction and review from a human. The scraper, chart logic, UI, and
+deployment workflow were written with its assistance.
