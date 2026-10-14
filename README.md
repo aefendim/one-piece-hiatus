@@ -59,10 +59,18 @@ The workflow in `.github/workflows/update.yml`:
 3. The workflow sets `VITE_BASE` to `/<repo-name>/` automatically for project pages.
    If you use a custom domain or a `user.github.io` repo, change `VITE_BASE` to `/`.
 
+## License
+
+- **Code** (scraper, UI, chart logic, workflow): [MIT](./LICENSE) © aefendim.
+- **Data** (`public/data/`): derived from the
+  [One Piece Wiki](https://onepiece.fandom.com) and licensed under
+  **CC BY-SA 3.0** — attribution and share-alike apply to the chapter data,
+  independent of the code license.
+
 ## Data source & attribution
 
 Chapter data © the [One Piece Wiki](https://onepiece.fandom.com) community
-(CC BY-SA). This project is an unofficial fan-made chart.
+(CC BY-SA 3.0). This project is an unofficial fan-made chart.
 
 ## How this was built
 
