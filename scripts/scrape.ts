@@ -32,6 +32,26 @@ const DELAY_MS = 350;
 const MAX_RETRIES = 3;
 const SAFETY_CAP = 3000; // absolute upper bound on chapter number
 
+// A title is considered "missing" (worth re-checking) when it is empty or a
+// placeholder the wiki uses for not-yet-announced chapters.
+const PLACEHOLDER_TITLES = new Set(["", "tba", "n/a", "tbd", "unknown"]);
+const isMissingTitle = (title: string | null | undefined): boolean =>
+  PLACEHOLDER_TITLES.has((title ?? "").trim().toLowerCase());
+
+// Volume re-crawl trigger ("backlog growing").
+//
+// Recently-released chapters legitimately have no tankobon volume yet, so we
+// don't want those to trigger a re-crawl. A One Piece volume collects ~10
+// chapters roughly every 3-4 months, so a chapter normally gets a volume within
+// a few months. We only treat a null-volume chapter as "overdue" once it is
+// older than VOLUME_MATURITY_WEEKS, and we only re-crawl once the backlog of
+// overdue chapters reaches VOLUME_REFRESH_THRESHOLD. When it fires we re-crawl
+// ALL null-volume chapters (overdue and not), since newer ones may have been
+// assigned too.
+const VOLUME_REFRESH_THRESHOLD = 20;
+const VOLUME_MATURITY_WEEKS = 16;
+const MS_PER_WEEK = 7 * 24 * 60 * 60 * 1000;
+
 interface Chapter {
   number: number;
   title: string;
@@ -141,6 +161,66 @@ async function loadExisting(): Promise<Chapter[]> {
   }
 }
 
+/**
+ * Re-fetch a set of already-known chapters and merge any newly-available
+ * fields back in. Used to pick up titles that were "TBA" and volumes that
+ * hadn't been assigned yet when the chapter first released.
+ *
+ * Returns the number of chapters that actually changed.
+ */
+async function refreshChapters(
+  chapters: Chapter[],
+  numbers: number[],
+  reason: string
+): Promise<number> {
+  if (numbers.length === 0) return 0;
+
+  const byNumber = new Map(chapters.map((c) => [c.number, c]));
+  let updated = 0;
+
+  console.log(`Re-checking ${numbers.length} chapter(s) for ${reason}...`);
+
+  for (const n of numbers) {
+    const existing = byNumber.get(n);
+    if (!existing) continue;
+
+    const json = await fetchParse(`Chapter_${n}`);
+    await sleep(DELAY_MS);
+    if (json === null) continue; // page vanished/renamed; leave as-is
+
+    const html: string = json.parse?.text?.["*"] ?? "";
+    const fresh = extractChapter(n, html);
+    if (!fresh) continue; // e.g. release date no longer parseable; leave as-is
+
+    const changes: string[] = [];
+
+    // Fill in / correct a title that was previously a placeholder.
+    if (isMissingTitle(existing.title) && !isMissingTitle(fresh.title)) {
+      existing.title = fresh.title;
+      changes.push(`title -> "${fresh.title}"`);
+    }
+
+    // Fill in a volume that wasn't assigned yet.
+    if (existing.volume === null && fresh.volume !== null) {
+      existing.volume = fresh.volume;
+      changes.push(`volume -> ${fresh.volume}`);
+    }
+
+    // Backfill a WSJ issue if it only became available later.
+    if (!existing.wsjIssue && fresh.wsjIssue) {
+      existing.wsjIssue = fresh.wsjIssue;
+      changes.push(`wsjIssue -> "${fresh.wsjIssue}"`);
+    }
+
+    if (changes.length > 0) {
+      updated++;
+      console.log(`  Chapter ${n}: ${changes.join(", ")}`);
+    }
+  }
+
+  return updated;
+}
+
 async function main() {
   const full = process.argv.includes("--full");
 
@@ -153,6 +233,42 @@ async function main() {
       ? "Full rebuild starting from chapter 1..."
       : `Incremental scrape: ${chapters.length} known, resuming at chapter ${n}...`
   );
+
+  let refreshed = 0;
+
+  if (!full) {
+    // 1) Re-check chapters that still have a placeholder ("TBA") title to see
+    //    if the wiki has since filled in a proper title.
+    const tbaNumbers = chapters
+      .filter((c) => isMissingTitle(c.title))
+      .map((c) => c.number);
+    refreshed += await refreshChapters(chapters, tbaNumbers, "TBA titles");
+
+    // 2) Re-check null-volume chapters when the backlog of *overdue* ones (old
+    //    enough that a volume should normally exist) has grown past the
+    //    threshold. Recent chapters still pending a volume don't count toward
+    //    the trigger, but once it fires we re-crawl every null-volume chapter.
+    const now = Date.now();
+    const noVolume = chapters.filter((c) => c.volume === null);
+    const overdue = noVolume.filter((c) => {
+      // releaseDate is a stored "YYYY-MM-DD" string (parsed as UTC midnight).
+      const releasedMs = Date.parse(c.releaseDate);
+      if (Number.isNaN(releasedMs)) return false;
+      return now - releasedMs >= VOLUME_MATURITY_WEEKS * MS_PER_WEEK;
+    });
+
+    if (overdue.length >= VOLUME_REFRESH_THRESHOLD) {
+      refreshed += await refreshChapters(
+        chapters,
+        noVolume.map((c) => c.number),
+        `missing volumes (${overdue.length} overdue >= ${VOLUME_REFRESH_THRESHOLD}; ${noVolume.length} total null)`
+      );
+    } else if (noVolume.length > 0) {
+      console.log(
+        `Skipping volume re-check: ${overdue.length} overdue chapter(s) without a volume (need ${VOLUME_REFRESH_THRESHOLD}; ${noVolume.length} total null).`
+      );
+    }
+  }
 
   // Allow a couple of misses before giving up (handles numbering gaps).
   let consecutiveMisses = 0;
@@ -199,7 +315,7 @@ async function main() {
   await writeOutput(chapters);
 
   console.log(
-    `\nDone. Added ${added} chapter(s). Total ${chapters.length}, latest #${latest}.`
+    `\nDone. Added ${added} chapter(s), updated ${refreshed} existing chapter(s). Total ${chapters.length}, latest #${latest}.`
   );
   console.log(`Wrote ${DATA_PATH}`);
 }

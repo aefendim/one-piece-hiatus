@@ -11,9 +11,11 @@ import {
  *
  * - "released": a chapter maps to this week.
  * - "planned":  a chapter maps to this week, but its release date is still ahead.
- * - "hiatus":  a week inside the active span with no chapter (a break).
+ * - "hiatus":  an empty week inside the active span (a break). This includes
+ *              empty weeks between "now" and a known, already-scheduled upcoming
+ *              chapter -- those in-between weeks are a planned hiatus.
  * - "pre":      before the first chapter.
- * - "future":   after the latest occurred week (not yet happened).
+ * - "future":   after the last known/scheduled chapter (truly unknown).
  */
 export function buildChart(
   chapters: Chapter[],
@@ -42,6 +44,16 @@ export function buildChart(
   const last = getISOWeek(parseISODate(sorted[sorted.length - 1].releaseDate));
   const endYear = Math.max(nowWeek.isoYear, startYear, last.isoYear);
 
+  // The active span extends to whichever is later: the current week or the last
+  // chapter we already know about (an upcoming chapter with a known date).
+  // Empty weeks up to this boundary count as hiatus; weeks beyond it are the
+  // genuinely-unknown future.
+  const activeEnd =
+    last.isoYear > nowWeek.isoYear ||
+    (last.isoYear === nowWeek.isoYear && last.isoWeek > nowWeek.isoWeek)
+      ? last
+      : nowWeek;
+
   const rows: YearRow[] = [];
   for (let year = startYear; year <= endYear; year++) {
     const totalWeeks = isoWeeksInYear(year);
@@ -63,8 +75,8 @@ export function buildChart(
       ) {
         state = "pre";
       } else if (
-        year > nowWeek.isoYear ||
-        (year === nowWeek.isoYear && week > nowWeek.isoWeek)
+        year > activeEnd.isoYear ||
+        (year === activeEnd.isoYear && week > activeEnd.isoWeek)
       ) {
         state = "future";
       } else {
@@ -94,6 +106,11 @@ export function computeStats(
 
   const flat = rows.flatMap((r) => r.weeks);
   for (const cell of flat) {
+    // Only count weeks that have actually elapsed. A planned hiatus leading up
+    // to a scheduled upcoming chapter is drawn on the chart but shouldn't
+    // inflate the historical hiatus stats until those weeks have passed.
+    if (cell.weekStart > now) continue;
+
     if (cell.state === "released") {
       releasedWeeks++;
       currentStreak = 0;
