@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-11-02",
-    "latestChapter": 1198,
-    "totalChapters": 1198
+    "lastUpdated": "2026-11-09",
+    "latestChapter": 1199,
+    "totalChapters": 1199
   },
   "chapters": [
     {
@@ -8386,10 +8386,17 @@
     },
     {
       "number": 1198,
-      "title": "TBA",
+      "title": "Island of Monsters",
       "volume": null,
       "releaseDate": "2026-11-09",
       "wsjIssue": "2026 Issue 50"
+    },
+    {
+      "number": 1199,
+      "title": "TBA",
+      "volume": null,
+      "releaseDate": "2026-11-23",
+      "wsjIssue": "2026 Issue 52"
     }
   ]
 }
